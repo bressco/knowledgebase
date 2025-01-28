@@ -1,6 +1,6 @@
 # Project configuration
 site_name: FAIRagro Knowledgebase
-#site_url: https://fairagro.github.io/knowledgebase
+site_url: https://fairagro.github.io/knowledgebase
 copyright: Copyright &copy; 2025 FAIRagro
 
 # Navigation Header
