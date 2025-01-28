@@ -12,7 +12,7 @@ nav:
         - Repositorien: data_repositories.md
         - Recht im FDM: legal.md
     - Guidelines:
-        - Leitfaden Data Handling: guidelines/data_handlilng.md
+        - Leitfaden Data Handling: guidelines/data_handling.md
         - Leitfaden Projekt Planung: guidelines/project_planning.md
     - Trainingsmaterialien: training_material.md
     - Sonstiges: 
@@ -22,5 +22,18 @@ nav:
 
 # Theme configuration
 theme:
-
-    
+    name: material
+    logo: assets/logo.png
+    favicon: favicon.ico
+    features:
+        # navigation
+        - navigation.tabs
+        - navigation.tabs.sticky
+        - navigation.path
+        - navigation.sections
+        - navigation.indexes
+        - navigation.top 
+        - navigation.tracking
+        # toc
+        - toc.integrate 
+        - toc.follow
