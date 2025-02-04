@@ -38,3 +38,7 @@ theme:
         # toc
         - toc.integrate 
         - toc.follow
+    #color scheme
+    palette:
+        primary: green
+        accent: amber
