@@ -4,22 +4,22 @@ site_url: https://fairagro.github.io/knowledgebase
 copyright: Copyright &copy; 2025 FAIRagro
 
 # Navigation Header
-nav:
-    - Home: index.md
-    - FDM Themen:
-        - FDM allgemein: general.md
-        - Agrarspezifische Daten: specific_data.md
-        - Repositorien: data_repositories.md
-        - Recht im FDM: legal.md
-    - FAIRagro Tools & Services: tools.md
-    - Guidelines:
-        - Leitfaden Data Handling: guidelines/data_handling.md
-        - Leitfaden Projekt Planung: guidelines/project_planning.md
-    - Trainingsmaterialien: training_material.md
-    - Sonstiges: 
-        - Interessante Projekte: projects.md
-        - Links: links.md
-    - FAIRagro Website: https://fairagro.net
+#nav:
+#    - Home: index.md
+#    - FDM Themen:
+#        - FDM allgemein: general.md
+#        - Agrarspezifische Daten: specific_data.md
+#        - Repositorien: data_repositories.md
+#        - Recht im FDM: legal.md
+#    - FAIRagro Tools & Services: tools.md
+#    - Guidelines:
+#        - Leitfaden Data Handling: guidelines/data_handling.md
+#        - Leitfaden Projekt Planung: guidelines/project_planning.md
+#    - Trainingsmaterialien: training_material.md
+#    - Sonstiges: 
+#        - Interessante Projekte: projects.md
+#        - Links: links.md
+#    - FAIRagro Website: https://fairagro.net
 
 # Theme configuration
 theme:
@@ -28,6 +28,9 @@ theme:
     favicon: assets/favicon.png
     features:
         # navigation
+        - navigation.instant
+        - navigation.instant.prefetch
+        - navigation.instant.progress
         - navigation.tabs
         - navigation.tabs.sticky
         - navigation.path
