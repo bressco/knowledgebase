@@ -45,6 +45,7 @@ theme:
     palette:
         primary: green
         accent: amber
+    language: de
 
 # Language settings
 extra:
