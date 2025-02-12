@@ -42,3 +42,13 @@ theme:
     palette:
         primary: green
         accent: amber
+
+# Language settings
+extra:
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: Deutsch
+      link: /de/
+      lang: de
