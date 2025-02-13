@@ -1,4 +1,4 @@
-# Agrarspezifische Daten
+# Agrarspezifische Daten - English
 
 ## Typen von Daten
 
