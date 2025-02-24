@@ -7,6 +7,7 @@ Here you will find content on the following topics:
 - Agricultural RDM
 	- [Agriculture-specific Data](rdm/specific_data.en.md)
 	- [Repositories](rdm/data_repositories.en.md)
+	- [Publishing Code FAIR](rdm/fair_code.en.md)
 	- [Legal topics in RDM](rdm/legal.en.md)
 	- [Guideline Data Handling](rdm/data_handling.en.md)
 	- [Guideline Project Planning](rdm/project_planning.en.md)
