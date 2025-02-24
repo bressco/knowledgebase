@@ -1,7 +1,5 @@
 # FAIRagro Knowledgebase
 
-**-- Diese Seite befindet sich derzeit im Aufbau! --**
-
 _Herzlich Willkommen in der FAIRagro Knowledgebase!_
 
 Hier findet ihr Inhalte zu den folgenden Themen:
