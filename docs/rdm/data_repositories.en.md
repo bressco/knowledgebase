@@ -18,7 +18,4 @@ Furthermore, each repo has a short description, lists type of resources, as well
 _Have we missed something?_  
 For feedback, additional suggestions, requests for changes or other important columns, please contact us at our [helpdesk](mailto:dataservice@fairagro.net).
 
-_Haben wir etwas übersehen?  
-Für Feedback, zusätzliche Vorschläge, Änderungswünsche oder weitere wichtige Spalten kontaktieren Sie uns gern über unseren [Helpdesk].
-
 [Link to the Document (Zenodo)](https://zenodo.org/records/11144471)
