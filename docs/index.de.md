@@ -7,6 +7,7 @@ Hier findet ihr Inhalte zu den folgenden Themen:
 - FDM Agrar
 	- [Agrarspezifische Daten](rdm/specific_data.de.md)
 	- [Repositorien](rdm/data_repositories.de.md)
+	- [FAIRe Code-Veröffentlichung](rdm/fair_code.de.md)
 	- [Recht im FDM](rdm/legal.de.md)
 	- [Leitfaden Data Handling](rdm/data_handling.de.md)
 	- [Leitfaden Projektplanung](rdm/project_planning.de.md)
