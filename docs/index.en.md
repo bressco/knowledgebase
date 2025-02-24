@@ -1,7 +1,5 @@
 # FAIRagro Knowledgebase
 
-**-- This page is currently under construction! --**
-
 _Welcome to the FAIRagro Knowledgebase!_
 
 Here you will find content on the following topics:
