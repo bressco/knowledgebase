@@ -1,17 +1,18 @@
-# Leitfaden Projekt planen
+# Guideline Project Planning
 
-Datenmanagementplan, Beispiele hier: [DataPlan](https://www.nfdi4plants.de/dataplan) oder hier [RDMO](https://rdmo.aip.de), mit einem guten Kurzüberblick auch hier: [DMP Guide (USDA)](https://www.nal.usda.gov/data/data-management-plan-guidance)
+Datamanagementplan, Examles: [DataPlan](https://www.nfdi4plants.de/dataplan) or [RDMO](https://rdmo.aip.de), with a good and short overview also [DMP Guide (USDA)](https://www.nal.usda.gov/data/data-management-plan-guidance)
 
-Wenn man dies nicht für Geldgeber braucht ist man recht frei in der Gestaltung und kann den Detailgrad frei bestimmen.
+If you do not need this for financial partners, you are quite free in the design and can freely determine the level of detail.
 
-Fragen, über die man sich im Klaren werden kann können beinhalten:
-- Welche Daten brauche ich und woher bekomme ich sie? Darf ich sie wiederverwenden?
-- Mit welchen Tools will ich die Daten analysieren, wo speichere ich vorläufige Daten?
-- Welche Daten will ich final erzeugen? Wo kann ich diese veröffentlichen (Repositorium)? Werden sie dort von der Community gefunden (Verlinkungen von Repo zu Repo sind möglich)? Gibt es Einschränkungen, z.B. personenbezogenen Daten? Welche Lizenz vergebe ich? (kleiner Überblick: [https://creativecommons.org/share-your-work/cclicenses/](file:///C:\Users\schmidtm\AppData\Local\Temp\msohtmlclip1\01\clip_filelist.xml))
-- Welches Modell soll ich verwenden?
+Questions that you can be clear about can include:
 
-Hier lohnt es sich zu schauen was in der Community verbreitet, frei verfügbar und gut beschreibbar ist.
+- What data do I need and where do I get it from? Can I reuse it?
+- Which tools do I want to use to analyse the data, where do I store preliminary data?
+- Which data do I want to generate finally? Where can I publish it (repository)? Will they be found there by the community (links from repo to repo are possible)? Are there any restrictions, e.g. personal data? Which licence do I grant? (short overview: [https://creativecommons.org/share-your-work/cclicenses/](https://creativecommons.org/share-your-work/cclicenses/))
+- Which model should I use?
 
-Kann/will ich Geobezug herstellen, z.B. im [BonaRes-Repo](https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en)
+Here it is worth looking at what is widespread in the community, freely available and easy to describe.
 
-Weitere Repoempfehlungen auch hier: \[INTERNER LINK IN DER KNOWLEDGE BASE\]
+Can/will I create a geo-reference, e.g. in the [BonaRes repo](https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en)?
+
+For further repo recommendations, see also [‘Repositories’](data_repositories.de.md) here in our knowledgebase.
