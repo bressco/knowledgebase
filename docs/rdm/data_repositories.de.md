@@ -18,4 +18,4 @@ Des Weiteren gibt es für jedes Repo eine Kurzbeschreibung, eine Zusammenfassung
 _Haben wir etwas übersehen?_  
 Für Feedback, zusätzliche Vorschläge, Änderungswünsche oder weitere wichtige Spalten kontaktieren Sie uns gern über unseren [Helpdesk](mailto:dataservice@fairagro.net).
 
-[Link zur Liste auf Zenodo](https://zenodo.org/records/11144471)
+[Link zum Dokument (Zenodo)](https://zenodo.org/records/11144471)
