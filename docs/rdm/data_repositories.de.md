@@ -15,7 +15,7 @@ Innerhalb dieser zwei Blöcke orientiert sich die Reihenfolge der Repos v.a. an 
 
 Des Weiteren gibt es für jedes Repo eine Kurzbeschreibung, eine Zusammenfassung der Art der Ressourcen, sowie Infos zu möglichen Lizenzen und Besonderheiten.
 
-Haben wir etwas übersehen?  
+_Haben wir etwas übersehen?_  
 Für Feedback, zusätzliche Vorschläge, Änderungswünsche oder weitere wichtige Spalten kontaktieren Sie uns gern über unseren [Helpdesk](mailto:dataservice@fairagro.net).
 
 [Link zur Liste auf Zenodo](https://zenodo.org/records/11144471)
