@@ -1,8 +1,10 @@
-# Weitere Links
+# Links & weiterführende Informationen
 
-[FAIRagro Helpdesk](https://fairagro.net/helpdesk)
+Sämtliche Fragen rund ums Thema FDM, insbesondere in den Agrarwissenenschaften, sowie Feedback, zusätzliche Vorschläge und Änderungswünsche zur Knowledgebase nehmen wir beim [FAIRagro Helpdesk](https://fairagro.net/helpdesk) gerne entgegen ([Website](https://fairagro.net/helpdesk) oder [Mail](mailto:dataservice@fairagro.net)).
 
-[Link 2](https://fairagro.net/helpdesk)
 
-[Link 3](https://fairagro.net/helpdesk)
+## Weitere Knowledgebases im NFDI Geo-Chem-Lifescience-Cluster
 
+- [NFDI4Biodiversity]()
+- [NFDI4Earth]()
+- [NFDI4Microbiota]()
