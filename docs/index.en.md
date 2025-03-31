@@ -2,7 +2,11 @@
 
 _Welcome to the FAIRagro Knowledgebase!_
 
-Here you will find content on the following topics:
+If you would like to know more about the FAIRagro project, please have a look at our [website](https://fairagro.net/en).
+
+
+## Topics
+In our Knowledgebase you will find content on the following topics:
 
 - [Basics of RDM](basics.en.md)
 - Agriculture-specific RDM
@@ -18,17 +22,12 @@ Here you will find content on the following topics:
 - [Training Material](training_material.en.md)
 - [FAIRagro Tools & Services](tools.en.md)
 
-If you would like to know more about the FAIRagro project, please have a look at our [website](https://fairagro.net/en).
-
-
 
 ## Questions & Comments
-The FAIRagro Knowledgebase is operated by the FAIRagro DSSC (Data Steward Service Center).
+_Are there any questions left unanswered or do you have any other comments?_
 
-Are there any questions left unanswered or do you have any other comments?
-We look forward to hearing from you:  [dataservice@fairagro.net](mailto:dataservice@fairagro.net).
+Please get in contact with our [FAIRagro Helpdesk](https://fairagro.net/en/helpdesk)! We look forward to hearing from you.
 
 
 ## Contact
-
---Add contact information--
+The FAIRagro Knowledgebase is operated by the FAIRagro DSSC (Data Steward Service Center, [dataservice@fairagro.net](mailto:dataservice@fairagro.net)).

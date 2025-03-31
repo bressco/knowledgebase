@@ -2,7 +2,11 @@
 
 _Herzlich Willkommen in der FAIRagro Knowledgebase!_
 
-Hier findet ihr Inhalte zu den folgenden Themen:
+Wenn ihr mehr über das Projekt FAIRagro wissen wollt, schaut auch gerne auf unsere [Website](https://fairagro.net).
+
+
+## Themen
+In unserer Knowledgebase findet ihr Inhalte zu den folgenden Themen:
 
 - [Grundlagen des FDM](basics.de.md)
 - Agrarspezifisches FDM
@@ -18,17 +22,12 @@ Hier findet ihr Inhalte zu den folgenden Themen:
 - [Trainingsmaterialien](training_material.de.md)
 - [FAIRagro Tools & Services](tools.de.md)
 
-Wenn ihr mehr über das Projekt FAIRagro wissen wollt, schaut auch gerne auf unsere [Website](https://fairagro.net).
-
-
 
 ## Fragen & Anmerkungen
-Die FAIRagro Knowledgebase wird betrieben vom FAIRagro DSSC (Data Steward Service Center).
+_Sind noch Fragen offen geblieben oder habt ihr sonstige Anmerkungen?_
 
-Sind noch Fragen offen geblieben oder habt ihr sonstige Anmerkungen?
-Wir freuen uns von euch zu hören: [dataservice@fairagro.net](mailto:dataservice@fairagro.net).
+Wendet euch gerne an unseren [FAIRagro Helpdesk](https://fairagro.net/helpdesk)! Wir freuen uns von euch zu hören.
 
 
 ## Kontakt
-
---Kontaktinfo einfügen--
+Die FAIRagro Knowledgebase wird betrieben vom FAIRagro DSSC (Data Steward Service Center, [dataservice@fairagro.net](mailto:dataservice@fairagro.net)).
