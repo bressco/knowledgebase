@@ -4,7 +4,8 @@ _Herzlich Willkommen in der FAIRagro Knowledgebase!_
 
 Hier findet ihr Inhalte zu den folgenden Themen:
 
-- FDM Agrar
+- [Grundlagen des FDM](basics.de.md)
+- Agrarspezifisches FDM
 	- [Agrarspezifische Daten](rdm/specific_data.de.md)
 	- [Repositorien](rdm/data_repositories.de.md)
 	- [FAIRe Code-Veröffentlichung](rdm/fair_code.de.md)
