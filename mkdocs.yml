@@ -6,8 +6,8 @@ copyright: Copyright &copy; 2025 FAIRagro
 # Navigation Header Deutsch (English Override -> language settings)
 nav:
     - Home: index.de.md
-    - FDM Agrar:
-        - index.de.md
+    - Grundlagen des FDM: basics.de.md
+    - Agrarspezifisches FDM:
         - Agrarspezifische Daten: rdm/specific_data.de.md
         - Repositorien: rdm/data_repositories.de.md
         - FAIRe Code-Veröffentlichung: rdm/fair_code.de.md
@@ -63,8 +63,8 @@ plugins:
           # English navigation
           nav:
             - Home: index.en.md
-            - Agricultural RDM:
-                - index.en.md
+            - Basics of RDM: basics.en.md
+            - Agriculture-specific RDM:
                 - Agriculture-specific Data: rdm/specific_data.en.md
                 - Repositories: rdm/data_repositories.en.md
                 - Publishing Code FAIR: rdm/fair_code.en.md
