@@ -16,11 +16,11 @@ In our Knowledgebase you will find content on the following topics:
 	- [Legal topics in RDM](rdm/legal.en.md)
 	- [Guideline Data Handling](rdm/data_handling.en.md)
 	- [Guideline Project Planning](rdm/project_planning.en.md)
-	- Other
-		- [Interesting Projects](rdm/projects.en.md)
-		- [Links](rdm/links.en.md)
 - [Training Material](training_material.en.md)
 - [FAIRagro Tools & Services](tools.en.md)
+- Other
+	- [Interesting Projects](projects.en.md)
+	- [Links](links.en.md)
 
 
 ## Questions & Comments

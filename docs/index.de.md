@@ -16,11 +16,11 @@ In unserer Knowledgebase findet ihr Inhalte zu den folgenden Themen:
 	- [Recht im FDM](rdm/legal.de.md)
 	- [Leitfaden Data Handling](rdm/data_handling.de.md)
 	- [Leitfaden Projektplanung](rdm/project_planning.de.md)
-	- Sonstiges
-		- [Interessante Projekte](rdm/projects.de.md)
-		- [Links](rdm/links.de.md)
 - [Trainingsmaterialien](training_material.de.md)
 - [FAIRagro Tools & Services](tools.de.md)
+- Sonstiges
+	- [Interessante Projekte](projects.de.md)
+	- [Links](links.de.md)
 
 
 ## Fragen & Anmerkungen

@@ -14,11 +14,11 @@ nav:
         - Recht im FDM: rdm/legal.de.md
         - Leitfaden Data Handling: rdm/data_handling.de.md
         - Leitfaden Projekt Planung: rdm/project_planning.de.md
-        - Sonstiges: 
-            - Interessante Projekte: rdm/projects.de.md
-            - Links: rdm/links.md
     - Trainingsmaterialien: training_material.de.md
     - FAIRagro Tools & Services: tools.de.md
+    - Sonstiges: 
+        - Interessante Projekte: projects.de.md
+        - Links: links.md
     - zur FAIRagro Website: https://fairagro.net
 
 
@@ -71,9 +71,9 @@ plugins:
                 - Legal topics in RDM: rdm/legal.en.md
                 - Guideline Data Handling: rdm/data_handling.en.md
                 - Guideline Project Planning: rdm/project_planning.en.md
-                - Other: 
-                    - Interesting Projects: rdm/projects.en.md
-                    - Links: rdm/links.en.md
             - Training Material: training_material.en.md
             - FAIRagro Tools & Services: tools.en.md
+            - Other: 
+                - Interesting Projects: projects.en.md
+                - Links: links.en.md
             - to the FAIRagro Website: https://fairagro.net/en
