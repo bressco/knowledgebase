@@ -77,3 +77,6 @@ plugins:
                 - Interesting Projects: projects.en.md
                 - Links: links.en.md
             - to the FAIRagro Website: https://fairagro.net/en
+
+markdown_extensions:
+  - attr_list
