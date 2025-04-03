@@ -1,9 +1,11 @@
 # FAIRagro Knowledgebase
+![Logo FAIRagro](images/Logo_FAIRagro.png){ align=left }
 
 _Welcome to the FAIRagro Knowledgebase!_
 
 If you would like to know more about the FAIRagro project, please have a look at our [website](https://fairagro.net/en).
 
+---
 
 ## Topics
 In our Knowledgebase you will find content on the following topics:
@@ -22,6 +24,7 @@ In our Knowledgebase you will find content on the following topics:
 	- [Interesting Projects](projects.en.md)
 	- [Links](links.en.md)
 
+---
 
 ## Questions & Comments
 _Are there any questions left unanswered or do you have any other comments?_
