@@ -1,4 +1,4 @@
-# Basics of research data management RDM
+# Research Data Management (RDM) Basics
 
 FAIRagro is mainly concerned with [subject-specific RDM for the agricultural sciences](rdm/specific_data.en.md).
 

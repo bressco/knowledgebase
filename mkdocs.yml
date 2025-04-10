@@ -63,7 +63,7 @@ plugins:
           # English navigation
           nav:
             - Home: index.en.md
-            - Basics of RDM: basics.en.md
+            - RDM Basics: basics.en.md
             - Agriculture-specific RDM:
                 - Agriculture-specific Data: rdm/specific_data.en.md
                 - Repositories: rdm/data_repositories.en.md
