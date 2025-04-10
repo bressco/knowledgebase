@@ -33,7 +33,7 @@ Sobald weitere Infromationen verfügbar sind, findet ihr diese hier und auf unse
 
 
 
-## Re3data
+## re3data
 [re3data.org](https://www.re3data.org/) ist ein umfassendes Verzeichnis von Forschungsdaten-Repositorien, das [global](https://www.re3data.org/browse/by-country/) ist und alle [Forschungsdisziplinen](https://www.re3data.org/browse/by-subject/) abdeckt.  
 Mit Hilfe von re3data kann man Repositorien finden, in denen man Datensätze zur Unterstützung der Forschung finden und hinterlegen kann, z.B. Experiment- und Simulationsdaten; Bilder, Ton und Videos; Erhebungen und Beobachtungen; physikalische Proben; Labor- und klinische Versuchsdaten; Software-Quellcode; genomische und raumbezogene Daten; und vieles mehr.
 \[...\]  

@@ -33,7 +33,7 @@ As soon as further information is available, you will find it here and on our FA
 
 
 
-## Re3data
+## re3data
 [re3data.org](https://www.re3data.org/) is a comprehensive registry of research data repositories that is [global](https://www.re3data.org/browse/by-country/) and covers all [research disciplines](https://www.re3data.org/browse/by-subject/).  
 You can use re3data to find repositories where you can discover and deposit datasets that support research such as experimental and simulation data; images, sound, and video; surveys and observations; physical samples; laboratory and clinical trial data; software source code; genomic and geospatial data; and more.
 \[...\]  
