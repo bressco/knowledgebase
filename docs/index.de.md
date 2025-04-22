@@ -15,9 +15,9 @@ In unserer Knowledgebase findet ihr Inhalte zu den folgenden Themen:
 	- [Agrarspezifische Daten](rdm/specific_data.de.md)
 	- [Repositorien](rdm/data_repositories.de.md)
 	- [FAIRe Code-Veröffentlichung](rdm/fair_code.de.md)
-	- [Recht im FDM](rdm/legal.de.md)
 	- [Leitfaden Data Handling](rdm/data_handling.de.md)
 	- [Leitfaden Projektplanung](rdm/project_planning.de.md)
+- [Recht im FDM](rdm/legal.de.md)
 - [Trainingsmaterialien](training_material.de.md)
 - [FAIRagro Tools & Services](tools.de.md)
 - Sonstiges
