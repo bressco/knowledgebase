@@ -65,7 +65,7 @@ Mangels Schöpfung sind Rohdaten nicht urheberrechtlich schutzfähig.
 Bei der Annotation von Daten verbleibt den Annotierenden je nach Art der
 Label ein mehr oder weniger großer Entscheidungsspielraum. In diesem
 kann sich [Subjektivität bei der
-Annotation](#annotierte-daten-unterteilung-aufbereitungsgrade-annotation)
+Annotation](#unterteilung-aufbereitungsgrade-annotation)
 auswirken. Das Urheberrechtsgesetz schützt grade diese
 Subjektivität.[^6] Das Maß dieser Subjektivität muss nicht hoch
 sein,[^7] sodass Annotationen urheberrechtlich geschützt sein können.
