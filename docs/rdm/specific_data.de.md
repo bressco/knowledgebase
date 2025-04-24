@@ -36,6 +36,10 @@ die Datenverordnung Änderungen ergeben. Diese haben ihren Weg
 allerdings noch nicht in die Rechtsprechung gefunden. Daneben kann 
 sich ein Schutz aufgrund des Aufbereitungsgrades der Daten ergeben.
 
+Bei georeferenzierten Daten *kann* es sich je nach Konstellation auch 
+um personenbezogene Daten handeln. Ob das der Fall ist, lässt sich 
+aber nur im Einzelfall beantworten.
+
 Details finden sich bei der [Übersicht zu Rechten an 
 Daten](legal/rights.de.md).
 Im Einzelfall kann der [FAIRagro DSSC](https://fairagro.net/helpdesk) 
