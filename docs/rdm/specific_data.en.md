@@ -6,8 +6,6 @@ These questions provide a good entry point into the topic of agriculture-specifi
 You can find a short overview of relevant data types and their special features in RDM here in our knowledgebase and in our [Data Fact Sheets](https://doi.org/10.4126/FRL01-006461782) [^1].
 [^1]: Schmidt, M., Beyer, F., Mazón, E. R., Sahwan, W., Singson, L., Vedder, L., Boße, S., & Svoboda, N. (2023). **DATA FACT SHEETS of the Data Steward Service Center (DSSC) from the NFDI consortium FAIRagro**. PUBLISSO. [https://doi.org/10.4126/FRL01-006461782](https://doi.org/10.4126/FRL01-006461782)
 
-
-
 ## Types of Data
 
 ### Soil Data
@@ -18,14 +16,14 @@ It is also important to describe them throughout their depth, as profiles or in 
 There are numerous national and international standards for describing soils and their profiles (e.g. German systematics, [WRB](https://www.fao.org/soils-portal/data-hub/soil-classification/world-reference-base/en/), [USDA](https://www.nrcs.usda.gov/resources/guides-and-instructions/soil-classification)). 
 \[Schmidt _et al._ 2023, p. 3\][^1]
 
-**Specifics in research data management**
+#### Specifics in research data management ####
 
 A variety of different methods are used to collect soil data.
 When describing the data (metadata), it is therefore important for reproducibility and comparability to specify the method and analytical device used.
 One challenge is that significant amounts of data has not yet been digitized.
 \[ibid.\]
 
-
+#### Legal Aspects ####
 
 ### General Field Data
 General field data is generated in many agricultural field experiments. They include information about the business and the crops sown (e.g. variety, sowing date, yield, crop protection treatments, fertilization, etc.).
@@ -36,13 +34,13 @@ LTE data therefore represents an important agricultural data treasure, which is 
 This treasure should be carefully published, for example to promote understanding of the effects of climate change and to develop solutions for sustainable land management.
 \[Schmidt _et al._ 2023, p. 4\][^1]
 
-**Specifics in research data management**
+#### Specifics in research data management ####
 
 The metadata should generally be based on the question of the actual field study/field experiment.
 Nevertheless, the presence of general field data in the data set should be noted, which could also be of interest for further studies.
 \[ibid.\]
 
-
+#### Legal Aspects ####
 
 ### Genetic Data (“omics data”)
 Genetic methods are standard in many areas of life science research.
@@ -54,13 +52,13 @@ Regardless, all studies in this area generate large amounts of so-called “omic
 These sequences are usually not only compared with each other, but also with so-called reference genomes.
 \[Schmidt _et al._ 2023, p. 5\][^1]
 
-**Specifics in research data management**
+#### Specifics in research data management ####
 
 For almost all crops, in addition to the species, a variety, breeding line or variation is distinguished. This should be included in the metadata.
 It is often interesting to establish a connection between phenotype and genotype.
 \[ibid.\]
 
-
+#### Legal Aspects ####
 
 ### Phenotyping Data
 Phenotyping data is crucial for understanding plant biology, improving crops, and agricultural practices.
@@ -69,12 +67,12 @@ Standardization and proper documentation of phenotyping data, as advocated by in
 This facilitates data sharing, collaboration, and development of large-scale databases and repositories for plant phenotyping research.
 \[Schmidt _et al._ 2023, p. 6\][^1]
 
-**Specifics in research data management**
+#### Specifics in research data management ####
 
 It is often interesting to establish a connection between phenotype and genotype.
 \[ibid.\]
 
-
+#### Legal Aspects ####
 
 ### Field robotics & sensor data
 In the non-invasive collection of phenotypic, i.e. externally measurable, parameters in field experiments, field robots and drones are increasingly being used in research.
@@ -86,12 +84,12 @@ In addition to the georeferences of the recorded data (GPS position), map inform
 When measuring on a large scale, so-called [Big Geodata](#big-geodata) can arise simply due to the amount of data.
 \[Schmidt _et al._ 2023, p. 7\][^1]
 
-**Specifics in research data management**
+#### Specifics in research data management ####
 
 In addition to the information about the culture examined, details about the sensors used and the type of data obtained as well as units and quality control should always be provided.
 \[ibid.\]
 
-
+#### Legal Aspects ####
 
 ### Big GeoData
 Geodata is information about physical objects to which a spatial reference (e.g. coordinates) is attached.
@@ -104,7 +102,7 @@ This requires geodata infrastructures that connect the various technologies with
 Based on the different geodata, long-term monitoring can be carried out in the agricultural landscape, the changes on the land surface can be tracked and documented.
 \[Schmidt _et al._ 2023, p. 8\][^1]
 
-**Specifics in research data management**
+#### Specifics in research data management ####
 
 Continuously accumulating geodata and modern, complex evaluation methods pose new challenges, especially with regard to the processing of the data.
 Cloud computing is one of the solutions in which data can be stored on networked central servers and processed quickly and fully automatic.
@@ -113,7 +111,7 @@ In addition to cloud-based infrastructures, there are modern geodata management 
 On the other hand, the data and the products produced from it are documented according to metadata standards (ISO19115, INSPIRE, Dublin Core ...).
 \[ibid.\]
 
-
+#### Legal Aspects ####
 
 ## Special features
 
