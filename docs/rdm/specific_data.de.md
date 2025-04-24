@@ -80,13 +80,13 @@ Daten](legal/rights.de.md).
 Im Einzelfall kann der [FAIRagro DSSC](https://fairagro.net/helpdesk) 
 weiterhelfen.
 
-### Genetische Daten (“omics”-Daten)
+### Genetische Daten („omics“-Daten)
 In vielen Bereichen der lebenswissenschaftlichen Forschung gehören genetische Methoden zum Standard.
 So werden u.a. auch im Bereich der Nutzpflanzenforschung vermehrt genetische Studien an z.B. Mais oder Gerste durchgeführt.
 Häufig stehen bei diesen Studien Zusammenhänge zwischen verschiedenen Genotypen (genetische Sortenmerkmale) und ihren jeweiligen Phänotypen, den Ausprägungen dieser Merkmale unter den gegebenen Umwelteinflüssen, im Vordergrund.
 Daher werden genetische Daten häufig im Zusammenhang mit [Phänotypisierungsdaten](#phanotypisierungdaten) erhoben.
 Die in diesen Studien analysierten Gewebeproben (z.B. Blatt- und/oder Wurzelgewebe) können dabei sowohl direkt aus dem Labor (z.B. Klimakammer) oder von einem Versuchsfeld stammen.
-Unabhängig davon fallen bei allen Studien in diesem Bereich große Mengen sogenannter “omics”-Daten an, meist durch Sequenzierung der Proben.
+Unabhängig davon fallen bei allen Studien in diesem Bereich große Mengen sogenannter „omics“-Daten an, meist durch Sequenzierung der Proben.
 Diese Sequenzen werden meist nicht nur untereinander, sondern auch mit sog. Referenzgenomen verglichen.
 \[Schmidt _et al._ 2023, S. 17\][^1]
 
