@@ -129,6 +129,24 @@ Oft ist es interessant, einen Zusammenhang zwischen Phänotyp und Genotyp herzus
 
 #### Rechtliche Einordnung ####
 
+Datenbanken mit Phänotypisierungsdaten können nach aktueller 
+Rechtsprechung durch das Recht aus § 87a ff. UrhG auch für die 
+Erhebenden geschützt sein. Dies baut im Kern darauf auf, dass eine 
+Messung als „Beschaffung“ im Sinne von § 87a UrhG verstanden wird. 
+Allerdings könnten sich durch die Datenverordnung Änderungen ergeben. 
+Diese haben ihren Weg allerdings noch nicht in die Rechtsprechung 
+gefunden. Daneben kann sich ein Schutz aufgrund des 
+Aufbereitungsgrades der Daten ergeben.
+
+Wenn die Daten Abbildungen umfassen, können diese nach § 72 UrhG als 
+Lichtbilder geschützt sein. Dieser Schutz ähnelt in vielen Punkten dem 
+Urheberrecht.
+
+Details finden sich bei der [Übersicht zu Rechten an 
+Daten](legal/rights.de.md).
+Im Einzelfall kann der [FAIRagro DSSC](https://fairagro.net/helpdesk) 
+weiterhelfen.
+
 ### Feldrobotik & Sensordaten
 In der nicht-invasiven Erhebung von phänotypischen, d.h. äußerlich messbaren Parameter in Feldversuchen werden in der Forschung vermehrt Feldroboter und Drohnen eingesetzt.
 Diese können mit Hilfe eingebauter Sensoren Messwerte automatisiert erheben.
