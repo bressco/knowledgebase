@@ -6,6 +6,11 @@ zu Rechten an Daten. Dabei wird nach verschiedenen
 „Aufbereitungsgraden“ von Daten unterschieden: Rohdaten, annotierte 
 Daten und zusammengestellte Daten.
 
+!!! abstract "tl;dr"
+	Messdaten sind meist nicht geschützt. Geschützt sein können aber 
+	Aufnahmen sowie die Annotierungen von Messdaten. Oft kommt es auf 
+	den Einzelfall an.
+
 # Aufbereitungsgrade
 
 Die verschiedenen Datenarten können in unterschiedlichen Graden
