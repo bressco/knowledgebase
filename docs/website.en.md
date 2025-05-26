@@ -1,6 +1,6 @@
 # FAIRagro Website
 
-## About FAIRagro?
+## About FAIRagro
 [![Logo FAIRagro](images/Logo_FAIRagro.png){ align=right }](https://fairagro.net/en/){:target="_blank"}
 
 The FAIRagro consortium with more than 30 partners is building a FAIR (**F**indable, **A**ccessible, **I**nteroperable, **R**eusable) research data management system for the agrosystems research community.
