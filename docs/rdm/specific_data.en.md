@@ -18,7 +18,7 @@ When soil data comes from field experiments, it always has a spatial reference (
 It is also important to describe them throughout their depth, as profiles or in dedicated depth levels.
 There are numerous national and international standards for describing soils and their profiles: e.g. German systematics,
 [WRB](https://www.fao.org/soils-portal/data-hub/soil-classification/world-reference-base/en/),
-[USDA](https://www.nrcs.usda.gov/resources/guides-and-instructions/soil-classification)). 
+[USDA](https://www.nrcs.usda.gov/resources/guides-and-instructions/soil-classification). 
 \[Schmidt _et al._ 2023, p. 3\][^1]
 
 #### Specifics in research data management
