@@ -19,7 +19,7 @@ nav:
     - Sonstiges: 
 #       - Interessante Projekte: projects.de.md
         - Links: links.md
-    - zur FAIRagro Website: https://fairagro.net
+    - FAIRagro: website.de.md
 
 
 # Theme configuration
@@ -76,7 +76,7 @@ plugins:
             - Other: 
 #                - Interesting Projects: projects.en.md
                 - Links: links.en.md
-            - to the FAIRagro Website: https://fairagro.net/en
+            - FAIRagro: website.en.md
 
 markdown_extensions:
   - attr_list
