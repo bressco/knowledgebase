@@ -8,6 +8,7 @@ nav:
     - Home: index.de.md
     - Grundlagen des FDM: basics.de.md
     - Agrarspezifisches FDM:
+        - Agrarspezifisches FDM: rdm/index.de.md
         - Agrarspezifische Daten: rdm/specific_data.de.md
         - Repositorien: rdm/data_repositories.de.md
         - FAIRe Code-Veröffentlichung: rdm/fair_code.de.md
@@ -67,6 +68,7 @@ plugins:
             - Home: index.en.md
             - RDM Basics: basics.en.md
             - Agriculture-specific RDM:
+                - Agriculture-specific RDM: rdm/index.en.md
                 - Agriculture-specific Data: rdm/specific_data.en.md
                 - Repositories: rdm/data_repositories.en.md
                 - Publishing Code FAIR: rdm/fair_code.en.md
