@@ -1,5 +1,5 @@
 # FAIRagro Knowledgebase
-![Logo FAIRagro](images/Logo_FAIRagro.png){ align=left }
+
 
 _Herzlich Willkommen in der FAIRagro Knowledgebase!_
 
@@ -7,22 +7,12 @@ Wenn ihr mehr über das Projekt FAIRagro wissen wollt, schaut auch gerne auf uns
   
 --- 
 
-## Themen
-In unserer Knowledgebase findet ihr Inhalte zu den folgenden Themen:
+!!!Themen
+In unserer Knowledgebase findet ihr Inhalte zu Forschungsdatenmanagment (FDM) in den Agrarwissenschaften, Recht und FDM, Training sowie weitere Ressourcen.
 
-- [Grundlagen des FDM](basics.de.md)
-- Agrarspezifisches FDM
-	- [Agrarspezifische Daten](rdm/specific_data.de.md)
-	- [Repositorien](rdm/data_repositories.de.md)
-	- [FAIRe Code-Veröffentlichung](rdm/fair_code.de.md)
-	- [Leitfaden Data Handling](rdm/data_handling.de.md)
-	- [Leitfaden Projektplanung](rdm/project_planning.de.md)
-- [Recht im FDM](rdm/legal.de.md)
-- [Trainingsmaterialien](training_material.de.md)
-- [FAIRagro Tools & Services](tools.de.md)
-- Sonstiges
-	- [Interessante Projekte](projects.de.md)
-	- [Links](links.de.md)
+---
+
+![Logo FAIRagro](images/Logo_FAIRagro.png){ align=left }
 
 ---
 
