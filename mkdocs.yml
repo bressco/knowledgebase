@@ -17,8 +17,8 @@ nav:
     - FDM & Recht: 
         - Recht im FDM: legal/index.de.md
         - Rechte an Daten: legal/rights.de.md
-    - Training: training_material.de.md
-    - FAIRagro Tools & Services: tools.de.md
+    - RDM Training: training_material.de.md
+    - Tools & Services: tools.de.md
     - Netzwerk & Mehr: links.de.md
 #       - Interessante Projekte: projects.de.md
     - FAIRagro: website.de.md
@@ -76,8 +76,8 @@ plugins:
             - RDM & Legal: 
                 - Legal topics in RDM: legal/index.en.md
                 - Data rights: legal/rights.en.md
-            - Training: training_material.en.md
-            - FAIRagro Tools & Services: tools.en.md
+            - RDM Training: training_material.en.md
+            - Tools & Services: tools.en.md
             - Network & More: links.en.md
 #               - Interesting Projects: projects.en.md
             - FAIRagro: website.en.md
