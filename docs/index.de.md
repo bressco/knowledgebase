@@ -1,18 +1,13 @@
 # FAIRagro Knowledgebase
 
 
-_Herzlich Willkommen in der FAIRagro Knowledgebase!_
-
-Wenn ihr mehr über das Projekt FAIRagro wissen wollt, schaut auch gerne auf unsere [Website](https://fairagro.net).
-  
---- 
-
-!!!Abstract
+!!!Willkommen
     In unserer Knowledgebase findet ihr Inhalte zu Forschungsdatenmanagment (FDM) in den Agrarwissenschaften, Recht und FDM, Training sowie weitere Ressourcen.
 
 ---
 
 ![Logo FAIRagro](images/Logo_FAIRagro.png)
+Wenn ihr mehr über das Projekt FAIRagro wissen wollt, schaut auch gerne auf unsere [Website](https://fairagro.net).
 
 ---
 
