@@ -3,7 +3,7 @@
 ## Allgemeines Forschungsdatenmanagement (FDM)
 Eine Sammlung von Links zum Nachlesen allgemeiner (generischer) FDM Inhalte findet ihr [hier](basics.de.md).
 
-## Unser Netzerk - das Geo-Chem-Lifescience-Cluster
+## Unser Netzerk - das Geo-Chem-Life Science-Cluster
 ![Logoblock Cluster](images/Logoblock_Cluster.png){ align=right }
 
 Um ein breiteres Spektrum an Anfragen abdecken zu können, haben wir uns mit weiteren fachnahen Helpdesks zusammengeschlossen. Wenn ihr unseren [Helpdesk](https://fairagro.net/){ target="_blank" } kontaktiert können wir dieses Netzwerk nutzen - natürlich nur mit eurer Zustimmung.
