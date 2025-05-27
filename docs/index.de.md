@@ -6,7 +6,7 @@
 
 ---
 
-![Logo FAIRagro](images/Logo_FAIRagro.png) \n
+![Logo FAIRagro](images/Logo_FAIRagro.png)  
 Wenn ihr mehr über das Projekt FAIRagro wissen wollt, schaut auch gerne auf unsere [Website](https://fairagro.net).
 
 ---
