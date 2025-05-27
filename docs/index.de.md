@@ -7,8 +7,8 @@ Wenn ihr mehr über das Projekt FAIRagro wissen wollt, schaut auch gerne auf uns
   
 --- 
 
-!!!Themen
-  In unserer Knowledgebase findet ihr Inhalte zu Forschungsdatenmanagment (FDM) in den Agrarwissenschaften, Recht und FDM, Training sowie weitere Ressourcen.
+!!!Abstract
+    In unserer Knowledgebase findet ihr Inhalte zu Forschungsdatenmanagment (FDM) in den Agrarwissenschaften, Recht und FDM, Training sowie weitere Ressourcen.
 
 ---
 
