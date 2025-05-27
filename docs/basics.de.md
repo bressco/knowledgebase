@@ -24,7 +24,7 @@ _RDMkit ist nur in Englisch verfügbar._
 ## [Data Management Expert Guide (DMEG)](https://dmeg.cessda.eu){:target="_blank"}
 [![Logo DMEG](images/Logo_DMEG.png){ align=right }](https://dmeg.cessda.eu){:target="_blank"}
 
-XXX [DMEG](https://dmeg.cessda.eu){:target="_blank"}
+[DMEG](https://dmeg.cessda.eu){:target="_blank"} Diese Website wurde von europäischen Experten entwickelt, um sozialwissenschaftliche Forscher dabei zu unterstützen, ihre Forschungsdaten auffindbar, zugänglich, interoperabel und wiederverwendbar (FAIR) zu machen. Sie enthält viele grundlegende Informationen und Definitionen über RDM, die für alle Disziplinen gelten.
 
 _DMEG ist nur in Englisch verfügbar._
 
