@@ -19,9 +19,8 @@ nav:
         - Rechte an Daten: legal/rights.de.md
     - Trainingsmaterialien: training_material.de.md
     - FAIRagro Tools & Services: tools.de.md
-    - Sonstiges: 
+    - Network & More: links.de.md
 #       - Interessante Projekte: projects.de.md
-        - Links: links.md
     - FAIRagro: website.de.md
 
 
@@ -79,9 +78,8 @@ plugins:
                 - Data rights: legal/rights.en.md
             - Training Material: training_material.en.md
             - FAIRagro Tools & Services: tools.en.md
-            - Other: 
-#                - Interesting Projects: projects.en.md
-                - Links: links.en.md
+            - Network & More: links.en.md
+#               - Interesting Projects: projects.en.md
             - FAIRagro: website.en.md
 
 markdown_extensions:
