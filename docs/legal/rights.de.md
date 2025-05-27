@@ -7,8 +7,7 @@ zu Rechten an Daten. Dabei wird nach verschiedenen
 Daten und zusammengestellte Daten.
 
 !!!abstract
-Messdaten sind meist nicht geschützt. Geschützt sein können aber Aufnahmen sowie die Annotierungen von Messdaten. Oft kommt es auf den Einzelfall an.
-!!!
+    Messdaten sind meist nicht geschützt. Geschützt sein können aber Aufnahmen sowie die Annotierungen von Messdaten. Oft kommt es auf den Einzelfall an.
 
 # Aufbereitungsgrade
 
