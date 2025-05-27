@@ -6,20 +6,20 @@ copyright: Copyright &copy; 2025 FAIRagro
 # Navigation Header Deutsch (English Override -> language settings)
 nav:
     - Home: index.de.md
-    - Grundlagen des FDM: basics.de.md
-    - Agrarspezifisches FDM:
+    - FDM Basics: basics.de.md
+    - FDM Agrar:
         - Agrarspezifisches FDM: rdm/index.de.md
         - Agrarspezifische Daten: rdm/specific_data.de.md
         - Repositorien: rdm/data_repositories.de.md
         - FAIRe Code-Veröffentlichung: rdm/fair_code.de.md
 #        - Leitfaden Data Handling: rdm/data_handling.de.md
 #        - Leitfaden Projekt Planung: rdm/project_planning.de.md
-    - Recht im FDM: 
+    - FDM & Recht: 
         - Recht im FDM: legal/index.de.md
         - Rechte an Daten: legal/rights.de.md
-    - Trainingsmaterialien: training_material.de.md
+    - Training: training_material.de.md
     - FAIRagro Tools & Services: tools.de.md
-    - Network & More: links.de.md
+    - Netzwerk & Mehr: links.de.md
 #       - Interessante Projekte: projects.de.md
     - FAIRagro: website.de.md
 
@@ -66,17 +66,17 @@ plugins:
           nav:
             - Home: index.en.md
             - RDM Basics: basics.en.md
-            - Agriculture-specific RDM:
+            - RDM Agriculture:
                 - Agriculture-specific RDM: rdm/index.en.md
                 - Agriculture-specific Data: rdm/specific_data.en.md
                 - Repositories: rdm/data_repositories.en.md
                 - Publishing Code FAIR: rdm/fair_code.en.md
 #                - Guideline Data Handling: rdm/data_handling.en.md
 #                - Guideline Project Planning: rdm/project_planning.en.md
-            - Legal topics in RDM: 
+            - RDM & Legal: 
                 - Legal topics in RDM: legal/index.en.md
                 - Data rights: legal/rights.en.md
-            - Training Material: training_material.en.md
+            - Training: training_material.en.md
             - FAIRagro Tools & Services: tools.en.md
             - Network & More: links.en.md
 #               - Interesting Projects: projects.en.md
