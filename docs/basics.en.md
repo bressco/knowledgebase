@@ -24,7 +24,7 @@ We recommend using the good full-text search for navigation.
 ## [Data Management Expert Guide (DMEG)](https://dmeg.cessda.eu){:target="_blank"}
 [![Logo DMEG](images/Logo_DMEG.png){ align=right }](https://dmeg.cessda.eu){:target="_blank"}
 
-XXX [DMEG](https://dmeg.cessda.eu){:target="_blank"}
+[DMEG](https://dmeg.cessda.eu){:target="_blank"} This website has been designed by European experts to help social science researchers make their research data findable, accessible, interoperable and reusable (FAIR). It has a lot of basic information and definitions about RDM that are applicable to all disciplines.
 
 
 ## [Research Data Management - Information Platform for Max Planck Researchers by MPDL](https://rdm.mpdl.mpg.de){:target="_blank"}
