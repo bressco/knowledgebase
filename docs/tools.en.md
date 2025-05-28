@@ -3,13 +3,22 @@
 Various tools and services are being developed in FAIRagro.
 You can find an overview on our [website]().
 
-**--Add link to website and adapt list of tools!--**
+<!--Link zu Website einfügen und Liste der Tools anpassen!
+Rücksprache mit Manuela was kommt wohin...-->
 
-We have compiled the individual documentation and assistance for you here:
+## FAIRagro Search Hub
+<!--Text identisch mit "FAIRagro Infrastruktur-Suche"-Abschnitt unter Repositories-->
+FAIRagro has set itself the goal of connecting existing research data infrastructures (RDIs) with one another.
+This is realized externally primarily through the data search portal of the FAIRagro Search Hub.
+In addition, a compilation of different infrastructures/repositories will also be searchable according to various criteria.  
+This infrastructure search is currently still under construction.
+As soon as further information is available, you will find it here and on our FAIRagro website.
 
-- FAIRagro Search Hub
-- SciWIn Client ([GitHub](https://github.com/fairagro/m4.4_sciwin_client), [Documentation](https://fairagro.github.io/m4.4_sciwin_client/))
-- Data Quality Toolbox
-- FAIR Assessment Tool
-- DMP Templates
-- ...
+## SciWIn Client
+[GitHub](https://github.com/fairagro/m4.4_sciwin_client), [Documentation](https://fairagro.github.io/m4.4_sciwin_client/)
+
+## Data Quality Toolbox
+
+## FAIR Assessment Tool
+
+## DMP Templates
