@@ -7,11 +7,11 @@ Eine Übersicht findet ihr auch auf unserer [Website]().
 Rücksprache mit Manuela was kommt wohin...-->
 
 ## FAIRagro Search Hub
-<!--Text identisch mit "FAIRagro Infrastruktur-Suche"-Abschnitt unter Repositories-->
+<!--Text größtenteils identisch mit "FAIRagro Infrastruktur-Suche"-Abschnitt unter Repositories-->
 FAIRagro hat es sich zum Ziel gesetzt, vorhandene Forschungsdateninfrastrukturen (research data infrastructures, RDIs) miteinander zu verbinden.
 Dies wird nach außenhin v.a. durch das Daten-Suchportal des FAIRagro Search Hub realisiert.
 Darüberhinaus wird aber auch eine Zusammenstellung verschiedener Infrastrukturen/Repositorien nach verschiedenen Kriterien durchsuchbar sein.  
-Diese Infrastruktur-Suche befindet sich derzeit noch im Aufbau.
+Sowohl die Daten-Suche als auch die Infrastruktur-Suche befindet sich derzeit noch im Aufbau.
 Sobald weitere Infromationen verfügbar sind, findet ihr diese hier und auf unserer FAIRagro Website.
 
 ## SciWIn Client
