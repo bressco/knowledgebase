@@ -26,7 +26,6 @@ nav:
 # Theme configuration
 theme:
     name: material
-    custom_dir: overrides
     logo: assets/logo.png
     favicon: assets/favicon.png
     font: false
@@ -95,7 +94,7 @@ extra:
   social:
     - icon: fontawesome/solid/file-contract
       link: https://fairagro.net/impressum
-      name: twitter
+      name: Impressum 
     - icon: fontawesome/solid/address-book
       link: https://fairagro.net/kontakt
       name: Kontakt
