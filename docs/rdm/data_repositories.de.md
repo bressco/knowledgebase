@@ -6,6 +6,10 @@ Neben Repos, die alle Arten von Daten aufnehmen, und institutionseigenen Repos, 
 
 
 ## Empfehlungen des FAIRagro Helpdesks
+
+!!! tip inline end "Empfohlene Repositorien"
+	Rey Mazón _et al._ (2024): [**Recommended repositories by the FAIRagro Helpdesk for agrosystem research**](https://doi.org/10.5281/zenodo.11144471){:target="_blank"}
+
 Um die Auswahl eines agrarspezifischen Repos zu erleichtern, hat der FAIRagro Helpdesk 2024 eine [Liste von Empfehlungen](https://zenodo.org/records/11144471){:target="_blank"}[^1] zusammengestellt.
 Diese wurde auf Zenodo veröffentlicht.
 Sie soll einen Überblick über für die Agrosystemforschung relevante Repos geben, indem sie diese auflistet und ihre Domäne, sowie Besonderheiten und mögliche Lizenzen darstellt.
