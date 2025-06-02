@@ -3,6 +3,9 @@
 _What data types exist in agrosystem science? What do I have to consider when collecting and publishing data – including the legal perspective?_  
 These questions provide a good entry point into the topic of agriculture-specific research data management (RDM).
 
+!!! tip inline end "Data Fact Sheets"
+	Schmidt _et al._ (2023): [**DATA FACT SHEETS of the Data Steward Service Center (DSSC) from the NFDI consortium FAIRagro**](https://doi.org/10.4126/FRL01-006461782){:target="_blank"}
+
 You can find a short overview of relevant data types and their special features in RDM here in our knowledgebase and in our [Data Fact Sheets](https://doi.org/10.4126/FRL01-006461782){:target="_blank"}[^1].
 The knowledgebase also includes an [overview of the legal categorisation of data](/knowledgebase/en/legal/rights)
 

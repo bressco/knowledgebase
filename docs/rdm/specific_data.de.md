@@ -3,6 +3,9 @@
 _Welche Datentypen existieren in der Agrosystemforschung? Was muss ich bei Erhebung und Publikation – auch in rechtlicher Hinsicht –  beachten?_  
 Diese Fragen bilden einen guten Einstieg in das Thema des agrarspezifischen Forschungsdatenmanagements (FDM).
 
+!!! tip inline end "Data Fact Sheets"
+	Schmidt _et al._ (2023): [**DATA FACT SHEETS of the Data Steward Service Center (DSSC) from the NFDI consortium FAIRagro**](https://doi.org/10.4126/FRL01-006461782){:target="_blank"}
+
 Einen kurzen Überblick über relevante Datentypen und deren Besonderheiten im FDM findet ihr hier in unserer Knowledgebase und in unseren [Data Fact Sheets](https://doi.org/10.4126/FRL01-006461782){:target="_blank"}[^1].
 Die Knowledgebase umfasst auch einen [Überblick zur rechtlichen Einordnung von Daten](/knowledgebase/legal/rights)
 
