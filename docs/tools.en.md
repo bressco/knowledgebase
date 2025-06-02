@@ -7,11 +7,11 @@ You can find an overview on our [website]().
 Rücksprache mit Manuela was kommt wohin...-->
 
 ## FAIRagro Search Hub
-<!--Text identisch mit "FAIRagro Infrastruktur-Suche"-Abschnitt unter Repositories-->
+<!--Text größtenteils identisch mit "FAIRagro Infrastruktur-Suche"-Abschnitt unter Repositories-->
 FAIRagro has set itself the goal of connecting existing research data infrastructures (RDIs) with one another.
 This is realized externally primarily through the data search portal of the FAIRagro Search Hub.
 In addition, a compilation of different infrastructures/repositories will also be searchable according to various criteria.  
-This infrastructure search is currently still under construction.
+The data search as well as the infrastructure search is currently still under construction.
 As soon as further information is available, you will find it here and on our FAIRagro website.
 
 ## SciWIn Client
