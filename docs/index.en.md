@@ -1,12 +1,14 @@
 # FAIRagro Knowledgebase
 
 
-!!! info "Welcome"
-    In our knowldedge base we provide information on research data management (RDM) in the agrosystem sciences, RDM and legal, training and other resources.
+!!! warning "Note"
+    _This page is currently under construction!_
 
 ---
 
-![Logo FAIRagro](images/Logo_FAIRagro.png)  
+![Logo FAIRagro](images/Logo_FAIRagro.png){ align=left }
+In our knowldedge base we provide information on research data management (RDM) in the agrosystem sciences, RDM and legal, training and other resources.
+
 If you want to learn more about our project, please visit our [website](https://fairagro.net).
 
 ---
