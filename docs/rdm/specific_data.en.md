@@ -148,8 +148,15 @@ The [FAIRagro helpdesk](https://fairagro.net/en/helpdesk){:target="_blank"} can 
 ## Special features
 
 ### Long-term field experiments (LTE)
-_Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet._
+Many experiments in the context of crop science extend over a complete cycle consisting of sowing, plant growth (incl. treatments) and harvest.
+In the field, such experiments are always dependent on the site conditions, both in terms of soil and in terms of weather and climate.
+The relevant parameters are therefore usually collected as part of the [general field data](#general-field-data).  
+In long-term field experiments, the same or similar experiments are carried out at the same location over many years and all variables are recorded consistently.
+Therefore, they provide a sustainable monitoring of soil and plant properties under changing climatic conditions and management methods.
+LTE data represent an important agricultural data treasure that should be carefully publicised.
+(cf. Schmidt _et al._ 2023, p. 4)[^1]
 
+The [LTE overview map](https://tools.bonares.de/ltfe/){:target=‘_blank’} from BonaRes[^2] provides a good overview of already published long-term field experiments in Europe.
+Data from more than 570 agricultural experiments with a duration of at least 20 years each are collected there.
 
-### Time-Series
-_Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet._
+[^2]: BonaRes Repository. [https://doi.org/10.25504/FAIRsharing.2cw3HU](https://doi.org/10.25504/FAIRsharing.2cw3HU){:target=‘_blank’}

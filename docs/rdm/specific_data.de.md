@@ -195,9 +195,16 @@ Im Einzelfall kann der [FAIRagro Helpdesk](https://fairagro.net/helpdesk){:targe
 
 ## Besonderheiten
 
-### Langzeitfeldexperimente (Long-term field experiments/LTE)
-_Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet._
+### Dauerversuche (Langzeitfeldexperimente, Long-term field experiments/LTE)
+Viele Experimente im nutzpfanzenwissenschaftlichen Kontext erstrecken sich über einen kompletten Zyklus bestehend aus Aussaat, Pflanzenwachstum (inkl. Behandlungen) und Ernte.
+Im Freiland sind solche Experimente immer auch von den Standortbedingungen abhänig, sowohl in Bezug auf den Boden als auch in Bezug auf Wetter und Klima.
+Die entsprechenden Parameter werden daher in der Regel im Rahmen der [allgemeinen Felddaten](#allgemeine-felddaten) erhoben.  
+Bei landwirtschaftlichen Dauerversuchen werden am selben Standort über viele Jahre hinweg gleiche oder ähnliche Versuche unternommen und alle Variabeln konsistent erfasst.
+Daher bieten sie ein nachhaltiges Monitoring für Boden- und Pflanzeneigenschaften unter wechselnden klimatischen Bedingungen und Bewirtschaftungsverfahren.
+LTE-Daten stellen einen wichtigen landwirtschaftlichen Datenschatz dar, der sorgfältig veröffentlicht werden sollte.
+(vgl. Schmidt _et al._ 2023, S. 16)[^1]
 
+Eine gute Übersicht über bereits veröffentlichte Dauerversuche in Europa bietet die [LTE-Übersichtskarte](https://tools.bonares.de/ltfe/){:target="_blank"} von BonaRes[^2].
+Dort sind Daten von mehr als 570 landwirtschaftlichen Experimenten mit einer Dauer von jeweils min. 20 Jahren gesammelt.
 
-### Zeitreihen
-_Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet._
+[^2]: BonaRes Repository. [https://doi.org/10.25504/FAIRsharing.2cw3HU](https://doi.org/10.25504/FAIRsharing.2cw3HU){:target="_blank"}
