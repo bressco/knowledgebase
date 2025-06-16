@@ -12,15 +12,12 @@ nav:
         - Agrarspezifische Daten: rdm/specific_data.de.md
         - Repositorien: rdm/data_repositories.de.md
         - FAIRe Code-Veröffentlichung: rdm/fair_code.de.md
-#        - Leitfaden Data Handling: rdm/data_handling.de.md
-#        - Leitfaden Projekt Planung: rdm/project_planning.de.md
     - FDM & Recht: 
         - Recht im FDM: legal/index.de.md
         - Rechte an Daten: legal/rights.de.md
     - FDM Training: training_material.de.md
     - Tools & Services: tools.de.md
     - Netzwerk & Mehr: links.de.md
-#       - Interessante Projekte: projects.de.md
     - FAIRagro: website.de.md
 
 # Theme configuration
@@ -72,15 +69,12 @@ plugins:
                 - Agriculture-specific Data: rdm/specific_data.en.md
                 - Repositories: rdm/data_repositories.en.md
                 - Publishing Code FAIR: rdm/fair_code.en.md
-#                - Guideline Data Handling: rdm/data_handling.en.md
-#                - Guideline Project Planning: rdm/project_planning.en.md
             - RDM & Legal: 
                 - Legal topics in RDM: legal/index.en.md
                 - Data rights: legal/rights.en.md
             - RDM Training: training_material.en.md
             - Tools & Services: tools.en.md
             - Network & More: links.en.md
-#               - Interesting Projects: projects.en.md
             - FAIRagro: website.en.md
 
 markdown_extensions:
