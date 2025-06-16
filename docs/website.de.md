@@ -1,4 +1,4 @@
-# FAIRagro Website
+# Über FAIRagro
 
 ## Was ist FAIRagro?
 [![Logo FAIRagro](images/Logo_FAIRagro.png){ align=right }](https://fairagro.net/){:target="_blank"}
