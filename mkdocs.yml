@@ -28,21 +28,22 @@ theme:
     font: false
     features:
         # navigation
-        - navigation.tabs
-        - navigation.tabs.sticky
-        - navigation.path
-        - navigation.sections
+#        - navigation.tabs
+#        - navigation.tabs.sticky
+#        - navigation.sections
+        - navigation.expand
         - navigation.indexes
         - navigation.top 
         - navigation.tracking
         # toc
         - toc.integrate 
         - toc.follow
-        - navigation.footer
+        #footer
+ #       - navigation.footer
     #color scheme
     palette:
         primary: green
-        accent: amber
+        accent: lime
 
 # Language settings
 plugins:
