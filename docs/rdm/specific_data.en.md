@@ -147,7 +147,7 @@ The [FAIRagro helpdesk](https://fairagro.net/en/helpdesk){:target="_blank"} can 
 
 ## Special features
 
-### Long-term field experiments (LTE)
+### Long-term field experiments (LTE) {#lte}
 Many experiments in the context of crop science extend over a complete cycle consisting of sowing, plant growth (incl. treatments) and harvest.
 In the field, such experiments are always dependent on the site conditions, both in terms of soil and in terms of weather and climate.
 The relevant parameters are therefore usually collected as part of the [general field data](#general-field-data).  
@@ -156,7 +156,7 @@ Therefore, they provide a sustainable monitoring of soil and plant properties un
 LTE data represent an important agricultural data treasure that should be carefully publicised.
 (cf. Schmidt _et al._ 2023, p. 4)[^1]
 
-The [LTE overview map](https://tools.bonares.de/ltfe/){:target=‘_blank’} from BonaRes[^2] provides a good overview of already published long-term field experiments in Europe.
+The [LTE overview map](https://tools.bonares.de/ltfe/){:target="_blank"} from BonaRes[^2] provides a good overview of already published long-term field experiments in Europe.
 Data from more than 570 agricultural experiments with a duration of at least 20 years each are collected there.
 
-[^2]: BonaRes Repository. [https://doi.org/10.25504/FAIRsharing.2cw3HU](https://doi.org/10.25504/FAIRsharing.2cw3HU){:target=‘_blank’}
+[^2]: BonaRes Repository. [https://doi.org/10.25504/FAIRsharing.2cw3HU](https://doi.org/10.25504/FAIRsharing.2cw3HU){:target="_blank"}

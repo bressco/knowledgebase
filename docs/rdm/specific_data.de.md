@@ -72,7 +72,7 @@ Details finden sich bei der [Übersicht zu Rechten an Daten](/knowledgebase/lega
 Im Einzelfall kann der [FAIRagro Helpdesk](https://fairagro.net/helpdesk){:target="_blank"} weiterhelfen.
 
 
-### Genetische Daten („omics“-Daten)
+### Genetische Daten („omics“-Daten) {#genetische-daten}
 In vielen Bereichen der lebenswissenschaftlichen Forschung gehören genetische Methoden zum Standard.
 So werden u.a. auch im Bereich der Nutzpflanzenforschung vermehrt genetische Studien an z.B. Mais oder Gerste durchgeführt.
 Häufig stehen bei diesen Studien Zusammenhänge zwischen verschiedenen Genotypen (genetische Sortenmerkmale) und ihren jeweiligen Phänotypen, den Ausprägungen dieser Merkmale unter den gegebenen Umwelteinflüssen, im Vordergrund.
@@ -156,7 +156,7 @@ Details finden sich bei der [Übersicht zu Rechten an Daten](/knowledgebase/lega
 Im Einzelfall kann der [FAIRagro Helpdesk](https://fairagro.net/helpdesk){:target="_blank"} weiterhelfen.
 
 
-### Big Geodata/Geomassedaten
+### Big Geodata/Geomassedaten {#geomassedaten}
 Geodaten sind Informationen über physische Objekte, denen ein räumlicher Bezug (bspw. Koordinaten) angehängt ist.
 Diese Informationen können Punkte, Linien und Flächen in Form von Messungen im Gelände sein, welche als Geo-Vektordaten bezeichnet werden, als auch bildgebende Messungen von Sensor- und Kamerasystemen im Gelände, aus der Luft und aus dem All, welche als Geo-Rasterdaten bezeichnet werden.
 Global gesehen erreicht die „Flut“ an Geodaten heutzutage mehrere dutzende von Petabytes (1 PB = 1.000 TB = 1 Million GB) mit täglich steigender Aufnahmerate hunderter Terrabytes.
@@ -195,7 +195,7 @@ Im Einzelfall kann der [FAIRagro Helpdesk](https://fairagro.net/helpdesk){:targe
 
 ## Besonderheiten
 
-### Dauerversuche (Langzeitfeldexperimente, Long-term field experiments/LTE)
+### Dauerversuche (Langzeitfeldexperimente, Long-term field experiments/LTE) {#dauerversuche}
 Viele Experimente im nutzpfanzenwissenschaftlichen Kontext erstrecken sich über einen kompletten Zyklus bestehend aus Aussaat, Pflanzenwachstum (inkl. Behandlungen) und Ernte.
 Im Freiland sind solche Experimente immer auch von den Standortbedingungen abhänig, sowohl in Bezug auf den Boden als auch in Bezug auf Wetter und Klima.
 Die entsprechenden Parameter werden daher in der Regel im Rahmen der [allgemeinen Felddaten](#allgemeine-felddaten) erhoben.  
