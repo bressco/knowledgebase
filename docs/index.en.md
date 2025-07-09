@@ -12,12 +12,15 @@ The **FAIRagro Knowledge Base** is your central resource for guidance, tools, le
 If you want to learn more about the project, please visit the [FAIRagro website](https://fairagro.net).
 
 ---
+## Who is it for?
+This resource is intended for all interested in agrosystem research and want to be a part of the change towards **FAIR** data.
 
-## Questions or comments?
-_Are there any futher questions or comments still open?_
+Whether you’re just getting started with **FAIR** data or looking for specific technical support — this knowledge base will guide you step by step.
 
-Please contact our [FAIRagro Helpdesk](https://fairagro.net/helpdesk)! We are lookinf forward to hear from you.
+## Where to find us?
+The FAIRagro Knowledge Base is provided by the FAIRagro DSSC (Data Steward Service Center).
+
+If you have feedback or want to contribute, please get in touch with us directly via email [dataservice@fairagro.net](mailto:dataservice@fairagro.net) or use the Helpdesk [FAIRagro Helpdesk](https://fairagro.net/helpdesk) 
 
 
-## Contact
-The FAIRagro Knowledge Base is provided by the FAIRagro DSSC (Data Steward Service Center, [dataservice@fairagro.net](mailto:dataservice@fairagro.net)).
+## Let’s make agricultural data FAIR!
