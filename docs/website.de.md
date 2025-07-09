@@ -3,11 +3,9 @@
 ## Was ist FAIRagro?
 [![Logo FAIRagro](images/Logo_FAIRagro.png){ align=right }](https://fairagro.net/){:target="_blank"}
 
-Das FAIRagro-Konsortium mit mehr als 30 Partnern baut ein FAIRes Forschungsdatenmanagement (**F**indable, **A**ccessible, **I**nteroperable, **R**eusable) für die Community der Agrosystemforschung auf.
-Wir entwickeln die passenden Tools und Workflows und schaffen so die Grundlagen für eine nachhaltige Pflanzenproduktion – jetzt und in Zukunft.
+Das FAIRagro-Konsortium mit mehr als 30 Partnern ist Teil der **deutschen Nationalen Forschungsdateninfrastruktur (NFDI)** und hat sich zum Ziel gesetzt, nachhaltige und offene Datenpraktiken in der Agrosystemforschung zu unterstützen. Unser Ziel ist es, Forscher im Umgang mit komplexen und heterogenen Daten zu **unterstützen**, indem wir eine zuverlässige Informationsquelle, maßgeschneiderte Schulungsmaterialien und praktische Anleitungen für den Umgang mit **Findable, Accessible, Interoperable, and Reusable (FAIR)** bereitstellen. Wir entwickeln die richtigen Werkzeuge und Arbeitsabläufe, um die Grundlagen für eine nachhaltige Pflanzenproduktion zu schaffen - jetzt und in Zukunft.
 
-Weitere Infos zum Projekt findet ihr auf unserer [Website](https://fairagro.net/){:target="_blank"}.
-
+Wenn du mehr über das Projekt erfahren möchtest, besuche bitte die [FAIRagro-Website](https://fairagro.net/){:target="_blank"}.
 
 ## FAIRagro Helpdesk
 
