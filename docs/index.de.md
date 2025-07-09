@@ -24,4 +24,4 @@ Die FAIRagro Knowledgebase wird betrieben vom FAIRagro DSSC (Data Steward Servic
 
 Wenn ihr Feedback habt oder einen Kommentar abgeben wollt, wendet euch bitte direkt an uns per E-Mail [dataservice@fairagro.net](mailto:dataservice@fairagro.net) oder nutzt den Helpdesk [FAIRagro Helpdesk](https://fairagro.net/helpdesk).
 
-## Lasst uns Agrarsystemforschungsdaten FAIR machen!
+Lasst uns Agrarsystemforschungsdaten FAIR machen!
