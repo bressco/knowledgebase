@@ -23,4 +23,4 @@ The FAIRagro Knowledge Base is provided by the FAIRagro DSSC (Data Steward Servi
 If you have feedback or want to contribute, please get in touch with us directly via email [dataservice@fairagro.net](mailto:dataservice@fairagro.net) or use the Helpdesk [FAIRagro Helpdesk](https://fairagro.net/helpdesk) 
 
 
-## Let’s make agricultural data FAIR!
+**Let’s make agricultural data FAIR!**
