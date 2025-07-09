@@ -7,9 +7,9 @@
 ---
 
 ![Logo FAIRagro](images/Logo_FAIRagro.png){ align=left }
-In our knowldedge base we provide information on research data management (RDM) in the agrosystem sciences, RDM and legal, training and other resources.
+The **FAIRagro Knowledge Base** is your central resource for guidance, tools, legal and training related to research data management (RDM) for the **agrosystem research community**. Whether you are a researcher, data steward, developer, or simply curious about making agricultural research data more **FAIR** — you’ve come to the right place!
 
-If you want to learn more about our project, please visit our [website](https://fairagro.net).
+If you want to learn more about the project, please visit the [FAIRagro website](https://fairagro.net).
 
 ---
 
