@@ -42,8 +42,9 @@ theme:
  #       - navigation.footer
     #color scheme
     palette:
-        primary: green
-        accent: lime
+        primary: custom
+        accent: custom
+        
 
 # Language settings
 plugins:
@@ -94,3 +95,7 @@ extra:
     - icon: fontawesome/solid/address-book
       link: https://fairagro.net/kontakt
       name: Kontakt
+  homepage: https://fairagro.net # Website link for logo
+
+extra_css:
+  - stylesheets/extra.css
