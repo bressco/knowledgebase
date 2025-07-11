@@ -1,7 +1,7 @@
 # Project configuration
 site_name: FAIRagro Knowledgebase
 site_url: https://fairagro.github.io/knowledgebase
-copyright: Copyright &copy; 2025 FAIRagro
+
 
 # Navigation Header Deutsch (English Override -> language settings)
 nav:
@@ -44,6 +44,7 @@ theme:
     palette:
         primary: custom
         accent: custom
+    custom_dir: docs/custom
         
 
 # Language settings
@@ -87,15 +88,31 @@ markdown_extensions:
       toc_depth: 3
   - pymdownx.blocks.caption
 
-extra:
-  social:
-    - icon: fontawesome/solid/file-contract
-      link: https://fairagro.net/impressum
-      name: Impressum 
-    - icon: fontawesome/solid/address-book
-      link: https://fairagro.net/kontakt
-      name: Kontakt
-  homepage: https://fairagro.net # Website link for logo
-
 extra_css:
   - stylesheets/extra.css
+
+extra:
+#  social:
+#    - icon: fontawesome/solid/file-contract
+#      link: https://fairagro.net/impressum
+#      name: Impressum 
+#    - icon: fontawesome/solid/address-book
+#      link: https://fairagro.net/kontakt
+#      name: Kontakt
+  homepage: https://fairagro.net # Website link for logo
+  generator: false
+  footer:
+      logo:
+        link: https://www.fairagro.net
+        img: assets/logo.png
+
+footer:
+  copyright: |
+    &copy; 2025 FAIRagro
+  links:
+    - name: Kontakt
+      link: https://fairagro.net/kontakt/
+    - name: Impressum
+      link: https://fairagro.net/impressum/
+    - name: Datenschutzerklärung
+      link: https://fairagro.net/datenschutzerklaerung/

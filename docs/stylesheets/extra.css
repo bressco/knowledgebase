@@ -4,6 +4,8 @@
   --md-primary-bg-color:	#74B549; 	/*color header text (FAIRagro middle green)*/
   --md-typeset-a-color:		#00917A; 	/*color link (FAIRagro dark green)*/
   --md-accent-fg-color:     #A7C637; 	/*color link hover (FAIRagrolight green)*/
+  --md-footer-bg-color:		grey;
+  
   
   --md-text-font: "Fira Sans"
 }
@@ -12,3 +14,4 @@
   font-family: "Fira Sans";
   src: "https://mozilla.github.io/Fira/";
 }
+
