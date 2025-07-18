@@ -18,7 +18,6 @@ nav:
     - FDM Training: training_material.de.md
     - Tools & Services: tools.de.md
     - Netzwerk & Mehr: links.de.md
-    - FAIRagro: website.de.md
 
 # Theme configuration
 theme:
@@ -78,7 +77,6 @@ plugins:
             - RDM Training: training_material.en.md
             - Tools & Services: tools.en.md
             - Network & More: links.en.md
-            - FAIRagro: website.en.md
 
 markdown_extensions:
   - attr_list
