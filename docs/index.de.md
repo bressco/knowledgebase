@@ -5,7 +5,7 @@
     _Diese Seite befindet sich derzeit im Aufbau!_
 
 
-Die **FAIRagro-Knowledge Base** ist unsere zentrale Ressource für Anleitungen, Werkzeuge, rechtliche Fragen und Training im Zusammenhang mit Forschungsdatenmanagement (RDM) für die **agrosystem research community**. Egal, ob du ein Forscher, Datenverwalter, Entwickler oder einfach nur neugierig darauf bist, landwirtschaftliche Forschungsdaten **FAIR** zu machen - hier bist du richtig!
+Die **FAIRagro-Knowledge Base** ist unsere zentrale Ressource für Anleitungen, Werkzeuge, rechtliche Fragen und Training im Zusammenhang mit Forschungsdatenmanagement (FDM) für die **agrosystem research community**. Egal, ob als Forschende, Datenbeauftragte, Entwicklende oder einfach nur neugierig darauf seid, landwirtschaftliche Forschungsdaten **FAIR** zu machen - hier seid ihr richtig!
 
 Wenn ihr mehr über das Projekt FAIRagro wissen wollt, schaut auch gerne auf die [FAIRagro Website](https://fairagro.net).
 
@@ -14,12 +14,12 @@ Wenn ihr mehr über das Projekt FAIRagro wissen wollt, schaut auch gerne auf die
 ## Für wen ist sie gedacht?
 Diese Ressource ist für alle gedacht, die sich für die Agrarsystemforschung interessieren und den Wandel hin zu **FAIR-Daten** mitgestalten wollen.
 
-Egal, ob du gerade erst mit **FAIR-Daten** anfängst oder nach spezifischer technischer Unterstützung suchst - diese Knowledgebase wird dich Schritt für Schritt anleiten.
+Egal, ob ihr gerade erst mit **FAIR-Daten** anfängt oder nach spezifischer technischer Unterstützung sucht - diese Knowledgebase wird euch Schritt für Schritt anleiten.
 
 
 ## Kontakt
 Die FAIRagro Knowledgebase wird betrieben vom FAIRagro DSSC (Data Steward Service Center).
 
-Wenn ihr Feedback habt oder einen Kommentar abgeben wollt, wendet euch bitte direkt an uns per E-Mail [dataservice@fairagro.net](mailto:dataservice@fairagro.net) oder nutzt den Helpdesk [FAIRagro Helpdesk](https://fairagro.net/helpdesk).
+Wenn ihr Feedback habt oder einen Kommentar abgeben wollt nutzt den [FAIRagro Helpdesk](https://fairagro.net/helpdesk).
 
 **Lasst uns Agrarsystemforschungsdaten FAIR machen!**
