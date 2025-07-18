@@ -7,18 +7,22 @@
 
 The **FAIRagro Knowledge Base** is your central resource for guidance, tools, legal and training related to research data management (RDM) for the **agrosystem research community**. Whether you are a researcher, data steward, developer, or simply curious about making agricultural research data more **FAIR** — you’ve come to the right place!
 
-If you want to learn more about the project, please visit the [FAIRagro website](https://fairagro.net).
+If you want to learn more about the project, please visit the [FAIRagro website](https://fairagro.net){:target="_blank"}.
 
 ---
+
 ## Who is it for?
 This resource is intended for all interested in agrosystem research and want to be a part of the change towards **FAIR** data.
 
 Whether you’re just getting started with **FAIR** data or looking for specific technical support — this knowledge base will guide you step by step.
 
-## Where to find us?
+
+## Who made it?
 The FAIRagro Knowledge Base is provided by the FAIRagro DSSC (Data Steward Service Center).
+Our Data Steward Team offers you as a part of the agricultural research community support for all your questions concerning research data management.
+We are there for you in each phase of the data lifecycle – from research and the creation of a data management plan to the publication of your data.  
+You can find more information about out team on our [website](https://fairagro.net/en/helpdesk/){:target="_blank"}.
 
-If you have feedback or want to contribute, please get in touch with us directly via the [FAIRagro Helpdesk](https://fairagro.net/helpdesk) 
-
+If you have feedback, comments or any questions regarding RDM, please get in touch with us directly via the [contact form](https://fairagro.net/en/helpdesk/){:target="_blank"}
 
 **Let’s make agricultural data FAIR!**
