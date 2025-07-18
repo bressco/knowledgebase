@@ -1,20 +1,21 @@
-# FAIRagro Knowledgebase
+# Welcome to the FAIRagro Knowledgebase!
 
 
 !!! warning "Note"
     _This page is currently under construction!_
 
 
-The **FAIRagro Knowledge Base** is your central resource for guidance, tools, legal and training related to research data management (RDM) for the **agrosystem research community**. Whether you are a researcher, data steward, developer, or simply curious about making agricultural research data more **FAIR** — you’ve come to the right place!
+The **FAIRagro Knowledgebase** is our central resource for questions, guides, tools, and legal issues in research data management (RDM) for the **agrosystem research community**.
+Whether you are a researcher, data steward, developer, or simply curious about making agricultural research data more **FAIR** — you’ve come to the right place!
 
 If you want to learn more about the project, please visit the [FAIRagro website](https://fairagro.net){:target="_blank"}.
 
 ---
 
 ## Who is it for?
-This resource is intended for all interested in agrosystem research and want to be a part of the change towards **FAIR** data.
+This resource is intended for all those interested in agrosystem research and who want to be a part of the change towards **FAIR** data.
 
-Whether you’re just getting started with **FAIR** data or looking for specific technical support — this knowledge base will guide you step by step.
+Whether you’re just getting started with **FAIR** data or looking for specific technical support — this knowledgebase will guide you step by step.
 
 
 ## Who made it?
