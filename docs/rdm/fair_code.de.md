@@ -1,4 +1,4 @@
-# Fahrplan zur FAIRen Code-Veröffentlichung
+# Wie veröffentliche ich Code FAIR?
 
 Forschungsergebnisse werden heutzutage im großen Maße durch selbstentwickelte Software bzw. codebasierte Skripte generiert.
 Dabei wird dieser Code als Teil der eigenen Forschung betrachtet.  
