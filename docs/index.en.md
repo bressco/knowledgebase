@@ -18,7 +18,7 @@ Whether you’re just getting started with **FAIR** data or looking for specific
 ## Where to find us?
 The FAIRagro Knowledge Base is provided by the FAIRagro DSSC (Data Steward Service Center).
 
-If you have feedback or want to contribute, please get in touch with us directly via email [dataservice@fairagro.net](mailto:dataservice@fairagro.net) or use the Helpdesk [FAIRagro Helpdesk](https://fairagro.net/helpdesk) 
+If you have feedback or want to contribute, please get in touch with us directly via the [FAIRagro Helpdesk](https://fairagro.net/helpdesk) 
 
 
 **Let’s make agricultural data FAIR!**
