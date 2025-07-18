@@ -26,4 +26,4 @@ Weitere Infos zum Team findet ihr auf unserer [Website](https://fairagro.net/hel
 
 Wenn ihr Feedback habt, einen Kommentar abgeben wollt oder sonstige Fragen zum Thema FDM habt, nutzt gerne unser [Kontaktformular](https://fairagro.net/helpdesk/#helpdesk-form){:target="_blank"}.
 
-**Lasst uns Agrarsystemforschungsdaten FAIR machen!**
+**Lasst uns zusammen Agrarsystemforschungsdaten FAIR machen!**

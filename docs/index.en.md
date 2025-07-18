@@ -26,4 +26,4 @@ You can find more information about out team on our [website](https://fairagro.n
 
 If you have feedback, comments or any questions regarding RDM, please get in touch with us directly via the [contact form](https://fairagro.net/en/helpdesk/#helpdesk-form){:target="_blank"}.
 
-**Let’s make agricultural data FAIR!**
+**Let’s make agricultural data FAIR together!**
