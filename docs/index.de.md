@@ -5,8 +5,8 @@
     _Diese Seite befindet sich derzeit im Aufbau!_
 
 
-Die **FAIRagro Knowledgebase** ist unsere zentrale Ressource für Fragen, Anleitungen, Werkzeuge und rechtliche Fragen im Forschungsdatenmanagement (FDM) für die **Agrosystemforschungscommunity**.
-Egal, ob als Forschende, Datenbeauftragte, Entwickelnde oder ob ihr einfach nur neugierig darauf seid, landwirtschaftliche Forschungsdaten **FAIR** zu machen - hier seid ihr richtig!
+Die **FAIRagro Knowledgebase** ist unsere zentrale Ressource für Fragen, Anleitungen, Werkzeuge und rechtliche Fragen im Forschungsdatenmanagement (FDM) für die **Agrosystemforschungscommunity**.  
+Egal, ob als Forschende, Datenbeauftragte, Entwickelnde oder ob ihr einfach nur neugierig darauf seid, landwirtschaftliche Forschungsdaten **FAIR** zu machen — hier seid ihr richtig!
 
 Wenn ihr mehr über das Projekt FAIRagro wissen wollt, schaut auch gerne auf die [FAIRagro Website](https://fairagro.net){:target="_blank"}.
 
@@ -15,7 +15,7 @@ Wenn ihr mehr über das Projekt FAIRagro wissen wollt, schaut auch gerne auf die
 ## Für wen ist sie gedacht?
 Diese Ressource ist für alle gedacht, die sich für die Agrarsystemforschung interessieren und den Wandel hin zu **FAIR-Daten** mitgestalten wollen.
 
-Egal, ob ihr gerade erst mit **FAIRen Daten** anfangt oder nach spezifischer technischer Unterstützung sucht - diese Knowledgebase wird euch Schritt für Schritt anleiten.
+Egal, ob ihr gerade erst mit **FAIRen Daten** anfangt oder nach spezifischer technischer Unterstützung sucht — diese Knowledgebase wird euch Schritt für Schritt anleiten.
 
 
 ## Von wem ist sie gemacht?
