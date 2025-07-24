@@ -14,6 +14,16 @@ The content is equally useful for beginners and advanced users.
 _The most pages are only available in German, but there ist a [slimmed-down version in English](https://forschungsdaten.info/english-pages/){:target="_blank"}._
 
 
+## [Forschungsdaten.org](https://www.forschungsdaten.org/){:target="_blank"} (German)
+[![Logo Forschungsdaten.org](images/Logo_ForschungsdatenOrg.png){ align=right }](https://www.forschungsdaten.org/){:target="_blank"}
+
+[Forschungsdaten.org](https://www.forschungsdaten.org/){:target="_blank"} is a collaborative wiki with over 200 entries written by RDM professionals.
+The main target audience are infrastructure providers, librarians, data stewards, tool developers, etc..
+It contains technical content, best practices, standards, tool descriptions (e.g. RDMO, UFOowl), and documentation from national projects.
+
+_Forschungsdaten.org is only available in German._
+
+
 ## [RDMkit Elixir Europe](https://rdmkit.elixir-europe.org){:target="_blank"}
 [![Logo RDMkit](images/Logo_RDMkit.png){ align=right }](https://rdmkit.elixir-europe.org){:target="_blank"}
 

@@ -12,6 +12,14 @@ Hier findet ihr ein paar gute Links zum Nachlesen allgemeiner (generischer) FDM 
 Die Inhalte sind für Einsteiger und Fortgeschrittene gleichermaßen nützlich.
 
 
+## [Forschungsdaten.org](https://www.forschungsdaten.org/){:target="_blank"}
+[![Logo Forschungsdaten.org](images/Logo_ForschungsdatenOrg.png){ align=right }](https://www.forschungsdaten.org/){:target="_blank"}
+
+[Forschungsdaten.org](https://www.forschungsdaten.org/){:target="_blank"} ist ein kollaboratives Wiki mit über 200 Einträgen, die von RDM-Expert\*innen verfasst wurden.
+Die Hauptzielgruppe sind Infrastrukturanbietende, Bibliothekar\*innen, Datenverwaltende, Tool-Entwickelnde usw..
+Es enthält technische Inhalte, Best Practices, Standards, Tool-Beschreibungen (z.B. RDMO, UFOowl) und Dokumentationen aus nationalen Projekten.
+
+
 ## [RDMkit Elixir Europe](https://rdmkit.elixir-europe.org){:target="_blank"}
 [![Logo RDMkit](images/Logo_RDMkit.png){ align=right }](https://rdmkit.elixir-europe.org){:target="_blank"}
 
