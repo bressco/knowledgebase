@@ -15,7 +15,7 @@ nav:
     - FDM & Recht: 
         - Recht im FDM: legal/index.de.md
         - Rechte an Daten: legal/rights.de.md
-    - FDM Training: training_material.de.md
+    - FDM Training: training.de.md
     - Tools & Services: tools.de.md
     - Netzwerk & Mehr: links.de.md
 
@@ -74,7 +74,7 @@ plugins:
             - RDM & Legal: 
                 - Legal topics in RDM: legal/index.en.md
                 - Data rights: legal/rights.en.md
-            - RDM Training: training_material.en.md
+            - RDM Training: training.en.md
             - Tools & Services: tools.en.md
             - Network & More: links.en.md
 
