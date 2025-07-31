@@ -1,17 +1,66 @@
-# How to learn and teach RDM – a collection
+# Where can I find training opportunities and/or learning and teaching materials on the topic of RDM?
 
-FAIRagro has compiled **learning and teaching materials on research data management for the agrosystems research community**.
-These resources are designed to help you **learn** about research data management (RDM), especially in the agricultural sciences.
-**Teachers** can reuse many of the resources collected to design their own training courses on discipline-specific RDM.
+The topic of research data management (RDM) is diverse.
+For those looking for general (generic) information, we have compiled a list of helpful resources [here](basics.en.md).
+Subject-specific information on [RDM in agrosystem research](rdm/index.en.md) can be found directly here in our knowledgebase.
 
-Here we offer you a quick overview of the learning and teaching resources we have compiled with a brief description, keywords and direct links to the resources.
-We will publish these data in the DALIA catalog in the Knowledge Graph for Open Educational Resources on RDM and then include a searchable and filterable display here.
-
-If you are looking for more detailed information, you will these in our [Excel table with more information on the individual teaching and learning resources with detailed descriptions of the resources](https://zenodo.org/records/11148701), information on learning objectives, target groups, authors and funders.
-This table allows you to filter for resources that are particularly suitable for learning yourself, or for materials that can be reused by teachers.
-You can also filter by other criteria such as language, format, target group, domain and license to find the right resource.
+Many aspects of RDM can be easily learned independently.
+In addition to the above-mentioned information resources, there are also **learning materials** for self-study and **teaching resources** for further training others.
+There is also the option of participating in **training** in the field of RDM.
 
 
-## Overview of learning and teaching materials
+## Training opportunities
 
-**-- INSERT OVERVIEW HERE! --**
+FAIRagro organises various trainings (some in collaboration with different partners).
+An overview of upcoming training events - both our own and other relevant courses - can be found in the [training calendar](https://fairagro.net/en/){:target="_blank"} on the FAIRagro website.
+
+If you have any questions about training, please contact our training coordinator or the [helpdesk](https://fairagro.net/en/helpdesk/#helpdesk-form){:target="_blank"}.
+
+
+## Learning and teaching materials
+
+### Collection of learning and teaching materials
+
+!!! tip inline end "Collection of learning and teaching materials"
+	Boße *et al.* (2024): [**How to Learn and Teach Research Data Management in Agrosystem Research - a FAIRagro Collection**](https://doi.org/10.5281/zenodo.11148701){:target="_blank"}
+
+
+There is a wide range of learning and teaching materials available (especially online).
+To make it easier to find your way around, we have compiled a [collection of learning and teaching materials on handling research data](https://doi.org/10.5281/zenodo.11148701){:target="_blank"}[^1] for the agrosystem research community.
+These resources are intended to support further education in the field of RDM, especially in agricultural sciences.
+Teachers can reuse many of the collected resources to design their own training courses on discipline-specific RDM.
+
+This collection (in the form of an Excel table) contains detailed descriptions of the resources, information on learning objectives, target groups, authors and sponsors.
+The table allows you to filter by resources that are particularly suitable for self-study, for example, or by materials that can be reused by teachers.
+Other criteria such as language, format, target group, domain and licence can also be filtered specifically.
+
+[^1]: Boße, S., Singson, L. S., Sahwan, W., Rey Mazón, E., & Vedder, L. (2024). **How to Learn and Teach Research Data Management in Agrosystem Research - a FAIRagro Collection**. Zenodo. [https://doi.org/10.5281/zenodo.11148701](https://doi.org/10.5281/zenodo.11148701){:target="_blank"}
+
+
+### Training module
+
+As part of the FAIRagro project, a detailed **training module** on RDM in agrosystem research is currently being developed.  
+This training module contains the slides and content used in our training courses and is designed for reuse (especially by teachers).  
+As soon as further information is available, you will find it here and on the FAIRagro website.
+
+
+### Specific materials (examples)
+
+#### Cooperation with the University of Kassel
+
+At the end of 2024/beginning of 2025, FAIRagro collaborated with the University of Kassel to design and implement a three-part training course on **“Research Data Management in Agricultural Sciences”**.
+In addition to a [general introduction](https://doi.org/10.4126/FRL01-006428881), advanced training courses were offered on the topics of “[data documentation](https://doi.org/10.4126/FRL01-006428850){:target=‘_blank’}” and “[data publication](https://doi.org/10.4126/FRL01-006426818){:target=‘_blank’}”.
+The materials are published on Zenodo:
+
+- Boße, S., Jordan, S., Rey Mazón, E., & Schröder, K. (2025). **Introduction to Research Data Management in Agricultural Sciences – Trainingmaterial**. Fachrepositorium Lebenswissenschaften. [https://doi.org/10.4126/FRL01-006428881](https://doi.org/10.4126/FRL01-006428881){:target="_blank"}
+- Boße, S., Jordan, S., Schneider, G., & Vedder, L. (2025). **Research Data Management in Agricultural Sciences - Advanced module: Data documentation - Trainingmaterial**. Fachrepositorium Lebenswissenschaften. [https://doi.org/10.4126/FRL01-006428850](https://doi.org/10.4126/FRL01-006428850){:target="_blank"}
+- Boße, S., Jordan, S., Rey Mazón, E., Sahwan, W., & Svoboda, N. (2025). **Research Data Management in Agricultural Sciences - Advanced module: Data publication– Trainingsmaterial**. Fachrepositorium Lebenswissenschaften. [https://doi.org/10.4126/FRL01-006426818](https://doi.org/10.4126/FRL01-006426818){:target="_blank"}
+
+
+#### Legal Trainig Series
+
+As part of the Legal Training Series **“Don't panic! Survival guide for Law and Ethics in Research”**, organised by FAIRagro, NFDI4Biodiversity and NFDI4Earth, the first episode, “[Datenschutz auf dem Silbertablett](https://doi.org/10.4126/FRL01-006402743){:target=‘_blank’}”, was conducted in April 2025 by Lea Singson and Sophie Boße.
+The materials, incl. the recording, are also published on Zenodo (German only):
+
+- Singson, L. S., & Boße, S. (2025). **Datenschutz auf dem Silbertablett - Trainingsmaterial**. Publisso. [https://doi.org/10.4126/FRL01-006402743](https://doi.org/10.4126/FRL01-006402743){:target="_blank"}
+
