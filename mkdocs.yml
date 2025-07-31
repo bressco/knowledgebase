@@ -5,7 +5,7 @@ site_url: https://fairagro.github.io/knowledgebase
 
 # Navigation Header Deutsch (English Override -> language settings)
 nav:
-    - Home: index.de.md
+    - Erste Schritte: index.de.md
     - FDM Basics: basics.de.md
     - FDM Agrar:
         - Agrarspezifisches FDM: rdm/index.de.md
@@ -64,7 +64,7 @@ plugins:
           build: true
           # English navigation
           nav:
-            - Home: index.en.md
+            - Getting started: index.en.md
             - RDM Basics: basics.en.md
             - RDM Agriculture:
                 - Agriculture-specific RDM: rdm/index.en.md
