@@ -16,7 +16,7 @@ nav:
         - Recht im FDM: legal/index.de.md
         - Rechte an Daten: legal/rights.de.md
     - FDM Training: training.de.md
-    - Tools & Services: tools.de.md
+    - FAIRagro Services: services.de.md
     - Netzwerk & Mehr: info.de.md
 
 # Theme configuration
@@ -75,7 +75,7 @@ plugins:
                 - Legal topics in RDM: legal/index.en.md
                 - Data rights: legal/rights.en.md
             - RDM Training: training.en.md
-            - Tools & Services: tools.en.md
+            - FAIRagro Services: services.en.md
             - Network & More: info.en.md
 
 markdown_extensions:
