@@ -27,9 +27,6 @@ theme:
     font: false
     features:
         # navigation
-#        - navigation.tabs
-#        - navigation.tabs.sticky
-#        - navigation.sections
         - navigation.expand
         - navigation.indexes
         - navigation.top 
@@ -37,8 +34,6 @@ theme:
         # toc
         - toc.integrate 
         - toc.follow
-        #footer
- #       - navigation.footer
     #color scheme
     palette:
         primary: custom
@@ -90,13 +85,6 @@ extra_css:
   - stylesheets/extra.css
 
 extra:
-#  social:
-#    - icon: fontawesome/solid/file-contract
-#      link: https://fairagro.net/impressum
-#      name: Impressum 
-#    - icon: fontawesome/solid/address-book
-#      link: https://fairagro.net/kontakt
-#      name: Kontakt
   homepage: https://fairagro.net # Website link for logo
   generator: false
   footer:
@@ -112,5 +100,5 @@ footer:
       link: https://fairagro.net/kontakt/
     - name: Impressum
       link: https://fairagro.net/impressum/
-    - name: Datenschutzerklärung
+    - name: Datenschutzerklärung (Privacy Policy)
       link: https://fairagro.net/datenschutzerklaerung/
