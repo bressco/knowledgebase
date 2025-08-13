@@ -8,7 +8,7 @@ Häufig stellen sich dabei Fragen wie:
 *Wie kann ich meinen Workflow automatisieren?* (&rarr; [SciWIn Client](#sciwin-client)), oder
 *Gibt es Templates, die ich für meinen Datenmanagementplan (DMP) nutzen kann?* (&rarr; [DMP Templates](#dmp-templates)).
 
-Eine allgemeine Übersicht über die FAIRagro Services findet ihr auch auf unserer [Website](https://fairagro.net/){:target="_blank"}.
+Eine allgemeine Übersicht über die FAIRagro Services findet ihr auch auf unserer [Website](https://fairagro.net/services){:target="_blank"}.
 
 
 ## [FAIRagro Search Hub](https://search-hub.fairagro.net/){:target="_blank"}
