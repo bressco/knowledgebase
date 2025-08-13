@@ -45,5 +45,10 @@ Eine detailierte Anleitung zur Nutzung des SciWIn-Clients findet ihr in der (eng
 
 
 ## DMP Templates
-DMP Templates RDMO
+Häufig gibt es Fragen zu Datenmanagementplänen (DMPs) und möglichen Vorlagen (Templates).
 
+FAIRagro betreibt in Kooperation mit [base4NFDI](https://base4nfdi.de/){:target="_blank"} eine Instanz des Research Data Management Organizer (RDMO) als Service für die Community.
+Die Entwicklung von fachspezifischen Vorlagen (Templates) für die Erstellung von Datenmanagementplänen, die auf die in den FAIRagro Use Cases beschriebenen Bedürfnisse und weitere Anforderungen aus der Community zugeschnitten sind, werden im Arbeitsprogramm adressiert.
+
+Sobald diese verfügbar sind findet ihr weitere Informationen dazu hier und auf der FAIRagro [Website](https://fairagro.net){:target="_blank"}.
+In der Zwischenzeit wendet euch mit euren Fragen gerne an den [Helpdesk](https://fairagro.net/helpdesk/#helpdesk-form){:target="_blank"}!

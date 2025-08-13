@@ -40,10 +40,15 @@ It helps researchers define individual analysis steps as CWL specifications and 
 By formalizing analytical processes, SciWIn Client improves reproducibility, transparency, and reusability of computational methods.
 It facilitates documentation, versioning, and sharing of workflows, supporting collaborative and sustainable research practices.
 
-You can find a more in-depth answer to the question “What is SciWIn?” on our [website](https://fairagro.net/services/sciwin/){:target="_blank"}.
+You can find a more in-depth answer to the question “What is SciWIn?” on our [website](https://fairagro.net/en/services/sciwin/){:target="_blank"}.
 Detailed instructions on how to use the SciWIn-Client can be found in the [documentation](https://fairagro.github.io/m4.4_sciwin_client/getting-started/){:target="_blank"} of the service.
 
 
 ## DMP Templates
-DMP Templates RDMO
+There are often questions about data management plans (DMPs) and possible templates.
 
+FAIRagro operates in cooperation with [base4NFDI](https://base4nfdi.de/){:target="_blank"} one instance of the research data management organizer (RDMO) tool as service for the community.
+The development of subject-specific templates for the creation of DMPs customized to the needs as described in the use cases and further communities are addressed in the work program.
+
+As soon as they are available, you will find further information here and on the FAIRagro [website](https://fairagro.net/en){:target="_blank"}.
+In the meantime, please feel free to contact the [Helpdesk](https://fairagro.net/en/helpdesk/#helpdesk-form){:target="_blank"} with any questions you may have!
