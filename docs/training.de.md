@@ -14,7 +14,7 @@ Auch gibt es die Möglichkeit an einem **Training** im Bereich FDM teilzunehmen.
 FAIRagro veranstaltet (teilweise mit verschiedenen Kooperationspartnern) diverse Trainings.
 Eine Übersicht über anstehende Trainings - unsere sowie weitere fachlich passende - findet ihr im [Trainingskalender](https://fairagro.net/events/trainings/){:target="_blank"} auf der FAIRagro Website.
 
-Bei Fragen rund um das Thema Training schaut gerne auf unsere [Website](https://fairagro.net/community/training-education/) oder wendet euch an unsere [Trainingskoordinatorin](https://fairagro.net/fairagro_team_category/measure-2-4/){:target="_blank"} oder den [Helpdesk](https://fairagro.net/helpdesk/#helpdesk-form){:target="_blank"}.
+Bei Fragen rund um das Thema Training schaut gerne auf unsere Website im Bereich [Trainig & Education](https://fairagro.net/community/training-education/){:target="_blank"} oder wendet euch an unsere [Trainingskoordinatorin](https://fairagro.net/fairagro_team_category/measure-2-4/){:target="_blank"} oder den [Helpdesk](https://fairagro.net/helpdesk/#helpdesk-form){:target="_blank"}.
 
 
 ## Lern- und Lehrmaterialien

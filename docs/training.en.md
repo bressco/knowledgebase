@@ -14,7 +14,7 @@ There is also the option of participating in **training** in the field of RDM.
 FAIRagro organises various trainings (some in collaboration with different partners).
 An overview of upcoming training events - both our own and other relevant courses - can be found in the [training calendar](https://fairagro.net/en/events/trainings/){:target="_blank"} on the FAIRagro website.
 
-If you have any questions about training, please take a look at our [website](https://fairagro.net/en/community/training-education/){:target="_blank"} or get in contact with our [training coordinator](https://fairagro.net/en/fairagro_team_category/measure-2-4/){:target="_blank"} or the [helpdesk](https://fairagro.net/en/helpdesk/#helpdesk-form){:target="_blank"}.
+If you have any questions about training, please take a look at our website in the [Trainig & Education](https://fairagro.net/en/community/training-education/){:target="_blank"} section or get in contact with our [training coordinator](https://fairagro.net/en/fairagro_team_category/measure-2-4/){:target="_blank"} or the [helpdesk](https://fairagro.net/en/helpdesk/#helpdesk-form){:target="_blank"}.
 
 
 ## Learning and teaching materials
