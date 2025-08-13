@@ -31,11 +31,17 @@ Zusätzlich ist jede*r, die/der den Search Hub nutzt, eingeladen über die grün
 Den FAIRagro Search Hub findet ihr [hier](https://search-hub.fairagro.net/){:target="_blank"}.
 
 
-## SciWIn Client
-SciWIn Client ist eine Kommandozeilenanwendung zur Erstellung reproduzierbarer Datenpipelines mit der _Common Workflow Language (CWL)_. SciWIn Client unterstützt Wissenschaftler*innen dabei, Analyse- und Verarbeitungsschritte automatisch als CWL-Spezifikationen zu generieren und diese zu vollständigen Workflows zu kombinieren.
-Durch die strukturierte Beschreibung der Abläufe werden Reproduzierbarkeit, Nachvollziehbarkeit und Wiederverwendbarkeit deutlich verbessert. SciWIn Client erleichtert die Dokumentation, Versionierung und Weitergabe datengetriebener Methoden und fördert so eine kollaborative und nachhaltige Forschungspraxis.
+## [SciWIn-Client](https://fairagro.github.io/m4.4_sciwin_client/){:target="_blank"}
+Ein weiterer FAIRagro Service ist der [SciWIn-Client](https://fairagro.github.io/m4.4_sciwin_client/){:target="_blank"}.
+Die Abkürzung „SciWIn“ steht dabei für „Scientific Workflow Infrastructure“.
 
-[GitHub](https://github.com/fairagro/m4.4_sciwin_client), [Dokumentation (englisch)](https://fairagro.github.io/m4.4_sciwin_client/)
+Der SciWIn-Client ist eine Kommandozeilenanwendung zur Erstellung reproduzierbarer Datenpipelines mit der *Common Workflow Language (CWL)*.
+Er unterstützt Wissenschaftler*innen dabei, Analyse- und Verarbeitungsschritte automatisch als CWL-Spezifikationen zu generieren und diese zu vollständigen Workflows zu kombinieren.
+Durch die strukturierte Beschreibung der Abläufe werden Reproduzierbarkeit, Nachvollziehbarkeit und Wiederverwendbarkeit deutlich verbessert.
+SciWIn Client erleichtert die Dokumentation, Versionierung und Weitergabe datengetriebener Methoden und fördert so eine kollaborative und nachhaltige Forschungspraxis.
+
+Eine ausführlichere Antwort auf die Fragen „Was ist SciWIn?“ findet ihr auf unserer [Website](https://fairagro.net/services/sciwin/){:target="_blank"}.
+Eine detailierte Anleitung zur Nutzung des SciWIn-Clients findet ihr in der (englischen) [Dokumentation](https://fairagro.github.io/m4.4_sciwin_client/getting-started/){:target="_blank"} des Services.
 
 
 ## DMP Templates

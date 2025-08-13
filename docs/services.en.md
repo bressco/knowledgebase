@@ -31,14 +31,19 @@ In addition, anyone who uses the Search Hub is invited to leave comments and sug
 You can find the FAIRagro Search Hub [here](https://search-hub.fairagro.net/){:target="_blank"}.
 
 
-## SciWIn Client
-SciWIn Client is a command-line tool for building reproducible data pipelines using the _Common Workflow Language (CWL)_. SciWIn Client helps researchers define individual analysis steps as CWL specifications and assemble them into complete workflows with simple commands.
-By formalizing analytical processes, SciWIn Client improves reproducibility, transparency, and reusability of computational methods. It facilitates documentation, versioning, and sharing of workflows, supporting collaborative and sustainable research practices.
+## [SciWIn-Client](https://fairagro.github.io/m4.4_sciwin_client/){:target="_blank"}
+Another FAIRagro service is the [SciWIn-Client](https://fairagro.github.io/m4.4_sciwin_client/){:target="_blank"}.
+The abbreviation “SciWIn” stands for “Scientific Workflow Infrastructure”.
 
-[GitHub](https://github.com/fairagro/m4.4_sciwin_client), [Documentation](https://fairagro.github.io/m4.4_sciwin_client/)
+The SciWIn-Client is a command-line tool for building reproducible data pipelines using the *Common Workflow Language (CWL)*.
+It helps researchers define individual analysis steps as CWL specifications and assemble them into complete workflows with simple commands.
+By formalizing analytical processes, SciWIn Client improves reproducibility, transparency, and reusability of computational methods.
+It facilitates documentation, versioning, and sharing of workflows, supporting collaborative and sustainable research practices.
 
-## Data Quality Toolbox
+You can find a more in-depth answer to the question “What is SciWIn?” on our [website](https://fairagro.net/services/sciwin/){:target="_blank"}.
+Detailed instructions on how to use the SciWIn-Client can be found in the [documentation](https://fairagro.github.io/m4.4_sciwin_client/getting-started/){:target="_blank"} of the service.
 
-## FAIR Assessment Tool
 
 ## DMP Templates
+DMP Templates RDMO
+
