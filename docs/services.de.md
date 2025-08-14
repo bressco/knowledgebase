@@ -11,7 +11,11 @@ Häufig stellen sich dabei Fragen wie:
 Eine allgemeine Übersicht über die FAIRagro Services findet ihr auch auf unserer [Website](https://fairagro.net/services){:target="_blank"}.
 
 
-## [FAIRagro Search Hub](https://search-hub.fairagro.net/){:target="_blank"}
+## FAIRagro Search Hub
+
+!!! tip inline end "FAIRagro Search Hub"
+	Link zum FAIRagro Search Hub: [https://search-hub.fairagro.net](https://search-hub.fairagro.net/){:target="_blank"}
+
 Ein zentrales Element der FAIRagro Services ist der [Search Hub](https://search-hub.fairagro.net/){:target="_blank"}. 
 Er besteht aus zwei unterschiedlichen Suchfunktionen: die Datensuche und die Infrastruktursuche.
 
@@ -28,10 +32,12 @@ Aktuell befindet sich die Infrastruktursuche noch in der Entwicklung, wird aber 
 Das Entwicklerteam des FAIRagro Search Hubs arbeitet eng mit den Experten in FAIRagro, insbes. den Use Cases zusammen, um die Platform möglichst nah an den Bedürfnissen der Community zu entwickeln.
 Zusätzlich ist jede*r, die/der den Search Hub nutzt, eingeladen über die grüne Feedback-Box an der rechten Seite des Bildschirms, Kommentare und Anregungen zu hinterlassen.
 
-Den FAIRagro Search Hub findet ihr [hier](https://search-hub.fairagro.net/){:target="_blank"}.
 
+## SciWIn-Client
 
-## [SciWIn-Client](https://fairagro.github.io/m4.4_sciwin_client/){:target="_blank"}
+!!! tip inline end "SciWIn-Client"
+	Link zum SciWIn-Client: [https://fairagro.github.io/m4.4_sciwin_client](https://fairagro.github.io/m4.4_sciwin_client/){:target="_blank"}
+
 Ein weiterer FAIRagro Service ist der [SciWIn-Client](https://fairagro.github.io/m4.4_sciwin_client/){:target="_blank"}.
 Die Abkürzung „SciWIn“ steht dabei für „Scientific Workflow Infrastructure“.
 
