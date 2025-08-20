@@ -22,7 +22,7 @@ nav:
 # Theme configuration
 theme:
     name: material
-    logo: assets/FAIRagro_Knowledgebase_Logo-v11.png
+    logo: assets/FAIRagro_Knowledgebase_g_Logo-v11.png
     favicon: assets/favicon.png
     font: false
     features:
