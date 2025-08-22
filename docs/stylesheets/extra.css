@@ -15,3 +15,10 @@
   src: "https://mozilla.github.io/Fira/";
 }
 
+.md-content__inner{
+  margin-bottom:100px;
+}
+.md-footer
+{
+  margin-top:20px;
+}
