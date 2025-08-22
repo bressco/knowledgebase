@@ -1,9 +1,9 @@
-# FAIRagro Knowledgebase
+# FAIRagro Knowledge Base
 
-This is the GitHub Repo of the [FAIRagro](https://fairagro.net/en) Knowledgebase, operated by the FAIRagro [DSSC](https://fairagro.net/en/helpdesk) (Data Steward Service Center).  
-The Knowledgebase is deployed via GitHub-Pages.
+This is the GitHub Repo of the [FAIRagro](https://fairagro.net/en) Knowledge Base, operated by the FAIRagro [DSSC](https://fairagro.net/en/helpdesk) (Data Steward Service Center).  
+The Knowledge Base is deployed via GitHub-Pages.
 
-You can find the knowledgebase here: https://fairagro.github.io/knowledgebase/
+You can find the Knowledge Base here: https://knowledgebase.fairagro.net
 
 
 ## Questions & Comments
