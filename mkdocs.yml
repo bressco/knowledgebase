@@ -1,6 +1,6 @@
 # Project configuration
 site_name: FAIRagro Knowledge Base
-site_url: https://knowledgebase.fairagro.net/
+#site_url: https://knowledgebase.fairagro.net/
 
 
 # Navigation Header Deutsch (English Override -> language settings)
