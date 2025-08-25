@@ -13,7 +13,10 @@ Eine allgemeine Übersicht über die FAIRagro Services findet ihr auch auf unser
 
 ## FAIRagro Search Hub
 
+
 !!! tip inline end "FAIRagro Search Hub"
+	[![Logo Search Hub](images/FAIRagro_SearchHub_g_Logo-v11.png){ align=center }](https://search-hub.fairagro.net/){:target="_blank"}
+	
 	Link zum FAIRagro Search Hub: [https://search-hub.fairagro.net](https://search-hub.fairagro.net/){:target="_blank"}
 
 Ein zentrales Element der FAIRagro Services ist der [Search Hub](https://search-hub.fairagro.net/){:target="_blank"}. 
@@ -36,6 +39,8 @@ Zusätzlich ist jede*r, die/der den Search Hub nutzt, eingeladen über die grün
 ## SciWIn-Client
 
 !!! tip inline end "SciWIn-Client"
+	[![Logo SciWIn-Client](images/FAIRagro_SciWIn_g_Logo-v11.png){ align=center }](https://fairagro.github.io/m4.4_sciwin_client/){:target="_blank"}
+	
 	Link zum SciWIn-Client: [https://fairagro.github.io/m4.4_sciwin_client](https://fairagro.github.io/m4.4_sciwin_client/){:target="_blank"}
 
 Ein weiterer FAIRagro Service ist der [SciWIn-Client](https://fairagro.github.io/m4.4_sciwin_client/){:target="_blank"}.
