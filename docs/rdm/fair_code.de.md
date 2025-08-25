@@ -21,7 +21,7 @@ Im betrachteten Thema ändern sich Dinge schnell und es ist fraglich, welche Met
 
 [^2]: Beyer, F., Vedder, L., Singson, L. S., Sahwan, W. & Schmidt, M. (2025). **Publishing research code FAIR - a roadmap**. Zenodo. [https://doi.org/10.5281/zenodo.14772749](https://doi.org/10.5281/zenodo.14772749){:target="_blank"}
 
-![Bild Code-Veröffentlichung](/knowledgebase/images/Image_Code_DE.png)
+![Bild Code-Veröffentlichung](/images/Image_Code_DE.png)
 /// caption
 Fahrplan zur FAIRen Veröffentlichung von wissenschaftlich generiertem Code. (Beyer _et al._ 2025)[^2]
 ///
