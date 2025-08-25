@@ -1,4 +1,4 @@
-# Willkommen bei der FAIRagro Knowledge Base! TEST
+# Willkommen bei der FAIRagro Knowledge Base!
 
 
 !!! warning "Hinweis" 
