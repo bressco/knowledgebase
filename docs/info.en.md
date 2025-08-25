@@ -26,10 +26,10 @@ consists of a loose cooperation of the consortia [NFDI4Earth](https://www.nfdi4e
 [NFDI4Health](https://www.nfdi4health.de/en/){:target="_blank"} 
 and [FAIRagro](https://fairagro.net/en/){:target="_blank"}.
 
-### Knowledgebases
-The Knowledgebases of some of these cluster consortia can be found here:
+### Knowledge Bases
+The Knowledge Bases of some of these cluster consortia can be found here:
 
-- [Knowledgebase NFDI4Chem](https://knowledgebase.nfdi4chem.de/knowledge_base/docs/intro/?userLocale=true){:target="_blank"}
-- [Knowledgebase DataPlant](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/){:target="_blank"}
-- [Knowledgebase NFDI4Biodiversity](https://kb.gfbio.org/display/KB/Knowledge+Base+-+Information+and+Services+around+Biodiversity+Data){:target="_blank"}
-- [Knowledgebase NFDI4Microbiota](https://knowledgebase.nfdi4microbiota.de/Getting-Started/01-introduction.html){:target="_blank"}
+- [Knowledge Base NFDI4Chem](https://knowledgebase.nfdi4chem.de/knowledge_base/docs/intro/?userLocale=true){:target="_blank"}
+- [Knowledge Base DataPlant](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/){:target="_blank"}
+- [Knowledge Base NFDI4Biodiversity](https://kb.gfbio.org/display/KB/Knowledge+Base+-+Information+and+Services+around+Biodiversity+Data){:target="_blank"}
+- [Knowledge Base NFDI4Microbiota](https://knowledgebase.nfdi4microbiota.de/Getting-Started/01-introduction.html){:target="_blank"}
