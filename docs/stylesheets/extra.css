@@ -5,7 +5,7 @@
   --md-typeset-a-color:		#037D6A; 	/*color link (FAIRagro dark green)*/
   --md-accent-fg-color:     #A7C637; 	/*color link hover (FAIRagrolight green)*/
   --md-footer-bg-color:		grey;
-  
+  --md-footer-bg-color--dark: #20312e;
   
   --md-text-font: "Fira Sans"
 }
@@ -13,6 +13,15 @@
 @font-face {
   font-family: "Fira Sans";
   src: "https://mozilla.github.io/Fira/";
+}
+
+.md-nav__link:hover, .md-nav__link.md-nav__link--active {
+  border-block-end: 3px solid var(--wp--preset--color--primary);
+  border-image: var(--wp--preset--gradient--green-petrol-font) 1 stretch;
+}
+.md-ellipsis {
+  letter-spacing: .1px;
+  line-height: 1.7;
 }
 
 .md-content__inner{
