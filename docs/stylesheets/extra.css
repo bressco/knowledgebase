@@ -2,8 +2,10 @@
   
   --md-primary-fg-color:	white;		/*color header*/
   --md-primary-bg-color:	#74B549; 	/*color header text (FAIRagro middle green)*/
-  --md-typeset-a-color:		#037D6A; 	/*color link (FAIRagro dark green)*/
-  --md-accent-fg-color:     #A7C637; 	/*color link hover (FAIRagrolight green)*/
+  /* --md-typeset-a-color:		#037D6A; 	color link (FAIRagro dark green)*/
+  --md-typeset-a-color:		var(--md-typeset-color);
+  /* --md-accent-fg-color:     #A7C637; 	color link hover (FAIRagrolight green)*/
+  --md-accent-fg-color:	var(--md-typeset-color);
   --md-footer-bg-color:		grey;
   --md-footer-bg-color--dark: #20312e;
   
@@ -15,7 +17,7 @@
   src: "https://mozilla.github.io/Fira/";
 }
 
-.md-nav__link:hover span, .md-nav__link.md-nav__link--active span {
+.md-nav__link:hover span, .md-nav__link.md-nav__link--active span, .md-typeset a:focus, .md-typeset a:hover {
   border-block-end: 3px solid #0f9884;
   border-image: linear-gradient(30deg, #9acb4e, #0f9884 35%) 1 stretch;
 }
