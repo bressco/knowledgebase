@@ -1,7 +1,7 @@
 # Welche Datentypen existieren in der Agrosystemforschung? 
 
 !!! tip inline end "Data Fact Sheets"
-	Schmidt _et al._ (2023): [**DATA FACT SHEETS of the Data Steward Service Center (DSSC) from the NFDI consortium FAIRagro**](https://doi.org/10.4126/FRL01-006461782){:target="_blank"}
+	Schmidt *et al.* (2023): [**DATA FACT SHEETS of the Data Steward Service Center (DSSC) from the NFDI consortium FAIRagro**](https://doi.org/10.4126/FRL01-006461782){:target="_blank"}
 
 Einen kurzen Überblick über relevante Datentypen im Bereich der Agrosystemforschung und deren Besonderheiten im FDM findet ihr hier in unserer Knowledgebase und in unseren [Data Fact Sheets](https://doi.org/10.4126/FRL01-006461782){:target="_blank"}[^1].
 Ein besonderes Augenmerk liegt dabei auf der Frage: *Was muss ich bei Erhebung und Publikation – auch in rechtlicher Hinsicht –  beachten?*
@@ -18,9 +18,9 @@ Bodendaten wie Bodenart (Körnung), Nährstoffkonzentrationen, Dichte und Wasser
 Bodendaten haben, wenn Sie aus Freilandexperimenten stammen, immer einen Raumbezug (Geodaten).
 Ebenfalls wichtig ist ihre Verortung in die Tiefe, als Profile oder in dezidierten Tiefenstufen.
 Für die Beschreibung von Böden und ihrer Profile existieren zahlreiche nationale und internationale Standards: z.B. Deutsche Systematik, 
-[WRB](https://www.fao.org/soils-portal/data-hub/soil-classification/world-reference-base/en/), 
-[USDA](https://www.nrcs.usda.gov/resources/guides-and-instructions/soil-classification). 
-\[Schmidt _et al._ 2023, S. 15\][^1]
+[WRB](https://www.fao.org/soils-portal/data-hub/soil-classification/world-reference-base/en/){:target="_blank"}, 
+[USDA](https://www.nrcs.usda.gov/resources/guides-and-instructions/soil-classification){:target="_blank"}. 
+\[Schmidt *et al.* 2023, S. 15\][^1]
 
 #### Spezifika im Forschungsdatenmanagement
 Bei der Erhebung von Bodendaten kommt eine Vielzahl unterschiedlicher Methoden zur Anwendung.
@@ -49,7 +49,7 @@ In aller Regel werden allgemeine Felddaten nicht separat, sondern als Vergleichs
 In diesem Zusammenhang bieten landwirtschaftliche Dauerfeldversuche (Long-term field experiments/LTE) ein nachhaltiges Monitoring für Boden- und Pflanzeneigenschaften unter wechselnden klimatischen Bedingungen und Bewirtschaftungsverfahren.
 Somit repräsentieren LTE-Daten einen wichtigen landwirtschaftlichen Datenschatz, der u.a. auch auf allgemeinen Felddaten beruht.
 Dieser Schatz sollte sorgfältig veröffentlicht werden, um beispielsweise das Verständnis der Auswirkungen des Klimawandels zu fördern und Lösungen für nachhaltige Bodenbewirtschaftung entwickeln zu können.
-\[Schmidt _et al._ 2023, S. 16\][^1]
+\[Schmidt *et al.* 2023, S. 16\][^1]
 
 #### Spezifika im Forschungsdatenmanagement
 Die Metadaten sollten sich generell an der Fragestellung der eigentlichen Feldstudie/Feldversuch orientieren.
@@ -78,7 +78,7 @@ Daher werden genetische Daten häufig im Zusammenhang mit [Phänotypisierungsdat
 Die in diesen Studien analysierten Gewebeproben (z.B. Blatt- und/oder Wurzelgewebe) können dabei sowohl direkt aus dem Labor (z.B. Klimakammer) oder von einem Versuchsfeld stammen.
 Unabhängig davon fallen bei allen Studien in diesem Bereich große Mengen sogenannter „omics“-Daten an, meist durch Sequenzierung der Proben.
 Diese Sequenzen werden meist nicht nur untereinander, sondern auch mit sog. Referenzgenomen verglichen.
-\[Schmidt _et al._ 2023, S. 17\][^1]
+\[Schmidt *et al.* 2023, S. 17\][^1]
 
 #### Spezifika im Forschungsdatenmanagement
 Bei fast allen Nutzpflanzen wird neben der Art eine Sorte, Züchtungslinie oder Variation unterschieden. Diese sollte in den Metadaten mitangegeben werden.
@@ -104,7 +104,7 @@ Phänotypisierungsdaten sind entscheidend für das Verständnis der Pflanzenbiol
 Sie ermöglichen es den Forschern, genetische Faktoren zu identifizieren, die mit erwünschten Merkmalen in Verbindung stehen, die Auswirkungen von Umweltfaktoren auf das Wachstum und die Entwicklung von Pflanzen zu untersuchen, Strategien für das Pflanzenmanagement zu optimieren und neue Sorten mit verbesserten Eigenschaften zu entwickeln.
 Die Standardisierung und ordnungsgemäße Dokumentation von Phänotypisierungsdaten, wie sie von Initiativen wie [MIAPPE](https://www.miappe.org/) befürwortet wird, ist wichtig, um Datenintegrität, Reproduzierbarkeit und Kompatibilität zwischen verschiedenen wissenschaftlichen Studien zu gewährleisten.
 Dies erleichtert den Datenaustausch, die Zusammenarbeit und die Entwicklung umfangreicher Datenbanken und Repositorien für die Pflanzenphänotypisierungs-Forschung.
-\[Schmidt _et al._ 2023, S. 18\][^1]
+\[Schmidt *et al.* 2023, S. 18\][^1]
 
 #### Spezifika im Forschungsdatenmanagement
 Oft ist es interessant, einen Zusammenhang zwischen Phänotyp und Genotyp herzustellen.
@@ -131,7 +131,7 @@ Wie viele Agrosystemdaten weisen auch Sensordaten in aller Regel eine direkte Ge
 Diese kann sowohl dem Roboter zur Navigation dienen als auch die Verortung von Daten in einer Übersichtskarte ermöglichen.
 Häufig liegen neben den Georeferenzen der aufgezeichneten Daten (GPS-Position) auch Karteninformationen in Form von sogenannten Shape-Files vor.
 Bei Messungen im großen Stil kann allein durch die Datenmenge sogenannte [Big Geodata](#big-geodatageomassedaten) entstehen.
-\[Schmidt _et al._ 2023, S. 19\][^1]
+\[Schmidt *et al.* 2023, S. 19\][^1]
 
 #### Spezifika im Forschungsdatenmanagement
 Neben den Angaben zur untersuchten Kultur, sollten auch immer Details zu den genutzten Sensoren und der Art der erhaltenen Daten sowie Einheiten und Qualitätskontrolle angegeben werden.
@@ -163,7 +163,7 @@ Um die Masse an Daten verarbeiten zu können braucht es daher neue Konzepte für
 Skalierbare Architekturen meint dabei anpassungsfähige, meist cloudbasierte Systeme, in denen anforderungsbedingt Ressourcen (Prozessorkerne, RAM) zusätzlich zugeordnet, oder die Lastanforderungen auf verschiedene Systeme verteilt werden können.
 Dafür sind Geodaten-Infrastrukturen notwendig, die die verschiedenen Technologien mit standardisierten Schnittstellen verbindet.
 Auf Basis der unterschiedlichen Geodaten kann ein langfristiges Monitoring in der Agrarlandschaft durchgeführt werden, die Veränderungen an der Landoberfläche verfolgt, und dokumentiert werden.
-\[Schmidt _et al._ 2023, S. 20\][^1]
+\[Schmidt *et al.* 2023, S. 20\][^1]
 
 #### Spezifika im Forschungsdatenmanagement
 Kontinuierlich anfallende Geodaten und moderne komplexe Auswertungsmethoden stellen neue Herausforderungen dar, insbesondere in Bezug auf die Prozessierung der Daten.
@@ -200,7 +200,7 @@ Die entsprechenden Parameter werden daher in der Regel im Rahmen der [allgemeine
 Bei landwirtschaftlichen Dauerversuchen werden am selben Standort über viele Jahre hinweg gleiche oder ähnliche Versuche unternommen und alle Variabeln konsistent erfasst.
 Daher bieten sie ein nachhaltiges Monitoring für Boden- und Pflanzeneigenschaften unter wechselnden klimatischen Bedingungen und Bewirtschaftungsverfahren.
 LTE-Daten stellen einen wichtigen landwirtschaftlichen Datenschatz dar, der sorgfältig veröffentlicht werden sollte.
-(vgl. Schmidt _et al._ 2023, S. 16)[^1]
+(vgl. Schmidt *et al.* 2023, S. 16)[^1]
 
 Eine gute Übersicht über bereits veröffentlichte Dauerversuche in Europa bietet die [LTE-Übersichtskarte](https://tools.bonares.de/ltfe/){:target="_blank"} von BonaRes[^2].
 Dort sind Daten von mehr als 570 landwirtschaftlichen Experimenten mit einer Dauer von jeweils min. 20 Jahren gesammelt.
