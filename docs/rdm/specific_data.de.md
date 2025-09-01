@@ -46,7 +46,7 @@ Im Einzelfall kann der [FAIRagro Helpdesk](https://fairagro.net/helpdesk){:targe
 Allgemeine Felddaten fallen bei vielen agrarwissenschaftlichen Feldversuchen an. Sie umfassen Informationen zum Betrieb, sowie zu den ausgesäten Kulturen (z.B. Sorte, Saattermin, Ertrag, Pflanzenschutzbehandlungen, Düngung, …).
 Häufig spielt auch die Anonymisierung oder Pseudonymisierung von Betriebsdaten eine Rolle.
 In aller Regel werden allgemeine Felddaten nicht separat, sondern als Vergleichsdaten innerhalb von Feldstudien erhoben.
-In diesem Zusammenhang bieten landwirtschaftliche Dauerfeldversuche (Long-term field experiments/LTE) ein nachhaltiges Monitoring für Boden- und Pflanzeneigenschaften unter wechselnden klimatischen Bedingungen und Bewirtschaftungsverfahren.
+In diesem Zusammenhang bieten [landwirtschaftliche Dauerfeldversuche](#dauerversuche) (Long-term field experiments/LTE) ein nachhaltiges Monitoring für Boden- und Pflanzeneigenschaften unter wechselnden klimatischen Bedingungen und Bewirtschaftungsverfahren.
 Somit repräsentieren LTE-Daten einen wichtigen landwirtschaftlichen Datenschatz, der u.a. auch auf allgemeinen Felddaten beruht.
 Dieser Schatz sollte sorgfältig veröffentlicht werden, um beispielsweise das Verständnis der Auswirkungen des Klimawandels zu fördern und Lösungen für nachhaltige Bodenbewirtschaftung entwickeln zu können.
 \[Schmidt *et al.* 2023, S. 16\][^1]
@@ -86,7 +86,7 @@ Oft ist es interessant, einen Zusammenhang zwischen Phänotyp und Genotyp herzus
 \[ebd.\]
 
 #### Rechtliche Einordnung
-Datenbanken mit Omics-Daten können nach aktueller Rechtsprechung durch das Recht aus § 87a ff. UrhG auch für die Erhebenden geschützt sein. 
+Datenbanken mit „omics“-Daten können nach aktueller Rechtsprechung durch das Recht aus § 87a ff. UrhG auch für die Erhebenden geschützt sein. 
 Dies baut im Kern darauf auf, dass eine Messung als „Beschaffung“ im Sinne von § 87a UrhG verstanden wird.
 Allerdings könnten sich durch die Datenverordnung Änderungen ergeben.
 Diese haben ihren Weg allerdings noch nicht in die Rechtsprechung gefunden.
