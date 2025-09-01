@@ -39,7 +39,7 @@ The [FAIRagro helpdesk](https://fairagro.net/en/helpdesk){:target="_blank"} can 
 General field data is generated in many agricultural field experiments. They include information about the business and the crops sown (e.g. variety, sowing date, yield, crop protection treatments, fertilization, etc.).
 The anonymization or pseudonymization of operational data often plays a role.
 Often, general field data is not collected separately, but as comparative data within field studies.
-In this context, long-term field experiments (LTE) offer sustainable monitoring of soil and plant properties under changing climatic conditions and management methods.
+In this context, [long-term field experiments](#lte) (LTE) offer sustainable monitoring of soil and plant properties under changing climatic conditions and management methods.
 LTE data therefore represents an important agricultural data treasure, which is based, among other things, on general field data.
 This treasure should be carefully published, for example to promote understanding of the effects of climate change and to develop solutions for sustainable land management.
 \[Schmidt *et al.* 2023, p. 4\][^1]
