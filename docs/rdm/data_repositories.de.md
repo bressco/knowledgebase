@@ -1,6 +1,6 @@
 # Wo finde ich ein passendes Repositorium?
 
-Repositorien (Repos) sind der Dreh- und Angelpunkt im FDM als der Ort, an dem gut beschriebene Daten dauerhaft abgelegt werden können – und der Ort, an dem Wissenschaftler:innen nach Daten zur Nachnutzung suchen können.
+Repositorien (Repos) sind der Dreh- und Angelpunkt im FDM als der Ort, an dem gut beschriebene Daten dauerhaft abgelegt werden können – und der Ort, an dem Wissenschaftler*innen nach Daten zur Nachnutzung suchen können.
 Neben Repos, die alle Arten von Daten aufnehmen, und institutionseigenen Repos, existiert eine Vielzahl fachspezifischer Repos, die oft sehr gut auf die jeweilige Datenstruktur ausgelegt sind und damit Vorteile für Publikation und Nachnutzung von Daten bieten können.
 
 
@@ -30,7 +30,7 @@ Des Weiteren gibt es für jedes Repo eine Kurzbeschreibung, eine Zusammenfassung
 
 ## FAIRagro Infrastruktur-Suche
 FAIRagro hat es sich zum Ziel gesetzt, vorhandene Forschungsdateninfrastrukturen (research data infrastructures, RDIs) miteinander zu verbinden.
-Dies wird nach außenhin v.a. durch das Daten-Suchportal des FAIRagro Search Hub realisiert.
+Dies wird nach außenhin v.a. durch das Daten-Suchportal des [FAIRagro Search Hub](/services/#fairagro-search-hub) realisiert.
 Darüberhinaus wird aber auch eine Zusammenstellung verschiedener Infrastrukturen/Repositorien nach verschiedenen Kriterien durchsuchbar sein.  
 Diese Infrastruktur-Suche befindet sich derzeit noch im Aufbau.
 Sobald weitere Infromationen verfügbar sind, findet ihr diese hier und auf unserer FAIRagro Website.
