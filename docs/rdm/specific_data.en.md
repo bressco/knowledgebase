@@ -1,7 +1,7 @@
 # What data types exist in agrosystem science?
 
 !!! tip inline end "Data Fact Sheets"
-	Schmidt _et al._ (2023): [**DATA FACT SHEETS of the Data Steward Service Center (DSSC) from the NFDI consortium FAIRagro**](https://doi.org/10.4126/FRL01-006461782){:target="_blank"}
+	Schmidt *et al.* (2023): [**DATA FACT SHEETS of the Data Steward Service Center (DSSC) from the NFDI consortium FAIRagro**](https://doi.org/10.4126/FRL01-006461782){:target="_blank"}
 
 You can find a short overview of relevant data types within the agrosystem science and their special features in RDM here in our knowledgebase and in our [Data Fact Sheets](https://doi.org/10.4126/FRL01-006461782){:target="_blank"}[^1].
 Special attention is paid to the question: *What do I have to consider when collecting and publishing data - including the legal perspective?
@@ -18,9 +18,9 @@ Soil data such as soil type (grain size), nutrient concentrations, bulk density 
 When soil data comes from field experiments, it always has a spatial reference (geodata).
 It is also important to describe them throughout their depth, as profiles or in dedicated depth levels.
 There are numerous national and international standards for describing soils and their profiles: e.g. German systematics,
-[WRB](https://www.fao.org/soils-portal/data-hub/soil-classification/world-reference-base/en/),
-[USDA](https://www.nrcs.usda.gov/resources/guides-and-instructions/soil-classification). 
-\[Schmidt _et al._ 2023, p. 3\][^1]
+[WRB](https://www.fao.org/soils-portal/data-hub/soil-classification/world-reference-base/en/){:target="_blank"},
+[USDA](https://www.nrcs.usda.gov/resources/guides-and-instructions/soil-classification){:target="_blank"}. 
+\[Schmidt *et al.* 2023, p. 3\][^1]
 
 #### Specifics in research data management
 A variety of different methods are used to collect soil data.
@@ -42,7 +42,7 @@ Often, general field data is not collected separately, but as comparative data w
 In this context, long-term field experiments (LTE) offer sustainable monitoring of soil and plant properties under changing climatic conditions and management methods.
 LTE data therefore represents an important agricultural data treasure, which is based, among other things, on general field data.
 This treasure should be carefully published, for example to promote understanding of the effects of climate change and to develop solutions for sustainable land management.
-\[Schmidt _et al._ 2023, p. 4\][^1]
+\[Schmidt *et al.* 2023, p. 4\][^1]
 
 #### Specifics in research data management
 The metadata should generally be based on the question of the actual field study/field experiment.
@@ -64,7 +64,7 @@ Therefore, genetic data is often collected in conjunction with [phenotyping data
 The tissue samples analyzed in these studies (e.g. leaf and/or root tissue) can come either directly from the laboratory (e.g. climate chamber) or from a test field.
 Regardless, all studies in this area generate large amounts of so-called “omics” data, usually through sequencing the samples.
 These sequences are usually not only compared with each other, but also with so-called reference genomes.
-\[Schmidt _et al._ 2023, p. 5\][^1]
+\[Schmidt *et al.* 2023, p. 5\][^1]
 
 #### Specifics in research data management
 For almost all crops, in addition to the species, a variety, breeding line or variation is distinguished. This should be included in the metadata.
@@ -83,7 +83,7 @@ Phenotyping data is crucial for understanding plant biology, improving crops, an
 They allow researchers to identify genetic factors associated with desirable traits, study the effects of environmental factors on plant growth and development, optimize crop management strategies, and develop new varieties with improved traits.
 Standardization and proper documentation of phenotyping data, as advocated by initiatives such as [MIAPPE](https://www.miappe.org/), is important to ensure data integrity, reproducibility and compatibility between different scientific studies.
 This facilitates data sharing, collaboration, and development of large-scale databases and repositories for plant phenotyping research.
-\[Schmidt _et al._ 2023, p. 6\][^1]
+\[Schmidt *et al.* 2023, p. 6\][^1]
 
 #### Specifics in research data management
 It is often interesting to establish a connection between phenotype and genotype.
@@ -104,7 +104,7 @@ Like many agricultural system data, sensor data usually has direct georeferencin
 This can be used for navigation by the robot as well as allowing data to be located in an overview map.
 In addition to the georeferences of the recorded data (GPS position), map information is often available in the form of so-called shape files.
 When measuring on a large scale, so-called [Big Geodata](#big-geodata) can arise simply due to the amount of data.
-\[Schmidt _et al._ 2023, p. 7\][^1]
+\[Schmidt *et al.* 2023, p. 7\][^1]
 
 #### Specifics in research data management
 In addition to the information about the culture examined, details about the sensors used and the type of data obtained as well as units and quality control should always be provided.
@@ -126,7 +126,7 @@ In order to be able to process the mass of data, new concepts for storage (centr
 Scalable architectures mean adaptable, mostly cloud-based systems in which additional resources (processor cores, RAM) can be allocated depending on requirements, or the load requirements can be distributed across different systems.
 This requires geodata infrastructures that connect the various technologies with standardized interfaces.
 Based on the different geodata, long-term monitoring can be carried out in the agricultural landscape, the changes on the land surface can be tracked and documented.
-\[Schmidt _et al._ 2023, p. 8\][^1]
+\[Schmidt *et al.* 2023, p. 8\][^1]
 
 #### Specifics in research data management
 Continuously accumulating geodata and modern, complex evaluation methods pose new challenges, especially with regard to the processing of the data.
@@ -152,7 +152,7 @@ The relevant parameters are therefore usually collected as part of the [general 
 In long-term field experiments, the same or similar experiments are carried out at the same location over many years and all variables are recorded consistently.
 Therefore, they provide a sustainable monitoring of soil and plant properties under changing climatic conditions and management methods.
 LTE data represent an important agricultural data treasure that should be carefully publicised.
-(cf. Schmidt _et al._ 2023, p. 4)[^1]
+(cf. Schmidt *et al.* 2023, p. 4)[^1]
 
 The [LTE overview map](https://tools.bonares.de/ltfe/){:target="_blank"} from BonaRes[^2] provides a good overview of already published long-term field experiments in Europe.
 Data from more than 570 agricultural experiments with a duration of at least 20 years each are collected there.
