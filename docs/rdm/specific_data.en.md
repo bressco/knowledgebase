@@ -5,7 +5,7 @@
 
 You can find a short overview of relevant data types within the agrosystem science and their special features in RDM here in our knowledgebase and in our [Data Fact Sheets](https://doi.org/10.4126/FRL01-006461782){:target="_blank"}[^1].
 Special attention is paid to the question: *What do I have to consider when collecting and publishing data - including the legal perspective?*
-The knowledgebase also includes an [overview of the legal categorisation of data](/legal/index.md).
+The knowledgebase also includes an [overview of the legal categorisation of data](../legal/index.md).
 
 [^1]: Schmidt, M., Beyer, F., Mazón, E. R., Sahwan, W., Singson, L., Vedder, L., Boße, S., & Svoboda, N. (2023). **DATA FACT SHEETS of the Data Steward Service Center (DSSC) from the NFDI consortium FAIRagro**. PUBLISSO. [https://doi.org/10.4126/FRL01-006461782](https://doi.org/10.4126/FRL01-006461782){:target="_blank"}
 
@@ -31,7 +31,7 @@ One challenge is that significant amounts of data has not yet been digitized.
 #### Legal Aspects
 *XXX*
 
-Details can be found in the [Overview of rights to data](/knowledgebase/en/legal/rights).
+Details can be found in the [Overview of rights to data](../legal/rights.md).
 The [FAIRagro helpdesk](https://fairagro.net/en/helpdesk){:target="_blank"} can assist in individual cases.
 
 
@@ -52,7 +52,7 @@ Nevertheless, the presence of general field data in the data set should be noted
 #### Legal Aspects
 *XXX*
 
-Details can be found in the [Overview of rights to data](/knowledgebase/en/legal/rights).
+Details can be found in the [Overview of rights to data](../legal/rights.md).
 The [FAIRagro helpdesk](https://fairagro.net/en/helpdesk){:target="_blank"} can assist in individual cases.
 
 
@@ -74,7 +74,7 @@ It is often interesting to establish a connection between phenotype and genotype
 #### Legal Aspects
 *XXX*
 
-Details can be found in the [Overview of rights to data](/knowledgebase/en/legal/rights).
+Details can be found in the [Overview of rights to data](../legal/rights.md).
 The [FAIRagro helpdesk](https://fairagro.net/en/helpdesk){:target="_blank"} can assist in individual cases.
 
 
@@ -92,7 +92,7 @@ It is often interesting to establish a connection between phenotype and genotype
 #### Legal Aspects
 *XXX*
 
-Details can be found in the [Overview of rights to data](/knowledgebase/en/legal/rights).
+Details can be found in the [Overview of rights to data](../legal/rights.md).
 The [FAIRagro helpdesk](https://fairagro.net/en/helpdesk){:target="_blank"} can assist in individual cases.
 
 
@@ -113,7 +113,7 @@ In addition to the information about the culture examined, details about the sen
 #### Legal Aspects
 *XXX*
 
-Details can be found in the [Overview of rights to data](/knowledgebase/en/legal/rights).
+Details can be found in the [Overview of rights to data](../legal/rights.md).
 The [FAIRagro helpdesk](https://fairagro.net/en/helpdesk){:target="_blank"} can assist in individual cases.
 
 
@@ -139,7 +139,7 @@ On the other hand, the data and the products produced from it are documented acc
 #### Legal Aspects
 *XXX*
 
-Details can be found in the [Overview of rights to data](/knowledgebase/en/legal/rights).
+Details can be found in the [Overview of rights to data](../legal/rights.md).
 The [FAIRagro helpdesk](https://fairagro.net/en/helpdesk){:target="_blank"} can assist in individual cases.
 
 

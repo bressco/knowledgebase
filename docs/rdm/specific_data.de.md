@@ -5,7 +5,7 @@
 
 Einen kurzen Überblick über relevante Datentypen im Bereich der Agrosystemforschung und deren Besonderheiten im FDM findet ihr hier in unserer Knowledgebase und in unseren [Data Fact Sheets](https://doi.org/10.4126/FRL01-006461782){:target="_blank"}[^1].
 Ein besonderes Augenmerk liegt dabei auf der Frage: *Was muss ich bei Erhebung und Publikation – auch in rechtlicher Hinsicht –  beachten?*
-Zusätzlich umfasst die Knowledgebase auch einen [Überblick zur rechtlichen Einordnung von Daten](/legal/index.md).
+Zusätzlich umfasst die Knowledgebase auch einen [Überblick zur rechtlichen Einordnung von Daten](../legal/index.md).
 
 [^1]: Schmidt, M., Beyer, F., Mazón, E. R., Sahwan, W., Singson, L., Vedder, L., Boße, S., & Svoboda, N. (2023). **DATA FACT SHEETS of the Data Steward Service Center (DSSC) from the NFDI consortium FAIRagro**. PUBLISSO. [https://doi.org/10.4126/FRL01-006461782](https://doi.org/10.4126/FRL01-006461782){:target="_blank"}
 
@@ -38,7 +38,7 @@ Daneben kann sich ein Schutz aufgrund des Aufbereitungsgrades der Daten ergeben.
 Bei georeferenzierten Daten *kann* es sich je nach Konstellation auch um personenbezogene Daten handeln.
 Ob das der Fall ist, lässt sich aber nur im Einzelfall beantworten.
 
-Details finden sich bei der [Übersicht zu Rechten an Daten](/legal/rights.md).
+Details finden sich bei der [Übersicht zu Rechten an Daten](../legal/rights.md).
 Im Einzelfall kann der [FAIRagro Helpdesk](https://fairagro.net/helpdesk){:target="_blank"} weiterhelfen.
 
 
@@ -66,7 +66,7 @@ Daneben kann sich ein Schutz aufgrund des Aufbereitungsgrades der Daten ergeben.
 Bei georeferenzierten Daten *kann* es sich je nach Konstellation auch um personenbezogene Daten handeln.
 Ob das der Fall ist, lässt sich aber nur im Einzelfall beantworten. Gleiches gilt für Angaben zum jeweiligen Betrieb bei den Felddaten.
 
-Details finden sich bei der [Übersicht zu Rechten an Daten](/legal/rights.md).
+Details finden sich bei der [Übersicht zu Rechten an Daten](../legal/rights.md).
 Im Einzelfall kann der [FAIRagro Helpdesk](https://fairagro.net/helpdesk){:target="_blank"} weiterhelfen.
 
 
@@ -95,7 +95,7 @@ Daneben kann sich ein Schutz aufgrund des Aufbereitungsgrades der Daten ergeben.
 Wenn die Daten Abbildungen umfassen, können diese nach § 72 UrhG als Lichtbilder geschützt sein.
 Dieser Schutz ähnelt in vielen Punkten dem Urheberrecht.
 
-Details finden sich bei der [Übersicht zu Rechten an Daten](/legal/rights.md).
+Details finden sich bei der [Übersicht zu Rechten an Daten](../legal/rights.md).
 Im Einzelfall kann der [FAIRagro Helpdesk](https://fairagro.net/helpdesk){:target="_blank"} weiterhelfen.
 
 
@@ -119,7 +119,7 @@ Diese haben ihren Weg allerdings noch nicht in die Rechtsprechung gefunden. Dane
 Wenn die Daten Abbildungen umfassen, können diese nach § 72 UrhG als Lichtbilder geschützt sein.
 Dieser Schutz ähnelt in vielen Punkten dem Urheberrecht.
 
-Details finden sich bei der [Übersicht zu Rechten an Daten](/legal/rights.md).
+Details finden sich bei der [Übersicht zu Rechten an Daten](../legal/rights.md).
 Im Einzelfall kann der [FAIRagro Helpdesk](https://fairagro.net/helpdesk){:target="_blank"} weiterhelfen.
 
 
@@ -150,7 +150,7 @@ Dieser Schutz ähnelt in vielen Punkten dem Urheberrecht.
 Bei georeferenzierten Daten *kann* es sich je nach Konstellation auch um personenbezogene Daten handeln.
 Ob das der Fall ist, lässt sich aber nur im Einzelfall beantworten.
 
-Details finden sich bei der [Übersicht zu Rechten an Daten](/legal/rights.md).
+Details finden sich bei der [Übersicht zu Rechten an Daten](../legal/rights.md).
 Im Einzelfall kann der [FAIRagro Helpdesk](https://fairagro.net/helpdesk){:target="_blank"} weiterhelfen.
 
 
@@ -186,7 +186,7 @@ Dieser Schutz ähnelt in vielen Punkten dem Urheberrecht.
 Bei georeferenzierten Daten *kann* es sich je nach Konstellation auch um personenbezogene Daten handeln.
 Ob das der Fall ist, lässt sich aber nur im Einzelfall beantworten.
 
-Details finden sich bei der [Übersicht zu Rechten an Daten](/legal/rights.md).
+Details finden sich bei der [Übersicht zu Rechten an Daten](../legal/rights.md).
 Im Einzelfall kann der [FAIRagro Helpdesk](https://fairagro.net/helpdesk){:target="_blank"} weiterhelfen.
 
 
