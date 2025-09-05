@@ -8,16 +8,17 @@ nav:
     - Erste Schritte: index.de.md
     - FDM Basics: basics.de.md
     - FDM Agrar:
-        - Agrarspezifisches FDM: rdm/index.de.md
+        - rdm/index.de.md
         - Agrarspezifische Daten: rdm/specific_data.de.md
         - Repositorien: rdm/data_repositories.de.md
         - FAIRe Code-Veröffentlichung: rdm/fair_code.de.md
     - FDM & Recht: 
-        - Recht im FDM: legal/index.de.md
+        - legal/index.de.md
         - Rechte an Daten: legal/rights.de.md
-    - FDM Training: training.de.md
-    - FAIRagro Services: services.de.md
-    - Netzwerk & Mehr: info.de.md
+    - Weitere FDM Themen:
+        - FDM Training: training.de.md
+        - FAIRagro Services: services.de.md
+        - Netzwerk & Mehr: info.de.md
 
 # Theme configuration
 theme:
@@ -31,8 +32,9 @@ theme:
         - navigation.indexes
         - navigation.top 
         - navigation.tracking
+        - navigation.sections
         # toc
-        - toc.integrate 
+        #- toc.integrate 
         - toc.follow
     #color scheme
     palette:
@@ -53,6 +55,8 @@ plugins:
           default: true
           name: Deutsch
           build: true
+          theme:
+            language: de-custom
           
         - locale: en
           name: English
@@ -62,16 +66,20 @@ plugins:
             - Getting started: index.en.md
             - RDM Basics: basics.en.md
             - RDM Agriculture:
-                - Agriculture-specific RDM: rdm/index.en.md
+                - rdm/index.en.md
                 - Agriculture-specific Data: rdm/specific_data.en.md
                 - Repositories: rdm/data_repositories.en.md
                 - Publishing Code FAIR: rdm/fair_code.en.md
             - RDM & Legal: 
-                - Legal topics in RDM: legal/index.en.md
+                - legal/index.en.md
                 - Data rights: legal/rights.en.md
-            - RDM Training: training.en.md
-            - FAIRagro Services: services.en.md
-            - Network & More: info.en.md
+            - Further RDM Topics:
+                - RDM Training: training.en.md
+                - FAIRagro Services: services.en.md
+                - Network & More: info.en.md
+          theme:
+            language: en-custom
+          site_url: https://knowledgebase.fairagro.net/en/
 
 markdown_extensions:
   - attr_list
