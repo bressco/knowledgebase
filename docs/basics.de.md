@@ -1,6 +1,6 @@
 # Wo finde ich Informationen zu den Grundlagen des Forschungsdatenmanagements (FDM)?
 
-FAIRagro beschäftigt sich in der Hauptsache mit [fachspezifischen FDM für die Agrarwissenschaften](rdm/specific_data.de.md).
+FAIRagro beschäftigt sich in der Hauptsache mit [fachspezifischen FDM für die Agrarwissenschaften](rdm/specific_data.md).
 
 Hier findet ihr ein paar gute Links zum Nachlesen allgemeiner (generischer) FDM Inhalte:
 

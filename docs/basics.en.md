@@ -1,6 +1,6 @@
 # Where to find information on the basics of Research Data Management (RDM)?
 
-FAIRagro is mainly concerned with [subject-specific RDM for the agricultural sciences](rdm/specific_data.en.md).
+FAIRagro is mainly concerned with [subject-specific RDM for the agricultural sciences](rdm/specific_data.md).
 
 Here you can find some good links for reading general (generic) RDM content:
 
