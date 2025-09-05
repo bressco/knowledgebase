@@ -5,7 +5,7 @@ Wenn ihr mehr über das Projekt FAIRagro wissen wollt, schaut gerne auf die [FAI
 
 
 ## Allgemeines Forschungsdatenmanagement (FDM)
-Eine Sammlung von Links zum Nachlesen allgemeiner (generischer) FDM Inhalte findet ihr [hier](basics.de.md).
+Eine Sammlung von Links zum Nachlesen allgemeiner (generischer) FDM Inhalte findet ihr [hier](basics.md).
 
 
 ## Unser Netzerk: das Geo-Chem-Life Science-Cluster
@@ -14,7 +14,7 @@ Eine Sammlung von Links zum Nachlesen allgemeiner (generischer) FDM Inhalte find
 Um ein breiteres Spektrum an Anfragen abdecken zu können, haben wir uns mit weiteren fachnahen Helpdesks zusammengeschlossen.
 Wenn ihr unseren [Helpdesk](https://fairagro.net/helpdesk){ target="_blank" } kontaktiert können wir dieses Netzwerk nutzen - natürlich nur mit eurer Zustimmung.
 
-Das Geo-Chem-Lifescience-Cluster der Nationalen Forschungsdateninfrastruktur e.V. ([NFDI](https://www.nfdi.de/){:target="_blank"}) 
+Das Geo-Chem-Lifescience-Cluster der Nationalen Forschungsdateninfrastruktur ([NFDI](https://www.nfdi.de/){:target="_blank"})
 besteht aus einem losen Zusammenschluss der Konsortien [NFDI4Earth](https://www.nfdi4earth.de/){:target="_blank"}, 
 [NFDI4Chem](https://www.nfdi4chem.de/de/){:target="_blank"}, 
 [DataPlant](https://nfdi4plants.org/){:target="_blank"}, 

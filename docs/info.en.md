@@ -5,7 +5,7 @@ If you want to learn more about the FAIRagro project, please visit the [FAIRagro
 
 
 ## General research data management (RDM)
-A collection of links for reading general (generic) RDM content can be found [here](basics.en.md).
+A collection of links for reading general (generic) RDM content can be found [here](basics.md).
 
 
 ## Our network: the Geo-Chem-Life Science-Cluster
@@ -14,7 +14,7 @@ A collection of links for reading general (generic) RDM content can be found [he
 In order to provide a wide range of services, we have connected with other domain-relevant consortia.
 When you contact our [Helpdesk](https://fairagro.net/en/helpdesk){ target="_blank" } we can use this network as well - only with your permission of course.
 
-The Geo-Chem-Lifescience-Cluster of the (german) national research data infrastructure (Nationale Forschunsdateninfrastruktur e.V. ([NFDI](https://www.nfdi.de/?lang=en){:target="_blank"}))
+The Geo-Chem-Lifescience-Cluster of the (german) national research data infrastructure (Nationale Forschunsdateninfrastruktur  ([NFDI](https://www.nfdi.de/?lang=en){:target="_blank"}))
 consists of a loose cooperation of the consortia [NFDI4Earth](https://www.nfdi4earth.de/){:target="_blank"}, 
 [NFDI4Chem](https://www.nfdi4chem.de/){:target="_blank"}, 
 [DataPlant](https://nfdi4plants.org/){:target="_blank"}, 
