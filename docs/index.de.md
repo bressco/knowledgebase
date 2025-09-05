@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Willkommen bei der FAIRagro Knowledge Base!
 
 
