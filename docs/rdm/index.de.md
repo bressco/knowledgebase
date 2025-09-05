@@ -1,7 +1,22 @@
-# Agrarspezifisches FDM
+# Wo finde ich Informationen zu agrarspezifischem FDM?
 
-FAIRagro beschäftigt sich in der Hauptsache mit fachspezifischen FDM für die Agrarwissenschaften.
-Für die allgemeinen Fragen findet ihr [hier](/knowledgebase/basics/) ein paar gute Links zum Nachlesen allgemeiner (generischer) FDM Inhalte.
+FAIRagro beschäftigt sich in der Hauptsache mit **fachspezifischen Forschungsdatenmanagement** (FDM) für die **Community der Agrosystemforschung**.  
+Für die allgemeinen Fragen findet ihr [hier](../basics.md) ein paar gute Links zum Nachlesen allgemeiner (generischer) FDM Inhalte.
 
-Auf den folgenden Seiten findet ihr Informationen zu [agrarspezifischen Datentypen](specific_data) und deren Besonderheiten, sowie zur Auswahl eines passenden [Repositoriums](data_repositories).
-Weiterhin gibt es einen Leitfaden zur [FAIRen Veröffentlichung von Code](fair_code).
+
+## Fragen zum Datenhandling
+In der Agrosystemforschung gibt es eine Vielzahl von **Datentypen**, mit ihren jeweiligen Besonderheiten sowohl im FDM als auch in der rechtlichen Einordnung:  
+*Welche Datentypen existieren in der Agrosystemforschung? Was muss ich bei Erhebung und Publikation – auch in rechtlicher Hinsicht – beachten?*
+&rarr; [Agrarspezifische Daten](specific_data.md)
+
+Verschiedene Datentypen benötigen verschiedene **Repositorien**:  
+*Wo finde ich ein passendes Repositorium?*
+&rarr; [Repositorien](data_repositories.md)
+
+Häufig werden Daten mittels wissenschaftlichem **Code** analysiert, der ebenfalls **FAIR publiziert** werden soll:  
+*Wie veröffentliche ich Code FAIR?*
+&rarr; [FAIRe Code-Veröffentlichung](fair_code.md)
+
+
+## Rechtliche Fragen
+Eine Übersicht zu unseren Rechtsthemen findet ihr [hier](../legal/index.md).
