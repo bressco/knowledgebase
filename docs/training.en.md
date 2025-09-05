@@ -1,8 +1,8 @@
 # Where can I find training opportunities and/or learning and teaching materials on the topic of RDM?
 
 The topic of research data management (RDM) is diverse.
-For those looking for general (generic) information, we have compiled a list of helpful resources [here](basics.en.md).
-Subject-specific information on [RDM in agrosystem research](rdm/index.en.md) can be found directly here in our Knowledge Base.
+For those looking for general (generic) information, we have compiled a list of helpful resources [here](basics.md).
+Subject-specific information on [RDM in agrosystem research](rdm/index.md) can be found directly here in our Knowledge Base.
 
 Many aspects of RDM can be easily learned independently.
 In addition to the above-mentioned information resources, there are also **learning materials** for self-study and **teaching resources** for further training others.

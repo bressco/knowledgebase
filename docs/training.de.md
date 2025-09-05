@@ -1,8 +1,8 @@
 # Wo finde ich Trainingsmöglichkeiten und/oder Lern- und Lehrmaterialien zum Thema FDM?
 
 Das Thema Forschungsdatenmanagement (FDM) ist vielseitig.
-Für die jenigen, die allgemeine (generische) Informationen suchen, haben wir [hier](basics.de.md) eine Liste mit hilfreichen Quellen zusammengestellt.
-Fachspezifische Informationen zum [FDM in der Agrosystemforschung](rdm/index.de.md) gibt es direkt hier in unserer Knowledge Base.
+Für die jenigen, die allgemeine (generische) Informationen suchen, haben wir [hier](basics.md) eine Liste mit hilfreichen Quellen zusammengestellt.
+Fachspezifische Informationen zum [FDM in der Agrosystemforschung](rdm/index.md) gibt es direkt hier in unserer Knowledge Base.
 
 Viele Aspekte des FDM lassen sich gut selbst aneignen.
 Dazu gibt es neben den o.g. reinen Informationsangeboten auch richtige **Lernmaterialien** zum Selbststudium, bzw. **Lehrressourcen** für die Weiterbildung anderer.
