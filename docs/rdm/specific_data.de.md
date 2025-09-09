@@ -46,7 +46,7 @@ Im Einzelfall kann der [FAIRagro Helpdesk](https://fairagro.net/helpdesk){:targe
 Allgemeine Felddaten fallen bei vielen agrarwissenschaftlichen Feldversuchen an. Sie umfassen Informationen zum Betrieb, sowie zu den ausgesäten Kulturen (z.B. Sorte, Saattermin, Ertrag, Pflanzenschutzbehandlungen, Düngung, …).
 Häufig spielt auch die Anonymisierung oder Pseudonymisierung von Betriebsdaten eine Rolle.
 In aller Regel werden allgemeine Felddaten nicht separat, sondern als Vergleichsdaten innerhalb von Feldstudien erhoben.
-In diesem Zusammenhang bieten [landwirtschaftliche Dauerfeldversuche](#dauerversuche) (Long-term field experiments/LTE) ein nachhaltiges Monitoring für Boden- und Pflanzeneigenschaften unter wechselnden klimatischen Bedingungen und Bewirtschaftungsverfahren.
+In diesem Zusammenhang bieten [landwirtschaftliche Dauerfeldversuche](#dauerfeldversuche) (Long-term field experiments/LTE) ein nachhaltiges Monitoring für Boden- und Pflanzeneigenschaften unter wechselnden klimatischen Bedingungen und Bewirtschaftungsverfahren.
 Somit repräsentieren LTE-Daten einen wichtigen landwirtschaftlichen Datenschatz, der u.a. auch auf allgemeinen Felddaten beruht.
 Dieser Schatz sollte sorgfältig veröffentlicht werden, um beispielsweise das Verständnis der Auswirkungen des Klimawandels zu fördern und Lösungen für nachhaltige Bodenbewirtschaftung entwickeln zu können.
 \[Schmidt *et al.* 2023, S. 16\][^1]
@@ -195,7 +195,7 @@ Im Einzelfall kann der [FAIRagro Helpdesk](https://fairagro.net/helpdesk){:targe
 
 ## Besonderheiten
 
-### Dauerfeldversuche (Langzeitfeldexperimente, Long-term field experiments/LTE) {#dauerversuche}
+### Dauerfeldversuche (Long-term field experiments/LTE) {#dauerfeldversuche}
 Viele Experimente im nutzpfanzenwissenschaftlichen Kontext erstrecken sich über einen kompletten Zyklus bestehend aus Aussaat, Pflanzenwachstum (inkl. Behandlungen) und Ernte.
 Im Freiland sind solche Experimente immer auch von den Standortbedingungen abhänig, sowohl in Bezug auf den Boden als auch in Bezug auf Wetter und Klima.
 Die entsprechenden Parameter werden daher in der Regel im Rahmen der [allgemeinen Felddaten](#allgemeine-felddaten) erhoben.  
@@ -204,13 +204,13 @@ Daher bieten sie ein nachhaltiges Monitoring für Boden- und Pflanzeneigenschaft
 LTE-Daten stellen einen wichtigen landwirtschaftlichen Datenschatz dar, der sorgfältig veröffentlicht werden sollte.
 (vgl. Schmidt *et al.* 2023, S. 16)[^1]
 
-Eine gute Übersicht über bereits veröffentlichte Dauerversuche in Europa bietet die [LTE-Übersichtskarte](https://tools.bonares.de/ltfe/){:target="_blank"} von BonaRes[^2].
+Eine gute Übersicht über bereits veröffentlichte Dauerfeldversuche in Europa bietet die [LTE-Übersichtskarte](https://tools.bonares.de/ltfe/){:target="_blank"} von BonaRes[^2].
 Dort sind Daten von mehr als 570 landwirtschaftlichen Experimenten mit einer Dauer von jeweils min. 20 Jahren gesammelt.
 
 #### Spezifika im Forschungsdatenmanagement
 Die spezifischen Besonderheiten im FDM ergeben sich grundsätzlich aus den konkret erhobenen Daten 
-(vgl. die entsprechenden Abschnitte zu den Themen z.B. Bodendaten oder Phänotypisierungsdaten).
-Dazu kommen die mit zu erfassenden allgemeinen Felddaten, von denen manche jährlich neu zu erheben sind (z.B. Aussaatdatum) und manche immer gleich bleiben (z.B. Standort).
+(vgl. die entsprechenden Abschnitte zu den Themen z.B. [Bodendaten](#bodendaten) oder [Phänotypisierungsdaten](#phanotypisierungdaten)).
+Dazu kommen die mit zu erfassenden [allgemeinen Felddaten](#allgemeine-felddaten), von denen manche jährlich neu zu erheben sind (z.B. Aussaatdatum) und manche immer gleich bleiben (z.B. Standort).
 Eine übersichtliche Dokumentation v.a. der Datenstruktur ist daher empfehlenswert.
 
 #### Rechtliche Einordnung
