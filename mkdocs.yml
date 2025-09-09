@@ -15,6 +15,7 @@ nav:
     - FDM & Recht: 
         - legal/index.de.md
         - Rechte an Daten: legal/rights.de.md
+        - Data Act der EU: legal/access.de.md
     - Weitere FDM Themen:
         - FDM Training: training.de.md
         - FAIRagro Services: services.de.md
@@ -73,6 +74,7 @@ plugins:
             - RDM & Legal: 
                 - legal/index.en.md
                 - Data rights: legal/rights.en.md
+                - EU Data Act: legal/access.en.md
             - Further RDM Topics:
                 - RDM Training: training.en.md
                 - FAIRagro Services: services.en.md
