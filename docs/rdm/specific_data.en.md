@@ -29,10 +29,17 @@ One challenge is that significant amounts of data has not yet been digitized.
 \[ibid.\]
 
 #### Legal Aspects
-*XXX*
+According to current case law, databases containing soil data may also be protected for those collecting the data under the provisions of Section 87a et seq. of the German Copyright Act (UrhG). 
+This is essentially based on the fact that a measurement is understood as ‘procurement’ within the meaning of Section 87a UrhG.
+However, changes could result from the data regulation.
+These have not yet found their way into case law, however.
+In addition, protection may arise based on the degree of processing of the data.
+
+Depending on the circumstances, georeferenced data *may* also constitute personal data.
+However, whether this is the case can only be determined on a case-by-case basis.
 
 Details can be found in the [Overview of rights to data](../legal/rights.md).
-The [FAIRagro helpdesk](https://fairagro.net/en/helpdesk){:target="_blank"} can assist in individual cases.
+The [FAIRagro Helpdesk](https://fairagro.net/en/helpdesk){:target="_blank"} can assist in individual cases.
 
 
 ### General Field Data
@@ -50,10 +57,18 @@ Nevertheless, the presence of general field data in the data set should be noted
 \[ibid.\]
 
 #### Legal Aspects
-*XXX*
+According to current case law, databases containing field data may also be protected for those collecting the data under the provisions of Section 87a et seq. of the German Copyright Act (UrhG). 
+This is essentially based on the fact that a measurement is understood as ‘procurement’ within the meaning of Section 87a UrhG.
+However, changes could result from the data regulation.
+These have not yet found their way into case law, however.
+In addition, protection may arise based on the degree of processing of the data.
+
+Depending on the circumstances, georeferenced data *may* also constitute personal data.
+However, whether this is the case can only be determined on a case-by-case basis.
+The same applies to information about the respective farm in the field data.
 
 Details can be found in the [Overview of rights to data](../legal/rights.md).
-The [FAIRagro helpdesk](https://fairagro.net/en/helpdesk){:target="_blank"} can assist in individual cases.
+The [FAIRagro Helpdesk](https://fairagro.net/en/helpdesk){:target="_blank"} can assist in individual cases.
 
 
 ### Genetic Data (“omics data”)
@@ -72,10 +87,17 @@ It is often interesting to establish a connection between phenotype and genotype
 \[ibid.\]
 
 #### Legal Aspects
-*XXX*
+According to current case law, databases containing “omics data” may also be protected for those collecting the data under the provisions of Section 87a et seq. of the German Copyright Act (UrhG). 
+This is essentially based on the fact that a measurement is understood as ‘procurement’ within the meaning of Section 87a UrhG.
+However, changes could result from the data regulation.
+These have not yet found their way into case law, however.
+In addition, protection may arise based on the degree of processing of the data.
+
+If the data includes images, these may be protected as photographs under Section 72 UrhG.
+This protection is similar in many respects to copyright law.
 
 Details can be found in the [Overview of rights to data](../legal/rights.md).
-The [FAIRagro helpdesk](https://fairagro.net/en/helpdesk){:target="_blank"} can assist in individual cases.
+The [FAIRagro Helpdesk](https://fairagro.net/en/helpdesk){:target="_blank"} can assist in individual cases.
 
 
 ### Phenotyping Data
@@ -90,10 +112,17 @@ It is often interesting to establish a connection between phenotype and genotype
 \[ibid.\]
 
 #### Legal Aspects
-*XXX*
+According to current case law, databases containing phenotyping data may also be protected for those collecting the data under the provisions of Section 87a et seq. of the German Copyright Act (UrhG). 
+This is essentially based on the fact that a measurement is understood as ‘procurement’ within the meaning of Section 87a UrhG.
+However, changes could result from the data regulation.
+These have not yet found their way into case law, however.
+In addition, protection may arise based on the degree of processing of the data.
+
+If the data includes images, these may be protected as photographs under Section 72 UrhG.
+This protection is similar in many respects to copyright law.
 
 Details can be found in the [Overview of rights to data](../legal/rights.md).
-The [FAIRagro helpdesk](https://fairagro.net/en/helpdesk){:target="_blank"} can assist in individual cases.
+The [FAIRagro Helpdesk](https://fairagro.net/en/helpdesk){:target="_blank"} can assist in individual cases.
 
 
 ### Field robotics & sensor data
@@ -111,10 +140,20 @@ In addition to the information about the culture examined, details about the sen
 \[ibid.\]
 
 #### Legal Aspects
-*XXX*
+According to current case law, databases containing data collected by field robotics and sensor data may also be protected for those collecting the data under the provisions of Section 87a et seq. of the German Copyright Act (UrhG). 
+This is essentially based on the fact that a measurement is understood as ‘procurement’ within the meaning of Section 87a UrhG.
+However, changes could result from the data regulation.
+These have not yet found their way into case law, however.
+In addition, protection may arise based on the degree of processing of the data.
+
+If the data includes images, these may be protected as photographs under Section 72 UrhG.
+This protection is similar in many respects to copyright law.
+
+Depending on the circumstances, georeferenced data *may* also constitute personal data.
+However, whether this is the case can only be determined on a case-by-case basis.
 
 Details can be found in the [Overview of rights to data](../legal/rights.md).
-The [FAIRagro helpdesk](https://fairagro.net/en/helpdesk){:target="_blank"} can assist in individual cases.
+The [FAIRagro Helpdesk](https://fairagro.net/en/helpdesk){:target="_blank"} can assist in individual cases.
 
 
 ### Big GeoData
@@ -137,10 +176,21 @@ On the other hand, the data and the products produced from it are documented acc
 \[ibid.\]
 
 #### Legal Aspects
-*XXX*
+According to current case law, databases that form part of big geodata may also be protected for those collecting the data under the provisions of Section 87a et seq. of the German Copyright Act (UrhG).
+This is essentially based on the fact that a measurement is understood as ‘procurement’ within the meaning of Section 87a UrhG.
+However, changes could result from the data regulation.
+These have not yet found their way into case law, however.
+In addition, protection may arise based on the degree of processing of the data.
+
+If the data includes images, these may be protected as photographs under Section 72 UrhG.
+This protection is similar in many respects to copyright law.
+
+Depending on the circumstances, georeferenced data *may* also constitute personal data.
+However, whether this is the case can only be determined on a case-by-case basis.
 
 Details can be found in the [Overview of rights to data](../legal/rights.md).
-The [FAIRagro helpdesk](https://fairagro.net/en/helpdesk){:target="_blank"} can assist in individual cases.
+The [FAIRagro Helpdesk](https://fairagro.net/en/helpdesk){:target="_blank"} can assist in individual cases.
+
 
 
 ## Special features
@@ -156,5 +206,28 @@ LTE data represent an important agricultural data treasure that should be carefu
 
 The [LTE overview map](https://tools.bonares.de/ltfe/){:target="_blank"} from BonaRes[^2] provides a good overview of already published long-term field experiments in Europe.
 Data from more than 570 agricultural experiments with a duration of at least 20 years each are collected there.
+
+#### Specifics in research data management
+The specific features of RDM are essentially derived from the concrete data collected 
+(see the relevant sections on topics such as [soil data](#soil-data) or [phenotyping data](#phenotyping-data)).
+In addition, there is the [general field data](#general-field-data) to be recorded, some of which must be collected annually (e.g. sowing date) and some of which remains the same (e.g. location).
+Clear documentation, especially of the data structure, is therefore recommended.
+
+#### Legal Aspects
+According to current case law, databases containing data from long-term field experiments may also be protected for those collecting the data under the provisions of Section 87a et seq. of the German Copyright Act (UrhG).
+This is essentially based on the fact that a measurement is understood as ‘procurement’ within the meaning of Section 87a UrhG.
+However, changes could result from the data regulation.
+These have not yet found their way into case law, however.
+In addition, protection may arise based on the degree of processing of the data.
+
+If the data includes images, these may be protected as photographs under Section 72 UrhG.
+This protection is similar in many respects to copyright law.
+
+Depending on the circumstances, georeferenced data *may* also constitute personal data.
+However, whether this is the case can only be determined on a case-by-case basis.
+
+Details can be found in the [Overview of rights to data](../legal/rights.md).
+The [FAIRagro Helpdesk](https://fairagro.net/en/helpdesk){:target="_blank"} can assist in individual cases.
+
 
 [^2]: BonaRes Repository. [https://doi.org/10.25504/FAIRsharing.2cw3HU](https://doi.org/10.25504/FAIRsharing.2cw3HU){:target="_blank"}
