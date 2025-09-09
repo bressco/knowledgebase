@@ -64,7 +64,8 @@ Diese haben ihren Weg allerdings noch nicht in die Rechtsprechung gefunden.
 Daneben kann sich ein Schutz aufgrund des Aufbereitungsgrades der Daten ergeben.
 
 Bei georeferenzierten Daten *kann* es sich je nach Konstellation auch um personenbezogene Daten handeln.
-Ob das der Fall ist, lässt sich aber nur im Einzelfall beantworten. Gleiches gilt für Angaben zum jeweiligen Betrieb bei den Felddaten.
+Ob das der Fall ist, lässt sich aber nur im Einzelfall beantworten.
+Gleiches gilt für Angaben zum jeweiligen Betrieb bei den Felddaten.
 
 Details finden sich bei der [Übersicht zu Rechten an Daten](../legal/rights.md).
 Im Einzelfall kann der [FAIRagro Helpdesk](https://fairagro.net/helpdesk){:target="_blank"} weiterhelfen.
@@ -114,7 +115,8 @@ Oft ist es interessant, einen Zusammenhang zwischen Phänotyp und Genotyp herzus
 Datenbanken mit Phänotypisierungsdaten können nach aktueller Rechtsprechung durch das Recht aus § 87a ff. UrhG auch für die Erhebenden geschützt sein.
 Dies baut im Kern darauf auf, dass eine Messung als „Beschaffung“ im Sinne von § 87a UrhG verstanden wird. 
 Allerdings könnten sich durch die Datenverordnung Änderungen ergeben. 
-Diese haben ihren Weg allerdings noch nicht in die Rechtsprechung gefunden. Daneben kann sich ein Schutz aufgrund des Aufbereitungsgrades der Daten ergeben.
+Diese haben ihren Weg allerdings noch nicht in die Rechtsprechung gefunden.
+Daneben kann sich ein Schutz aufgrund des Aufbereitungsgrades der Daten ergeben.
 
 Wenn die Daten Abbildungen umfassen, können diese nach § 72 UrhG als Lichtbilder geschützt sein.
 Dieser Schutz ähnelt in vielen Punkten dem Urheberrecht.
@@ -193,7 +195,7 @@ Im Einzelfall kann der [FAIRagro Helpdesk](https://fairagro.net/helpdesk){:targe
 
 ## Besonderheiten
 
-### Dauerversuche (Langzeitfeldexperimente, Long-term field experiments/LTE) {#dauerversuche}
+### Dauerfeldversuche (Langzeitfeldexperimente, Long-term field experiments/LTE) {#dauerversuche}
 Viele Experimente im nutzpfanzenwissenschaftlichen Kontext erstrecken sich über einen kompletten Zyklus bestehend aus Aussaat, Pflanzenwachstum (inkl. Behandlungen) und Ernte.
 Im Freiland sind solche Experimente immer auch von den Standortbedingungen abhänig, sowohl in Bezug auf den Boden als auch in Bezug auf Wetter und Klima.
 Die entsprechenden Parameter werden daher in der Regel im Rahmen der [allgemeinen Felddaten](#allgemeine-felddaten) erhoben.  
@@ -204,5 +206,28 @@ LTE-Daten stellen einen wichtigen landwirtschaftlichen Datenschatz dar, der sorg
 
 Eine gute Übersicht über bereits veröffentlichte Dauerversuche in Europa bietet die [LTE-Übersichtskarte](https://tools.bonares.de/ltfe/){:target="_blank"} von BonaRes[^2].
 Dort sind Daten von mehr als 570 landwirtschaftlichen Experimenten mit einer Dauer von jeweils min. 20 Jahren gesammelt.
+
+#### Spezifika im Forschungsdatenmanagement
+Die spezifischen Besonderheiten im FDM ergeben sich grundsätzlich aus den konkret erhobenen Daten 
+(vgl. die entsprechenden Abschnitte zu den Themen z.B. Bodendaten oder Phänotypisierungsdaten).
+Dazu kommen die mit zu erfassenden allgemeinen Felddaten, von denen manche jährlich neu zu erheben sind (z.B. Aussaatdatum) und manche immer gleich bleiben (z.B. Standort).
+Eine übersichtliche Dokumentation v.a. der Datenstruktur ist daher empfehlenswert.
+
+#### Rechtliche Einordnung
+Datenbanken mit Daten aus Dauerfeldversuchen können nach aktueller Rechtsprechung durch das Recht aus § 87a ff. UrhG auch für die Erhebenden geschützt sein.
+Dies baut im Kern darauf auf, dass eine Messung als „Beschaffung“ im Sinne von § 87a UrhG verstanden wird. 
+Allerdings könnten sich durch die Datenverordnung Änderungen ergeben. 
+Diese haben ihren Weg allerdings noch nicht in die Rechtsprechung gefunden.
+Daneben kann sich ein Schutz aufgrund des Aufbereitungsgrades der Daten ergeben.
+
+Wenn die Daten Abbildungen umfassen, können diese nach § 72 UrhG als Lichtbilder geschützt sein.
+Dieser Schutz ähnelt in vielen Punkten dem Urheberrecht.
+
+Bei georeferenzierten Daten *kann* es sich je nach Konstellation auch um personenbezogene Daten handeln.
+Ob das der Fall ist, lässt sich aber nur im Einzelfall beantworten.
+
+Details finden sich bei der [Übersicht zu Rechten an Daten](../legal/rights.md).
+Im Einzelfall kann der [FAIRagro Helpdesk](https://fairagro.net/helpdesk){:target="_blank"} weiterhelfen.
+
 
 [^2]: BonaRes Repository. [https://doi.org/10.25504/FAIRsharing.2cw3HU](https://doi.org/10.25504/FAIRsharing.2cw3HU){:target="_blank"}
