@@ -57,9 +57,9 @@ Die Materialien sind auf Zenodo veröffentlicht:
 - Boße, S., Jordan, S., Rey Mazón, E., Sahwan, W., & Svoboda, N. (2025). **Research Data Management in Agricultural Sciences - Advanced module: Data publication– Trainingsmaterial**. Fachrepositorium Lebenswissenschaften. [https://doi.org/10.4126/FRL01-006426818](https://doi.org/10.4126/FRL01-006426818){:target="_blank"}
 
 
-#### Legal Trainig Series
+#### Legal Workshop Series
 
-Im Rahmen der Legal Training Series **„Don’t panic! Survival guide for Law and Ethics in Research”**, organisiert von FAIRagro, NFDI4Biodiversity und NFDI4Earth, wurde die erste Episode, [Datenschutz auf dem Silbertablett](https://doi.org/10.4126/FRL01-006402743){:target="_blank"}, im April 2025 von Lea Singson und Sophie Boße durchgeführt.
+Im Rahmen der [Legal Workshop Series](https://fairagro.net/legal-workshop-series/) **„Don’t panic! Survival guide for Law and Ethics in Research“**, organisiert von FAIRagro, NFDI4Biodiversity und NFDI4Earth, wurde die erste Episode, [Datenschutz auf dem Silbertablett](https://doi.org/10.4126/FRL01-006402743){:target="_blank"}, im April 2025 von Lea Singson und Sophie Boße durchgeführt.
 Die Materialien, inkl. der Aufzeichnung, sind ebenfalls auf Zenodo veröffentlicht:
 
 - Singson, L. S., & Boße, S. (2025). **Datenschutz auf dem Silbertablett - Trainingsmaterial**. Publisso. [https://doi.org/10.4126/FRL01-006402743](https://doi.org/10.4126/FRL01-006402743){:target="_blank"}
