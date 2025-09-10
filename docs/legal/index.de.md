@@ -16,7 +16,7 @@ Ein Schwerpunkt liegt aber in der **rechtlichen Einordnung der Daten** und den d
 
 
 ## Legal Blog
-Unser [FAIRagro Blog](https://fairagro.net/blog/) enthält einige Beiträge unserer [rechtswissenschaftlichen Kollegen](https://fairagro.net/fairagro_team_category/fiz-karlsruhe/).
+Unser [FAIRagro Blog](https://fairagro.net/blog/) enthält einige Beiträge unserer [rechtswissenschaftlichen Kolleg*innen](https://fairagro.net/fairagro_team_category/fiz-karlsruhe/).
 Folgende (rechtliche) Fragen kommen dabei zur Sprache:
 
 - [Do you speak legal?](https://fairagro.net/do-you-speak-legal/) Rechtssprache: Warum sie eigentümlich, aber notwendig ist
