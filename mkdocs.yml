@@ -42,11 +42,15 @@ theme:
         primary: custom
         accent: custom
     custom_dir: docs/custom
+    icon:
+      tag:
+        author: fontawesome/solid/user
         
 
 # Language settings
 plugins:
   - search
+  - tags
   - i18n:
       reconfigure_material: true
       reconfigure_search: true
@@ -90,6 +94,9 @@ markdown_extensions:
   - toc:  
       toc_depth: 3
   - pymdownx.blocks.caption
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra_css:
   - stylesheets/extra.css
@@ -101,6 +108,9 @@ extra:
       logo:
         link: https://www.fairagro.net
         img: assets/logo.png
+  tags:
+    Constantin Bress: author
+    Lucia Vedder: author
 
 footer:
   copyright: |
