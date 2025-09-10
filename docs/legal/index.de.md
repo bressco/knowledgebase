@@ -1,3 +1,10 @@
+---
+title: FDM & Recht
+tags:
+  - Constantin Bress
+  - Lucia Vedder
+---
+
 # Welche rechtlichen Fragen muss ich im Forschungsdatenmanagement beachten?
 
 Auch im Forschungsdatenmanagement (FDM) spielen **rechtliche Themen** immer wieder eine Rolle.
