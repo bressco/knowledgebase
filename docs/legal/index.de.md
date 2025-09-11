@@ -51,7 +51,7 @@ Weitere Infos zu den (allgemeinen) Trainingsmöglichkeiten findet ihr [hier](../
 :fontawesome-solid-user: Lucia Vedder, 
 :fontawesome-solid-user: Constantin Bress
 
-(*Letztes Update: 2025-09-10*)
+(*Letztes Update: 2025-09-11*)
 
 ---
 #<small>Wie zitiert man diese Seite?</small>

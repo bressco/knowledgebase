@@ -49,3 +49,16 @@ The content contains a lot of general information, e.g. on data management plans
 [![Logo FAIR Data Austria](images/Logo_FAIRDataAustria.png){ align=right }](https://fair-office.at/lernen-sie-mehr/?lang=en){:target="_blank"}
 
 The collection of open educational resources (OER) from [FAIR Data Austria](https://fair-office.at/lernen-sie-mehr/?lang=en){:target="_blank"} provides an overview of various generic RDM topics for beginners.
+
+
+
+---
+# <small>Contributors</small>
+:fontawesome-solid-user: Lucia Vedder, 
+:fontawesome-solid-user: Elena Rey Mazón
+
+(*Last Update: 2025-09-11*)
+
+---
+#<small>How to cite this page?</small>
+Vedder, L. & Rey Mazón, E. (2025). *RDM Basics*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/basics/](https://knowledgebase.fairagro.net/en/basics/). Under: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).

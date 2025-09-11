@@ -52,3 +52,15 @@ _MPDL ist nur in Englisch verfügbar._
 
 Die Sammlung der offenen Bildungsressourcen (OER) von [FAIR Data Austria](https://fair-office.at/lernen-sie-mehr/){:target="_blank"} bietet einen Überblick über verschiedene generische FDM-Themen für Einsteiger.
 
+
+
+---
+# <small>Mitwirkende</small>
+:fontawesome-solid-user: Lucia Vedder, 
+:fontawesome-solid-user: Elena Rey Mazón
+
+(*Letztes Update: 2025-09-11*)
+
+---
+#<small>Wie zitiert man diese Seite?</small>
+Vedder, L. & Rey Mazón, E. (2025). *FDM Basics*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/basics/](https://knowledgebase.fairagro.net/basics/). Unter: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
