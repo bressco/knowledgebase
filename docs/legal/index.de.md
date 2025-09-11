@@ -19,7 +19,7 @@ Ein Schwerpunkt liegt aber in der **rechtlichen Einordnung der Daten** und den d
 [^1]: IoT steht für **Internet of Things** (dt.: Internet der Dinge). Es bezeichnet das Netzwerk aus physischen Geräten, die mit Sensoren und Software ausgestattet sind und über das Internet miteinander kommunizieren können.
 
 
-## Legal Blog
+## Rechtskolumne
 Unser [FAIRagro Blog](https://fairagro.net/blog/) enthält einige Beiträge unserer [rechtswissenschaftlichen Kolleg*innen](https://fairagro.net/fairagro_team_category/fiz-karlsruhe/).
 Folgende (rechtliche) Fragen kommen dabei zur Sprache:
 
