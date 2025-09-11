@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+title: FAIRagro Knowledge Base
 ---
 
 # Welcome to the FAIRagro Knowledge Base! ![Logo Knowledge Base](./assets/FAIRagro_Knowledgebase_Logo-v11.png){ align=right }
