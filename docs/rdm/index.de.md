@@ -1,3 +1,7 @@
+---
+title: FDM Agrar
+---
+
 # Wo finde ich Informationen zu agrarspezifischem FDM?
 
 FAIRagro beschäftigt sich in der Hauptsache mit **fachspezifischen Forschungsdatenmanagement** (FDM) für die **Community der Agrosystemforschung**.  
@@ -20,3 +24,16 @@ Häufig werden Daten mittels wissenschaftlichem **Code** analysiert, der ebenfal
 
 ## Rechtliche Fragen
 Eine Übersicht zu unseren Rechtsthemen findet ihr [hier](../legal/index.md).
+
+
+
+---
+# <small>Mitwirkende</small>
+:fontawesome-solid-user: Lucia Vedder
+
+(*Letztes Update: 2025-09-11*)
+
+---
+#<small>Wie zitiert man diese Seite?</small>
+Vedder, L. (2025). *FDM Agrar*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/rdm/](https://knowledgebase.fairagro.net/rdm/). Unter: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+[![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)

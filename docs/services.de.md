@@ -63,3 +63,17 @@ Die Entwicklung von fachspezifischen Vorlagen (Templates) für die Erstellung vo
 
 Sobald diese verfügbar sind findet ihr weitere Informationen dazu hier und auf der FAIRagro [Website](https://fairagro.net){:target="_blank"}.
 In der Zwischenzeit wendet euch mit euren Fragen gerne an den [Helpdesk](https://fairagro.net/helpdesk/#helpdesk-form){:target="_blank"}!
+
+
+
+---
+# <small>Mitwirkende</small>
+:fontawesome-solid-user: Lucia Vedder, 
+:fontawesome-solid-user: Jens Krumsieck
+
+(*Letztes Update: 2025-09-11*)
+
+---
+#<small>Wie zitiert man diese Seite?</small>
+Vedder, L. & Krumsieck, J. (2025). *FAIRagro Services*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/services/](https://knowledgebase.fairagro.net/services/). Unter: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+[![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)

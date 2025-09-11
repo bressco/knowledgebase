@@ -1,3 +1,7 @@
+---
+title: RDM Agriculture
+---
+
 # Where can I find information on agriculture-specific RDM?
 
 FAIRagro mainly deals with **subject-specific research data management** (RDM) for the **agrosystem research community**.  
@@ -20,3 +24,16 @@ Data is often analysed using scientific **code**, which should also be **publish
 
 ## Legal issues
 You can find an overview of our legal topics [here](../legal/index.md).
+
+
+
+---
+# <small>Contributors</small>
+:fontawesome-solid-user: Lucia Vedder
+
+(*Last Update: 2025-09-11*)
+
+---
+#<small>How to cite this page?</small>
+Vedder, L. (2025). *RDM Agriculture*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/rdm/](https://knowledgebase.fairagro.net/en/rdm/). Under: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+[![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)

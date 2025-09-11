@@ -25,3 +25,17 @@ Things are changing rapidly in this field, and it is questionable which methods/
 /// caption
 Roadmap to FAIR publication of scientifically generated code. (Beyer _et al._ 2025)[^2]
 ///
+
+
+
+---
+# <small>Contributors</small>
+:fontawesome-solid-user: Lucia Vedder, 
+:fontawesome-solid-user: Florian Beyer
+
+(*Last Update: 2025-09-11*)
+
+---
+#<small>How to cite this page?</small>
+Vedder, L. & Beyer, F. (2025). *Publishing Code FAIR*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/rdm/fair-code/](https://knowledgebase.fairagro.net/en/rdm/fair_code/). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+[![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)

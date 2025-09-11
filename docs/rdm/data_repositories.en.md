@@ -57,3 +57,17 @@ As consumers of these standards and databases, it is often difficult to know whi
 \[FAIRsharing 2025, Educational\][^3]
 
 [^3]: **FAIRsharing**. [https://fairsharing.org](https://fairsharing.org/){:target="_blank"}. Last accessed: 2025-04-08.
+
+
+
+---
+# <small>Contributors</small>
+:fontawesome-solid-user: Lucia Vedder, 
+:fontawesome-solid-user: Marcus Schmidt
+
+(*Last Update: 2025-09-11*)
+
+---
+#<small>How to cite this page?</small>
+Vedder, L. & Schmidt, M. (2025). *Repositories*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/rdm/data_repositories/](https://knowledgebase.fairagro.net/en/rdm/data_repositories/). Under: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+[![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)

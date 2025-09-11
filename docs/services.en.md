@@ -62,3 +62,17 @@ The development of subject-specific templates for the creation of DMPs customize
 
 As soon as they are available, you will find further information here and on the FAIRagro [website](https://fairagro.net/en){:target="_blank"}.
 In the meantime, please feel free to contact the [Helpdesk](https://fairagro.net/en/helpdesk/#helpdesk-form){:target="_blank"} with any questions you may have!
+
+
+
+---
+# <small>Contributors</small>
+:fontawesome-solid-user: Lucia Vedder, 
+:fontawesome-solid-user: Jens Krumsieck
+
+(*Last Update: 2025-09-11*)
+
+---
+#<small>How to cite this page?</small>
+Vedder, L. & Krumsieck, J. (2025). *FAIRagro Services*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/services/](https://knowledgebase.fairagro.net/en/services/). Under: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+[![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)

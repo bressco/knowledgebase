@@ -25,3 +25,17 @@ Im betrachteten Thema ändern sich Dinge schnell und es ist fraglich, welche Met
 /// caption
 Fahrplan zur FAIRen Veröffentlichung von wissenschaftlich generiertem Code. (Beyer _et al._ 2025)[^2]
 ///
+
+
+
+---
+# <small>Mitwirkende</small>
+:fontawesome-solid-user: Lucia Vedder, 
+:fontawesome-solid-user: Florian Beyer
+
+(*Letztes Update: 2025-09-11*)
+
+---
+#<small>Wie zitiert man diese Seite?</small>
+Vedder, L. & Beyer, F. (2025). *FAIRe Code-Veröffentlichung*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/rdm/fair-code/](https://knowledgebase.fairagro.net/rdm/fair_code/). Unter: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+[![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)

@@ -33,3 +33,17 @@ The Knowledge Bases of some of these cluster consortia can be found here:
 - [Knowledge Base DataPlant](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/){:target="_blank"}
 - [Knowledge Base NFDI4Biodiversity](https://kb.gfbio.org/display/KB/Knowledge+Base+-+Information+and+Services+around+Biodiversity+Data){:target="_blank"}
 - [Knowledge Base NFDI4Microbiota](https://knowledgebase.nfdi4microbiota.de/Getting-Started/01-introduction.html){:target="_blank"}
+
+
+
+---
+# <small>Contributors</small>
+:fontawesome-solid-user: Lucia Vedder, 
+:fontawesome-solid-user: Marcus Schmidt
+
+(*Last Update: 2025-09-11*)
+
+---
+#<small>How to cite this page?</small>
+Vedder, L. & Schmidt, M. (2025). *Network & More*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/info/](https://knowledgebase.fairagro.net/en/info/). Under: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+[![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)

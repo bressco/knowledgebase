@@ -64,3 +64,16 @@ Die Materialien, inkl. der Aufzeichnung, sind ebenfalls auf Zenodo veröffentlic
 
 - Singson, L. S., & Boße, S. (2025). **Datenschutz auf dem Silbertablett - Trainingsmaterial**. Publisso. [https://doi.org/10.4126/FRL01-006402743](https://doi.org/10.4126/FRL01-006402743){:target="_blank"}
 
+
+
+---
+# <small>Mitwirkende</small>
+:fontawesome-solid-user: Lucia Vedder, 
+:fontawesome-solid-user: Sophie Boße
+
+(*Letztes Update: 2025-09-11*)
+
+---
+#<small>Wie zitiert man diese Seite?</small>
+Vedder, L. & Boße, S. (2025). *FDM Training*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/training/](https://knowledgebase.fairagro.net/training/). Unter: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+[![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)
