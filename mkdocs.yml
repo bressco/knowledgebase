@@ -34,8 +34,7 @@ theme:
         - navigation.top 
         - navigation.tracking
         - navigation.sections
-        # toc
-        #- toc.integrate 
+        # toc 
         - toc.follow
     #color scheme
     palette:
@@ -108,9 +107,8 @@ extra:
       logo:
         link: https://www.fairagro.net
         img: assets/logo.png
-  tags:
-    Constantin Bress: author
-    Lucia Vedder: author
+#  tags:
+#    Lucia Vedder: author
 
 footer:
   copyright: |
