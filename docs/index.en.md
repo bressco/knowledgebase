@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Welcome to the FAIRagro Knowledge Base!
+# Welcome to the FAIRagro Knowledge Base! ![Logo Knowledge Base](./assets/FAIRagro_Knowledgebase_Logo-v11.png){ align=right }
 
 
 !!! warning "Note"
@@ -31,3 +31,13 @@ You can find more information about out team on our [website](https://fairagro.n
 If you have **feedback**, **comments** or any **questions** regarding RDM, please get in touch with us directly via the [contact form](https://fairagro.net/en/helpdesk/#helpdesk-form){:target="_blank"}.
 
 **Let’s make agrosystem research data FAIR together!**
+
+
+
+---
+#<small>How is it licensed and how can I cite it?</small>
+The FAIRagro Knowledge Base is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Information about the respective **contributors** and **how to cite** the respective page can be found at the very bottom of *every* page.
+
+[![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)

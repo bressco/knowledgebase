@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Willkommen bei der FAIRagro Knowledge Base!
+# Willkommen bei der FAIRagro Knowledge Base! ![Logo Knowledge Base](./assets/FAIRagro_Knowledgebase_Logo-v11.png){ align=right }
 
 
 !!! warning "Hinweis" 
@@ -31,3 +31,13 @@ Weitere Infos zum Team findet ihr auf unserer [Website](https://fairagro.net/hel
 Wenn ihr **Feedback** habt, einen **Kommentar** abgeben wollt oder sonstige **Fragen** zum Thema FDM habt, nutzt gerne unser [Kontaktformular](https://fairagro.net/helpdesk/#helpdesk-form){:target="_blank"}.
 
 **Lasst uns zusammen Agrosystemforschungsdaten FAIR machen!**
+
+
+
+---
+#<small>Wie ist sie lizensiert und wie kann ich sie zitieren?</small>
+Die FAIRagro Knowledge Base ist lizensiert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Hinweise zu den jeweils **Mitwirkenden** und zum **Zitieren** der jeweiligen Seite findet ihr ganz am Ende *jeder* Seite.
+
+[![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)
