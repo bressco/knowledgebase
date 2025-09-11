@@ -1,10 +1,3 @@
----
-title: FDM & Recht
-tags:
-  - Constantin Bress
-  - Lucia Vedder
----
-
 # Welche rechtlichen Fragen muss ich im Forschungsdatenmanagement beachten?
 
 Auch im Forschungsdatenmanagement (FDM) spielen **rechtliche Themen** immer wieder eine Rolle.
@@ -46,3 +39,16 @@ In unseren FAIRagro Trainings werden (fast) immer auch rechtliche Fragestellunge
 Einen besonderen Schwerpunkt haben sie aber natürlich in unserer [Legal Workshop Series](https://fairagro.net/legal-workshop-series/) **„Don’t panic! Survival guide for Law and Ethics in Research“**, die wir in Kooperation mit NFDI4Biodiversity und NFDI4Earth durchführen. 
 
 Weitere Infos zu den (allgemeinen) Trainingsmöglichkeiten findet ihr [hier](../training.md).
+
+
+
+---
+# <small>Mitwirkende</small>
+:fontawesome-solid-user: Lucia Vedder, 
+:fontawesome-solid-user: Constantin Bress
+
+(*Letztes Update: 2025-09-10*)
+
+---
+#<small>Wie zitiert man diese Seite?</small>
+Vedder, L. & Bress, C. (2025). *FDM & Recht*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/legal/](https://knowledgebase.fairagro.net/legal/). Unter: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
