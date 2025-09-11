@@ -41,7 +41,7 @@ theme:
     palette:
         primary: custom
         accent: custom
-    custom_dir: docs/custom
+    custom_dir: custom
     icon:
       tag:
         author: fontawesome/solid/user
