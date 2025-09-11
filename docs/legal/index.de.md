@@ -1,3 +1,7 @@
+---
+title: FDM & Recht
+---
+
 # Welche rechtlichen Fragen muss ich im Forschungsdatenmanagement beachten?
 
 Auch im Forschungsdatenmanagement (FDM) spielen **rechtliche Themen** immer wieder eine Rolle.
