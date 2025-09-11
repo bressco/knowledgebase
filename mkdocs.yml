@@ -114,9 +114,9 @@ footer:
   copyright: |
     &copy; 2025 FAIRagro
   links:
-    - name: "'Kontakt - Contact'"
+    - name: Contact -
       link: https://fairagro.net/kontakt/
-    - name: "'Impressum - Legal notice'"
+    - name: Legal notice -
       link: https://fairagro.net/impressum/
-    - name: "'Datenschutzerklärung - Privacy Policy'"
+    - name: Privacy policy
       link: https://fairagro.net/datenschutzerklaerung/
