@@ -2,7 +2,7 @@
 title: RDM Agriculture
 ---
 
-# Where can I find information on agriculture-specific RDM?
+# Where can I find information on agriculture-specific research data management?
 
 FAIRagro mainly deals with **subject-specific research data management** (RDM) for the **agrosystem research community**.  
 For general questions, you can find some useful links to general (generic) RDM content [here](../basics.md).

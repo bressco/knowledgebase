@@ -2,7 +2,7 @@
 title: FDM Agrar
 ---
 
-# Wo finde ich Informationen zu agrarspezifischem FDM?
+# Wo finde ich Informationen zu agrarspezifischem Forschungsdatenmanagement?
 
 FAIRagro beschäftigt sich in der Hauptsache mit **fachspezifischen Forschungsdatenmanagement** (FDM) für die **Community der Agrosystemforschung**.  
 Für die allgemeinen Fragen findet ihr [hier](../basics.md) ein paar gute Links zum Nachlesen allgemeiner (generischer) FDM Inhalte.
