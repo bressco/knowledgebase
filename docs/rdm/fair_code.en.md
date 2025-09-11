@@ -30,8 +30,8 @@ Roadmap to FAIR publication of scientifically generated code. (Beyer _et al._ 20
 
 ---
 # <small>Contributors</small>
-:fontawesome-solid-user: Lucia Vedder, 
-:fontawesome-solid-user: Florian Beyer
+:fontawesome-solid-user: Lucia Vedder [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-8924-9800),
+:fontawesome-solid-user: Florian Beyer [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-9203-320X)
 
 (*Last Update: 2025-09-11*)
 

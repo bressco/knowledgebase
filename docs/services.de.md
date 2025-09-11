@@ -68,12 +68,12 @@ In der Zwischenzeit wendet euch mit euren Fragen gerne an den [Helpdesk](https:/
 
 ---
 # <small>Mitwirkende</small>
-:fontawesome-solid-user: Lucia Vedder, 
-:fontawesome-solid-user: Jens Krumsieck
+:fontawesome-solid-user: Lucia Vedder [![ORCID icon](./images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-8924-9800),
+:fontawesome-solid-user: Jens Krumsieck [![ORCID icon](./images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0001-6242-5846)
 
 (*Letztes Update: 2025-09-11*)
 
 ---
 #<small>Wie zitiert man diese Seite?</small>
-Vedder, L. & Krumsieck, J. (2025). *FAIRagro Services*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/services/](https://knowledgebase.fairagro.net/services/). Unter: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+Vedder, L. & Krumsieck, J. (2025). *FAIRagro Services*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/services/](https://knowledgebase.fairagro.net/services/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
 [![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)

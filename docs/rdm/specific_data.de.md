@@ -236,12 +236,12 @@ Im Einzelfall kann der [FAIRagro Helpdesk](https://fairagro.net/helpdesk){:targe
 
 ---
 # <small>Mitwirkende</small>
-:fontawesome-solid-user: Lucia Vedder, 
-:fontawesome-solid-user: Marcus Schmidt
+:fontawesome-solid-user: Lucia Vedder [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-8924-9800),
+:fontawesome-solid-user: Marcus Schmidt [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-5546-5521)
 
 (*Letztes Update: 2025-09-11*)
 
 ---
 #<small>Wie zitiert man diese Seite?</small>
-Vedder, L. & Schmidt, M. (2025). *Agrarspezifische Daten*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/rdm/specific_data/](https://knowledgebase.fairagro.net/rdm/specific_data/). Unter: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+Vedder, L. & Schmidt, M. (2025). *Agrarspezifische Daten*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/rdm/specific_data/](https://knowledgebase.fairagro.net/rdm/specific_data/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
 [![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)

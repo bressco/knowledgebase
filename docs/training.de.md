@@ -68,12 +68,12 @@ Die Materialien, inkl. der Aufzeichnung, sind ebenfalls auf Zenodo veröffentlic
 
 ---
 # <small>Mitwirkende</small>
-:fontawesome-solid-user: Lucia Vedder, 
-:fontawesome-solid-user: Sophie Boße
+:fontawesome-solid-user: Lucia Vedder [![ORCID icon](./images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-8924-9800),
+:fontawesome-solid-user: Sophie Boße [![ORCID icon](./images/ORCID-iD_icon_16x16.png)](https://orcid.org/0009-0002-6461-8291)
 
 (*Letztes Update: 2025-09-11*)
 
 ---
 #<small>Wie zitiert man diese Seite?</small>
-Vedder, L. & Boße, S. (2025). *FDM Training*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/training/](https://knowledgebase.fairagro.net/training/). Unter: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+Vedder, L. & Boße, S. (2025). *FDM Training*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/training/](https://knowledgebase.fairagro.net/training/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
 [![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)

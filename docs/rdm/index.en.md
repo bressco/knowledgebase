@@ -29,11 +29,11 @@ You can find an overview of our legal topics [here](../legal/index.md).
 
 ---
 # <small>Contributors</small>
-:fontawesome-solid-user: Lucia Vedder
+:fontawesome-solid-user: Lucia Vedder [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-8924-9800)
 
 (*Last Update: 2025-09-11*)
 
 ---
 #<small>How to cite this page?</small>
-Vedder, L. (2025). *RDM Agriculture*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/rdm/](https://knowledgebase.fairagro.net/en/rdm/). Under: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+Vedder, L. (2025). *RDM Agriculture*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/rdm/](https://knowledgebase.fairagro.net/en/rdm/). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
 [![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)
