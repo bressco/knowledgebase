@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+.envrc
+
+# MkDocs build
+site/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Package management
+*.egg-info/
+dist/
+build/
+
+# Pipenv
+Pipfile.lock
+
+# Other
+*.log
+*.sqlite3

@@ -8,93 +8,169 @@
     {%- else %}
       {%- set hidden = true %}
     {% endif %}
-    <div class="md-footer-meta md-typeset" style="display: flex; justify-content: space-around">
-      {% if page.previous_page and not hidden %}
-          {% set direction = lang.t("footer.previous") %}
-          <a href="{{ page.previous_page.url | url }}" class="md-footer__link md-footer__link--prev" aria-label="{{ direction }}: {{ page.previous_page.title | e }}">
-            <div class="md-footer__button md-icon">
-              {% set icon = config.theme.icon.previous or "material/arrow-left" %}
-              {% include ".icons/" ~ icon ~ ".svg" %}
+    
+    <!-- Main footer content with 3-block structure matching main page -->
+    <div class="md-footer-meta md-typeset" style="background-color:#20312e; padding:2rem 1rem; color:#ffffff;">
+      <div class="md-grid" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1.5rem;">
+        
+        <!-- Left Block: Logo and Sprecher -->
+        <div style="flex-basis:25%; min-width:200px; flex-shrink:1;">
+          {% if config.extra.footer.logo %}
+          <figure style="margin:0 0 1rem 0;">
+            <img src="{{ base_url }}/{{ config.extra.footer.logo.img }}" alt="FAIRagro Logo" style="width:200px; max-width:100%; height:auto;">
+          </figure>
+          {% endif %}
+          
+          <p style="color:#ffffff; line-height:1.7; margin-bottom:1rem;">
+            Sprecher: Prof. Dr. Frank Ewert<br>
+            Leibniz-Zentrum<br>
+            für Agrarlandschaftsforschung (ZALF) e.V.<br>
+            E-Mail: <a href="mailto:info@fairagro.net" style="color:#ffffff;">info@fairagro.net</a>
+          </p>
+          
+          {% if config.footer.copyright %}
+          <div style="color:#b3b3b3; font-size:0.9rem; margin-bottom:1rem;">
+            {{ config.footer.copyright }}
+          </div>
+          {% endif %}
+          
+          {% for line in config.footer.lines %}
+          <div style="color:#b3b3b3; font-size:0.9rem;">{{ line }}</div>
+          {% endfor %}
+        </div>
+        
+        <!-- Middle Block: Social Links and External Services -->
+        <div style="flex-basis:32%; min-width:240px; flex-shrink:1;">
+          <div style="height:25px;"></div>
+          
+          <!-- Social Links -->
+          <ul style="list-style:none; padding:0; margin:0 0 2rem 0;">
+            <li style="margin-bottom:0.5rem;">
+              <a href="https://nfdi.social/@FAIRagro" target="_blank" rel="noopener" style="color:#ffffff; text-decoration:none;">
+                <span>Mastodon</span>
+              </a>
+            </li>
+            <li style="margin-bottom:0.5rem;">
+              <a href="https://linkedin.com/company/fairagro-konsortium" target="_blank" rel="noopener" style="color:#ffffff; text-decoration:none;">
+                <span>LinkedIn</span>
+              </a>
+            </li>
+            <li style="margin-bottom:0.5rem;">
+              <a href="https://bsky.app/profile/fairagro.bsky.social" target="_blank" rel="noopener" style="color:#ffffff; text-decoration:none;">
+                <span>Bluesky</span>
+              </a>
+            </li>
+          </ul>
+          
+          <div style="height:40px;"></div>
+          
+          <!-- External Services -->
+          <div style="display:flex; flex-direction:column; gap:0.75rem;">
+            <div>
+              <p style="margin:0;"><a href="https://github.com/fairagro" target="_blank" rel="noopener" style="color:#ffffff; text-decoration:none;">FAIRagro auf GitHub</a></p>
             </div>
-            <div class="md-footer__title" style="flex-grow: 0">
-              <span class="md-footer__direction">
-                {{ direction }}
-              </span>
-              <div class="md-ellipsis">
-                {{ page.previous_page.title }}
-              </div>
+            
+            <div>
+              <p style="margin:0;"><a href="https://zenodo.org/communities/nfdi-fairagro" target="_blank" rel="noopener" style="color:#ffffff; text-decoration:none;">FAIRagro Community auf Zenodo</a></p>
             </div>
-          </a>
-          {%else %}
-          <div style="visibility: hidden;">&nbsp;</div>
-        {% endif %}
-      <div>
-        <div class="footer-copyright">
-            {% if config.footer.copyright %}
-              <div class="md-copyright__highlight">
-                {{ config.footer.copyright }}
-              </div>
-            {% endif %}
+            
+            <div>
+              <p style="margin:0;"><a href="https://nextcloud.fairagro.net/" target="_blank" rel="noopener" style="color:#ffffff; text-decoration:none;">FAIRagro Nextcloud (intern)</a></p>
+            </div>
+            
+            <div>
+              <p style="margin:0;"><a href="https://fairagro.net/fairagro-logos-mehr/" target="_blank" rel="noopener" style="color:#ffffff; text-decoration:none;">FAIRagro Logos & mehr</a></p>
+            </div>
+            
+            <div>
+              <p style="margin:0;"><a href="https://fairagro.net/vorlagen/" target="_blank" rel="noopener" style="color:#ffffff; text-decoration:none;">FAIRagro Vorlagen</a></p>
+            </div>
+          </div>
         </div>
-        <div class="footer-logo footer-textstyle">
-            {% if config.extra.footer.logo %}
-            <a href="{{ config.extra.footer.logo.link }}"><img style='width: 260px' src="{{ base_url }}/{{ config.extra.footer.logo.img }}">
-            </a>
-            <br>
-            {% endif %}
-        </div>
-        <div class="footer-lines footer-textstyle">
-            {% for line in config.footer.lines %}
-            {{ line }}<br>
-            {% endfor %}
-        </div>
-        <nav class="footer-nav footer-textstyle">
-            {% for item in config.footer.links %}
-            {% set title = item.name %}
-            {% if not title and "//" in item.link %}
-                {% set _, url = item.link.split("//") %}
-            {% endif %}
-            <a
-                href="{{ item.link }}"
-                target="_blank" rel="noopener"
-                title="{{ title | e }}"
-                class="md-footer-link"
-            >
-                {{ title }}
-            </a>
-            {% endfor %}
-        </nav>
-        <div class="footer-license footer-textstyle">
+        
+        <!-- Right Block: DFG Funding and NFDI -->
+        <div style="flex-basis:32%; min-width:240px; flex-shrink:1;">
+          <div style="height:5px;"></div>
+          
+          <div style="display:flex; flex-direction:column; gap:2rem;">
+            <!-- DFG Funding -->
+            <div>
+              <p style="color:#ffffff; margin:0 0 1rem 0;">Gefördert durch</p>
+              <figure style="margin:0 0 0.5rem 0;">
+                <img src="https://fairagro.net/wp-content/uploads/2024/12/dfg_logo_schriftzug_weiss-300x38.png" alt="DFG Logo" style="width:250px; max-width:100%; height:auto;">
+              </figure>
+              <p style="color:#ffffff; margin:0; font-size:0.9rem;">DFG Projektnummer 501899475</p>
+            </div>
+            
+            <!-- NFDI Collaboration -->
+            <div>
+              <p style="color:#ffffff; margin:0 0 1rem 0;">In Zusammenarbeit mit</p>
+              <figure style="margin:0;">
+                <img src="https://fairagro.net/wp-content/uploads/2024/12/nfdi_invert_g43-300x62.png" alt="NFDI Logo" style="width:250px; max-width:100%; height:auto;">
+              </figure>
+            </div>
+            
+            <!-- License Section -->
             {% if config.footer.license %}
-            {% set link = config.footer.license.link %}
-            {% set logo = config.site_url + '/' + config.footer.license.logo %}
-            {% set description = config.footer.license.description %}
-            <p style="font-size: .8rem; margin-right: 20px;">{{ description }}</p>
-            <a href="{{ link }}" target="_blank" rel="noopener">
-                <img src="{{ logo }}">
-            </a>
-            {% endif %}
-        </div>
-      </div>
-      {% if page.next_page and not hidden %}
-        {% set direction = lang.t("footer.next") %}
-        <a href="{{ page.next_page.url | url }}" class="md-footer__link md-footer__link--next" style="margin-left: 0" aria-label="{{ direction }}: {{ page.next_page.title | e }}">
-          <div class="md-footer__title" style="flex-grow: 0">
-            <span class="md-footer__direction">
-              {{ direction }}
-            </span>
-            <div class="md-ellipsis">
-              {{ page.next_page.title }}
+            <div style="margin-top:1rem;">
+              {% set link = config.footer.license.link %}
+              {% set logo = config.site_url + '/' + config.footer.license.logo %}
+              {% set description = config.footer.license.description %}
+              <p style="font-size:0.8rem; color:#b3b3b3; margin-bottom:0.5rem;">{{ description }}</p>
+              <a href="{{ link }}" target="_blank" rel="noopener">
+                <img src="{{ logo }}" alt="License" style="max-height:2rem;">
+              </a>
             </div>
+            {% endif %}
+            
+            <!-- Previous/Next Navigation -->
+            {% if (page.previous_page and not hidden) or (page.next_page and not hidden) %}
+            <div style="margin-top:1rem; display:flex; flex-direction:column; gap:0.5rem;">
+              {% if page.previous_page and not hidden %}
+                {% set direction = lang.t("footer.previous") %}
+                <a href="{{ page.previous_page.url | url }}" class="md-footer__link md-footer__link--prev" aria-label="{{ direction }}: {{ page.previous_page.title | e }}" style="display:flex; align-items:center; gap:0.5rem; color:#b3b3b3; text-decoration:none; padding:0.5rem 0;">
+                  <div class="md-footer__button md-icon" style="width:1.2rem; height:1.2rem;">
+                    {% set icon = config.theme.icon.previous or "material/arrow-left" %}
+                    {% include ".icons/" ~ icon ~ ".svg" %}
+                  </div>
+                  <div>
+                    <div style="font-size:0.8rem; text-transform:uppercase; opacity:0.7;">{{ direction }}</div>
+                    <div style="font-weight:500;">{{ page.previous_page.title }}</div>
+                  </div>
+                </a>
+              {% endif %}
+              
+              {% if page.next_page and not hidden %}
+                {% set direction = lang.t("footer.next") %}
+                <a href="{{ page.next_page.url | url }}" class="md-footer__link md-footer__link--next" aria-label="{{ direction }}: {{ page.next_page.title | e }}" style="display:flex; align-items:center; gap:0.5rem; color:#b3b3b3; text-decoration:none; padding:0.5rem 0;">
+                  <div>
+                    <div style="font-size:0.8rem; text-transform:uppercase; opacity:0.7;">{{ direction }}</div>
+                    <div style="font-weight:500;">{{ page.next_page.title }}</div>
+                  </div>
+                  <div class="md-footer__button md-icon" style="width:1.2rem; height:1.2rem;">
+                    {% set icon = config.theme.icon.next or "material/arrow-right" %}
+                    {% include ".icons/" ~ icon ~ ".svg" %}
+                  </div>
+                </a>
+              {% endif %}
+            </div>
+            {% endif %}
           </div>
-          <div class="md-footer__button md-icon">
-            {% set icon = config.theme.icon.next or "material/arrow-right" %}
-            {% include ".icons/" ~ icon ~ ".svg" %}
-          </div>
-        </a>
-        {%else %}
-        <div style="visibility: hidden;">&nbsp;</div>
-      {% endif %}
+        </div>
+        
+      </div>
     </div>
+    
+    <!-- Navigation section with gradient background -->
+    <div style="background: linear-gradient(30deg, #0f9884, #9acb4e 35%); padding:1rem 0;">
+      <div class="md-grid" style="display: flex; justify-content: flex-end;">
+        <nav style="display: flex; gap: 2rem; flex-wrap: wrap;">
+          <a href="#" style="color:#231f20; text-decoration:none; font-weight:500;">Contact</a>
+          <a href="#" style="color:#231f20; text-decoration:none; font-weight:500;">Legal notice</a>
+          <a href="#" style="color:#231f20; text-decoration:none; font-weight:500; padding-right: 100px;">Privacy policy</a>
+        </nav>
+      </div>
+    </div>
+    
   </footer>
-  {% endblock %}
+{% endblock %}
