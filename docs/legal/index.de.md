@@ -16,6 +16,10 @@ Ein Schwerpunkt liegt aber in der **rechtlichen Einordnung der Daten** und den d
 **Zugänge** zu verschiedenen Arten von **„IoT-Daten“**[^1] (wie etwa von Messsensoren) können durch den Data Act der EU eröffnet werden:  
 *Was ist der Data Act der EU und welche Datenzugänge ermöglicht er?* &rarr; [Data Act der EU](access.md)
 
+Die **Automatisierung** verschiedener Vereinbarungen soll die Arbeit 
+Forschender erleichtern. *Wie wirkt sich das auf Verträge aus?* &rarr; 
+[Automatisierte Verträge](automated_contracts.md)
+
 [^1]: IoT steht für **Internet of Things** (dt.: Internet der Dinge). Es bezeichnet das Netzwerk aus physischen Geräten, die mit Sensoren und Software ausgestattet sind und über das Internet miteinander kommunizieren können.
 
 
@@ -51,7 +55,7 @@ Weitere Infos zu den (allgemeinen) Trainingsmöglichkeiten findet ihr [hier](../
 :fontawesome-solid-user: Lucia Vedder [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-8924-9800),
 :fontawesome-solid-user: Constantin Breß [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-2133-1541)
 
-(*Letztes Update: 2025-09-11*)
+(*Letztes Update: 2025-09-16*)
 
 ---
 #<small>Wie zitiert man diese Seite?</small>
