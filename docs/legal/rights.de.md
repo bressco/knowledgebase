@@ -180,7 +180,7 @@ Ein potentieller, erst durch Auswertung realisierter Wert genügt dabei vollkomm
 
 [^2]: *Leistner*, in: Schricker/Loewenheim, 6. Aufl. 2020, § 4 UrhG, Rn.
     38; *Schulze*, in: *Dreier*/*Schulze*, UrhG, 7. Aufl. 2022, § 2
-    UrhG,.
+    UrhG.
 
 [^3]: *Leistner*, (Fn. 2), Rn. 40.
 
@@ -191,8 +191,8 @@ Ein potentieller, erst durch Auswertung realisierter Wert genügt dabei vollkomm
 
 [^6]: *Schulze*, ebd. Rn. 18, 20.
 
-[^7]: BGH, GRUR, 1991, 529 (530), -- Explosionszeichnungen -- ; OLG
-    Nürnberg, GRUR-RR, 2001, 225 (227), -- Dienstanweisung --.
+[^7]: BGH, GRUR, 1991, 529 (530), - Explosionszeichnungen -; OLG
+    Nürnberg, GRUR-RR, 2001, 225 (227), - Dienstanweisung -.
 
 [^8]: *Hacker*, Immaterialgüterrechtlicher Schutz von KI-Trainingsdaten,
     GRUR 2020, 1025 (1028).
@@ -200,11 +200,11 @@ Ein potentieller, erst durch Auswertung realisierter Wert genügt dabei vollkomm
 [^9]: *Vohwinkel*, in: BeckOK UrhR, 42. Aufl. 2024, § 87a UrhG, Rn. 28
     mwN.
 
-[^10]: EuGH, Urt. v. 29. Oktober 2015 (C-490/14), -- Verlag Esterbauer
-    -- Rn. 17; EuGH, Urt. v. 9. November 2004 (C-444/02), -- Fixtures
-    Marketing II -- Rn. 18 ff.
+[^10]: EuGH, Urt. v. 29. Oktober 2015 (C-490/14), - Verlag Esterbauer
+    - Rn. 17; EuGH, Urt. v. 9. November 2004 (C-444/02), - Fixtures
+    Marketing II - Rn. 18 ff.
 
-[^11]: EuGH, (Fn. 10), -- Verlag Esterbauer -- Rn. 27.
+[^11]: EuGH, (Fn. 10), - Verlag Esterbauer - Rn. 27.
 
 [^12]: *Dreier*, in: *Dreier*/*Schulze*, Urheberrechtsgesetz, 7. Aufl.
     2022, § 4 UrhG, Rn. 17.
@@ -217,15 +217,15 @@ Ein potentieller, erst durch Auswertung realisierter Wert genügt dabei vollkomm
 [^15]: *Leistner*, in: Schricker/Loewenheim, 6. Aufl. 2020, § 4 UrhG,
     Rn. 52.
 
-[^16]: BGH, Urt. v. 1. Dezember 2010 (I ZR 196/08), -- Zweite
-    Zahnarztmeinung II -- Rn. 19 mwN auch zur Rspr. des EuGH; *Zech*,
-    Daten als Wirtschaftsgut -- Überlegungen zu einem „Recht des
-    Datenerzeugers", CR 2015, 137 (142) f.
+[^16]: BGH, Urt. v. 1. Dezember 2010 (I ZR 196/08), - Zweite
+    Zahnarztmeinung II - Rn. 19 mwN auch zur Rspr. des EuGH; *Zech*,
+    Daten als Wirtschaftsgut - Überlegungen zu einem „Recht des
+    Datenerzeugers“, CR 2015, 137 (142) f.
 
-[^17]: EuGH, Urt. v. 9. November 2004 (C-444/02), -- Fixtures Marketing
-    II -- Rn. 44.
+[^17]: EuGH, Urt. v. 9. November 2004 (C-444/02), - Fixtures Marketing
+    II - Rn. 44.
 
-[^18]: BGH, (Fn. 16), -- Zweite Zahnarztmeinung II -- Rn. 23.
+[^18]: BGH, (Fn. 16), - Zweite Zahnarztmeinung II - Rn. 23.
 
 [^19]: *Vohwinkel*, in: BeckOK UrhR, 42. Aufl. 2024, § 87a UrhG, Rn. 54.
 
@@ -242,7 +242,7 @@ Ein potentieller, erst durch Auswertung realisierter Wert genügt dabei vollkomm
 [^24]: *Einsele*, in: BeckOK PatR, 33. Aufl. 2024, § 1 PatG, Rn. 26
     f. mwN.
 
-[^25]: BGH, Beschl. v. 27. März 1969 (X ZB 15/67), -- Rote Taube --
+[^25]: BGH, Beschl. v. 27. März 1969 (X ZB 15/67), - Rote Taube -
     juris Rn. 16 f.; *Mes*, in: *Mes*,
     Patentgesetz/Gebrauchsmustergesetz, 5. Aufl. 2020, § 1 PatG, Rn. 10
     mwN; *Einsele*, (Fn. 24), Rn. 27; *Kraßer*/*Ann*, Patentrecht, 8.
@@ -256,9 +256,9 @@ Ein potentieller, erst durch Auswertung realisierter Wert genügt dabei vollkomm
 
 [^28]: *Fuhlrott*/*Hiéramente*, ebd. Rn. 8.
 
-[^29]: OLG Schleswig, Urt. v. 28. April 2022 (6 U 39/21), --
-    Teil-Kostenrechnung -- Rn. 42; BGH, Urt. v. 23. Februar 2012 (I ZR
-    136/10), -- MOVICOL-Zulassungsantrag -- Rn. 21.
+[^29]: OLG Schleswig, Urt. v. 28. April 2022 (6 U 39/21), -
+    Teil-Kostenrechnung - Rn. 42; BGH, Urt. v. 23. Februar 2012 (I ZR
+    136/10), - MOVICOL-Zulassungsantrag - Rn. 21.
 
 [^30]: *Ohly*, Das neue Geschäftsgeheimnisgesetz im Überblick, GRUR
     2019, 441 (443).
