@@ -1,13 +1,14 @@
 # Welche Rechte bestehen an Daten?
 
-Welche Rechte an Daten bestehen hängt einerseits von der [Art der Daten](../rdm/specific_data.md) ab, aber auch deren Aufbereitungsgrad.
-Rechtliche Besonderheiten der jeweiligen Datenarten sind dort jeweils unter dem Stichwort „Rechtliche Einordnung“ aufgeführt.
+Welche Rechte an Daten bestehen hängt einerseits von der **Art der Daten**, aber auch deren **Aufbereitungsgrad** ab.
+Rechtliche Besonderheiten der jeweiligen Datenarten sind im Beitrag zu [agrarspezifischen Daten](../rdm/specific_data.md) jeweils unter dem Stichwort „Rechtliche Einordnung“ aufgeführt.
 
-An dieser Stelle hingegen findet ihr eine allgemeine Einführung zu Rechten an Daten. 
+An dieser Stelle hingegen findet ihr eine **allgemeine Einführung** zu Rechten an Daten. 
 Dabei wird nach verschiedenen „Aufbereitungsgraden“ von Daten unterschieden: Rohdaten, annotierte Daten und zusammengestellte Daten.
 
-!!!Abstract
-    Messdaten sind meist nicht geschützt. Geschützt sein können aber Aufnahmen sowie die Annotierungen von Messdaten. Oft kommt es auf den Einzelfall an.
+Grundsätzlich lässt sich folgendes zusammenfassen:  
+*Messdaten sind meist nicht geschützt. Geschützt sein können aber Aufnahmen sowie die Annotierungen von Messdaten. Oft kommt es aber auf den Einzelfall an.*
+
 
 ## Aufbereitungsgrade
 
