@@ -132,7 +132,7 @@ Dabei können sowohl Daten erhoben werden, die anschließend am Computer ausgewe
 Wie viele Agrosystemdaten weisen auch Sensordaten in aller Regel eine direkte Georeferenzierung auf.
 Diese kann sowohl dem Roboter zur Navigation dienen als auch die Verortung von Daten in einer Übersichtskarte ermöglichen.
 Häufig liegen neben den Georeferenzen der aufgezeichneten Daten (GPS-Position) auch Karteninformationen in Form von sogenannten Shape-Files vor.
-Bei Messungen im großen Stil kann allein durch die Datenmenge sogenannte [Big Geodata](#big-geodatageomassedaten) entstehen.
+Bei Messungen im großen Stil kann allein durch die Datenmenge sogenannte [Big Geodata](#geomassedaten) entstehen.
 \[Schmidt *et al.* 2023, S. 19\][^1]
 
 #### Spezifika im Forschungsdatenmanagement
