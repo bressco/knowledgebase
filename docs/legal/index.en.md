@@ -29,7 +29,7 @@ The following (legal) questions arise in this context:
 - [Copyright as the final boss](https://fairagro.net/en/copyright-as-the-final-boss/) Friend or foe for scientists?
 - [Knock Knock: who’s there? – The Reform Of The Genetic Engineering Laws?](https://fairagro.net/en/knock-knock-whos-there-the-reform-of-the-genetic-engineering-laws/)
 - [Why not only data, but also groups of people are to be protected](https://fairagro.net/en/why-not-only-data-but-also-groups-of-people-are-to-be-protected/) Sharing is CAREing – now more than just „Goodwill“
-- [Unity and justice and (academic) freedom](fairagro.net/en/unity-and-justice-and-academic-freedom/) Why it is more than just a sentence on paper
+- [Unity and justice and (academic) freedom](https://fairagro.net/en/unity-and-justice-and-academic-freedom/) Why it is more than just a sentence on paper
 - [No copyright, no problem?](https://fairagro.net/en/no-copyright-no-problem-the-consequences-of-incorrect-citation/) The consequences of incorrect citation
 - [Text- and Data Mining vs. AI](https://fairagro.net/en/text-and-data-mining-vs-ai/) Hamburg Regional Court Rules on the Creation of a Training Data Set
 - [Wo ein Richter, da kein Schöpfer?](https://fairagro.net/wo-ein-richter-da-kein-schoepfer/) A special blog post on the topics of copyright and level of creativity (*German only*)
