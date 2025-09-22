@@ -24,7 +24,7 @@ Der Data Act erfasst nur bestimmte Arten von Daten und dazugehörige Metadaten.
 Der Data Act erfasst nur Rohdaten.
 Von diesen abgeleitete Daten und durch „Sensorfusion“ gewonnene Daten sind nicht erfasst, da diese eine eigenständige Wertschöpfung darstellen, etwa durch den angewandten Algorithmus.
 Ebenso wenig erfasst sind Daten über „Inhalte“, was im weitesten Sinne urheberrechtlich geschützte Informationen meint.
-Zu beachten ist aber auch, dass die meisten Daten nicht rechtlich geschützt sind (&rarr; vgl. [Rechte an Daten](../rights.md)).
+Zu beachten ist aber auch, dass die meisten Daten nicht rechtlich geschützt sind (&rarr; vgl. [Rechte an Daten](rights.md)).
 
 Erfasst sind aber Daten, welche aufbereitet wurden, solange diese Aufbereitung keiner wesentlichen Investition durch den Dateninhaber bedarfs. 
 
