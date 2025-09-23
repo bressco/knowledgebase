@@ -17,20 +17,84 @@
   src: "https://mozilla.github.io/Fira/";
 }
 
-/*.md-nav__link:hover span, .md-nav__link.md-nav__link--active span, .md-typeset a, .md-typeset a:hover {*/
+.md-nav__link span {
+  border-block-end: 3px solid transparent;
+  transition: border-color 0.2s ease;
+}
+
 .md-nav__link:hover span, .md-nav__link.md-nav__link--active span {
   border-block-end: 3px solid #0f9884;
   border-image: linear-gradient(30deg, #9acb4e, #0f9884 35%) 1 stretch;
 }
+
 .md-ellipsis {
   letter-spacing: .1px;
   line-height: 1.7;
 }
-
-.md-content__inner{
-  margin-bottom:100px;
+/* Change header/navbar title font size */
+body > header > nav > div.md-header__title > div > div:nth-child(1) > span,
+body > header > nav > div.md-header__title.md-header__title--active > div > div:nth-child(2) > span {
+    line-height: 2.4rem;
 }
-.md-footer
-{
-  margin-top:20px;
+
+.md-content__inner {
+  margin-bottom: 100px;
+}
+
+.md-footer {
+  margin-top: 20px;
+}
+/* WIP footer styling */
+.social-link-hover:hover {
+  transform: scale(1.1);
+  transition: transform 0.2s ease;
+}
+
+body > div.md-container > footer > div.md-footer-meta.md-typeset > div > div:nth-child(1) > p > a
+ {
+color: #ffffff;
+  cursor: pointer;
+  display: inline;
+  font-family: "Fira Sans", "Helvetica Neue", Verdana, sans-serif;
+  height: auto;
+  hyphenate-limit-chars: 10 5;
+  hyphens: auto;
+  line-height: 30.42px;
+  overflow-wrap: break-word;
+  text-decoration-color: #ffffff;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 5.36824px;
+  transition-behavior: normal;
+  transition-delay: 0s;
+  transition-duration: 0.2s;
+  transition-property: all;
+  transition-timing-function: ease-in-out;
+  width: auto;
+  word-break: break-word;
+  -webkit-font-smoothing: antialiased;
+}
+body > div.md-container > footer > div.md-footer-meta.md-typeset > div > div:nth-child(1) > p > a:hover {
+  color: #9acb4e;
+  cursor: pointer;
+  display: inline;
+  font-family: "Fira Sans", "Helvetica Neue", Verdana, sans-serif;
+  height: auto;
+  hyphenate-limit-chars: 10 5;
+  hyphens: auto;
+  line-height: 30.42px;
+  opacity: 1;
+  overflow-wrap: break-word;
+  text-decoration-color: #9acb4e;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: 4px;
+  text-underline-offset: 1.78941px;
+  transition-behavior: normal;
+  transition-delay: 0s;
+  transition-duration: 0.2s;
+  transition-property: all;
+  transition-timing-function: ease-in-out;
+  width: auto;
 }
