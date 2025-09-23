@@ -1,20 +1,73 @@
-:root  > * {
-  
-  --md-primary-fg-color:	white;		/*color header*/
-  --md-primary-bg-color:	#74B549; 	/*color header text (FAIRagro middle green)*/
-  --md-typeset-a-color:		#037D6A; 	/* color link (FAIRagro dark green)*/
-  /* --md-typeset-a-color:		var(--md-typeset-color); */
-  --md-accent-fg-color:     #A7C637; 	/* color link hover (FAIRagrolight green)*/
-  /* --md-accent-fg-color:	var(--md-typeset-color);*/
-  --md-footer-bg-color:		grey;
+:root > * {
+  --md-primary-fg-color: white;		/*color header*/
+  --md-primary-bg-color: #74B549; 	/*color header text (FAIRagro middle green)*/
+  --md-typeset-a-color: #037D6A; 	/* color link (FAIRagro dark green)*/
+  --md-accent-fg-color: #A7C637; 	/* color link hover (FAIRagrolight green)*/
+  --md-footer-bg-color: grey;
   --md-footer-bg-color--dark: #20312e;
   
-  --md-text-font: "Fira Sans"
+  --md-text-font: "Fira Sans", "Helvetica Neue", Verdana, sans-serif;
+}
+
+/* Replace your incorrect @font-face with these proper declarations */
+@font-face {
+  font-family: 'Fira Sans';
+  src: local('Fira Sans Regular'),
+       url('https://code.cdn.mozilla.net/fonts/woff/FiraSans-Regular.woff') format('woff'),
+       url('https://code.cdn.mozilla.net/fonts/ttf/FiraSans-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback;
 }
 
 @font-face {
-  font-family: "Fira Sans";
-  src: "https://mozilla.github.io/Fira/";
+  font-family: 'Fira Sans';
+  src: local('Fira Sans Regular Italic'),
+       url('https://code.cdn.mozilla.net/fonts/woff/FiraSans-Italic.woff') format('woff'),
+       url('https://code.cdn.mozilla.net/fonts/ttf/FiraSans-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Fira Sans';
+  src: local('Fira Sans Medium'),
+       url('https://code.cdn.mozilla.net/fonts/woff/FiraSans-Medium.woff') format('woff'),
+       url('https://code.cdn.mozilla.net/fonts/ttf/FiraSans-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Fira Sans';
+  src: local('Fira Sans Medium Italic'),
+       url('https://code.cdn.mozilla.net/fonts/woff/FiraSans-MediumItalic.woff') format('woff'),
+       url('https://code.cdn.mozilla.net/fonts/ttf/FiraSans-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Fira Sans';
+  src: local('Fira Sans SemiBold'),
+       url('https://code.cdn.mozilla.net/fonts/woff/FiraSans-SemiBold.woff') format('woff'),
+       url('https://code.cdn.mozilla.net/fonts/ttf/FiraSans-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Fira Sans';
+  src: local('Fira Sans SemiBold Italic'),
+       url('https://code.cdn.mozilla.net/fonts/woff/FiraSans-SemiBoldItalic.woff') format('woff'),
+       url('https://code.cdn.mozilla.net/fonts/ttf/FiraSans-SemiBoldItalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+  font-display: fallback;
 }
 
 .md-nav__link span {
@@ -31,6 +84,7 @@
   letter-spacing: .1px;
   line-height: 1.7;
 }
+
 /* Change header/navbar title font size */
 body > header > nav > div.md-header__title > div > div:nth-child(1) > span,
 body > header > nav > div.md-header__title.md-header__title--active > div > div:nth-child(2) > span {
@@ -44,15 +98,15 @@ body > header > nav > div.md-header__title.md-header__title--active > div > div:
 .md-footer {
   margin-top: 20px;
 }
+
 /* WIP footer styling */
 .social-link-hover:hover {
   transform: scale(1.1);
   transition: transform 0.2s ease;
 }
 
-body > div.md-container > footer > div.md-footer-meta.md-typeset > div > div:nth-child(1) > p > a
- {
-color: #ffffff;
+body > div.md-container > footer > div.md-footer-meta.md-typeset > div > div:nth-child(1) > p > a {
+  color: #ffffff;
   cursor: pointer;
   display: inline;
   font-family: "Fira Sans", "Helvetica Neue", Verdana, sans-serif;
@@ -75,6 +129,7 @@ color: #ffffff;
   word-break: break-word;
   -webkit-font-smoothing: antialiased;
 }
+
 body > div.md-container > footer > div.md-footer-meta.md-typeset > div > div:nth-child(1) > p > a:hover {
   color: #9acb4e;
   cursor: pointer;
