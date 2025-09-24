@@ -179,7 +179,7 @@ body > div.md-container > footer > div.md-footer-meta.md-typeset > div > div:nth
   flex-basis: 25%;
   min-width: 200px;
   flex-shrink: 1;
-  text-align: left !important; 
+  
 }
 
 .fairagro-footer-logo {
@@ -439,10 +439,6 @@ body > div.md-container > footer > div.md-footer-meta.md-typeset > div > div:nth
   padding-left: 0 !important;
 }
 
-.fairagro-footer-main .md-grid {
-  margin: 0 !important;
-  padding: 0 !important;
-}
 
 .fairagro-footer-main .md-typeset {
   text-align: left !important;
