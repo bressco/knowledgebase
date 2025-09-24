@@ -1,20 +1,26 @@
 :root > * {
-  --md-primary-fg-color: white;		/*color header*/
-  --md-primary-bg-color: #74B549; 	/*color header text (FAIRagro middle green)*/
-  --md-typeset-a-color: #037D6A; 	/* color link (FAIRagro dark green)*/
-  --md-accent-fg-color: #A7C637; 	/* color link hover (FAIRagrolight green)*/
+  --md-primary-fg-color: white;
+  --md-primary-bg-color: #74B549;
+  --md-typeset-a-color: #037D6A;
+  --md-accent-fg-color: #A7C637;
   --md-footer-bg-color: grey;
   --md-footer-bg-color--dark: #20312e;
   
   --md-text-font: "Fira Sans", "Helvetica Neue", Verdana, sans-serif;
+
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    word-wrap: break-word;
+    hyphens: auto;
+    hyphenate-limit-chars: 10 5;
+
 }
 
-/* Replace your incorrect @font-face with these proper declarations */
 @font-face {
   font-family: 'Fira Sans';
   src: local('Fira Sans Regular'),
-       url('https://code.cdn.mozilla.net/fonts/woff/FiraSans-Regular.woff') format('woff'),
-       url('https://code.cdn.mozilla.net/fonts/ttf/FiraSans-Regular.ttf') format('truetype');
+       url('../assets/fonts/woff2/FiraSans-Regular.woff2') format('woff2'),
+       url('../assets/fonts/woff/FiraSans-Regular.woff') format('woff');
   font-weight: 400;
   font-style: normal;
   font-display: fallback;
@@ -23,8 +29,8 @@
 @font-face {
   font-family: 'Fira Sans';
   src: local('Fira Sans Regular Italic'),
-       url('https://code.cdn.mozilla.net/fonts/woff/FiraSans-Italic.woff') format('woff'),
-       url('https://code.cdn.mozilla.net/fonts/ttf/FiraSans-Italic.ttf') format('truetype');
+       url('../assets/fonts/woff2/FiraSans-Italic.woff2') format('woff2'),
+       url('../assets/fonts/woff/FiraSans-Italic.woff') format('woff');
   font-weight: 400;
   font-style: italic;
   font-display: fallback;
@@ -33,8 +39,8 @@
 @font-face {
   font-family: 'Fira Sans';
   src: local('Fira Sans Medium'),
-       url('https://code.cdn.mozilla.net/fonts/woff/FiraSans-Medium.woff') format('woff'),
-       url('https://code.cdn.mozilla.net/fonts/ttf/FiraSans-Medium.ttf') format('truetype');
+       url('../assets/fonts/woff2/FiraSans-Medium.woff2') format('woff2'),
+       url('../assets/fonts/woff/FiraSans-Medium.woff') format('woff');
   font-weight: 500;
   font-style: normal;
   font-display: fallback;
@@ -43,8 +49,8 @@
 @font-face {
   font-family: 'Fira Sans';
   src: local('Fira Sans Medium Italic'),
-       url('https://code.cdn.mozilla.net/fonts/woff/FiraSans-MediumItalic.woff') format('woff'),
-       url('https://code.cdn.mozilla.net/fonts/ttf/FiraSans-MediumItalic.ttf') format('truetype');
+       url('../assets/fonts/woff2/FiraSans-MediumItalic.woff2') format('woff2'),
+       url('../assets/fonts/woff/FiraSans-MediumItalic.woff') format('woff');
   font-weight: 500;
   font-style: italic;
   font-display: fallback;
@@ -53,8 +59,8 @@
 @font-face {
   font-family: 'Fira Sans';
   src: local('Fira Sans SemiBold'),
-       url('https://code.cdn.mozilla.net/fonts/woff/FiraSans-SemiBold.woff') format('woff'),
-       url('https://code.cdn.mozilla.net/fonts/ttf/FiraSans-SemiBold.ttf') format('truetype');
+       url('../assets/fonts/woff2/FiraSans-SemiBold.woff2') format('woff2'),
+       url('../assets/fonts/woff/FiraSans-SemiBold.woff') format('woff');
   font-weight: 600;
   font-style: normal;
   font-display: fallback;
@@ -63,8 +69,8 @@
 @font-face {
   font-family: 'Fira Sans';
   src: local('Fira Sans SemiBold Italic'),
-       url('https://code.cdn.mozilla.net/fonts/woff/FiraSans-SemiBoldItalic.woff') format('woff'),
-       url('https://code.cdn.mozilla.net/fonts/ttf/FiraSans-SemiBoldItalic.ttf') format('truetype');
+       url('../assets/fonts/woff2/FiraSans-SemiBoldItalic.woff2') format('woff2'),
+       url('../assets/fonts/woff/FiraSans-SemiBoldItalic.woff') format('woff');
   font-weight: 600;
   font-style: italic;
   font-display: fallback;
@@ -85,7 +91,7 @@
   line-height: 1.7;
 }
 
-/* Change header/navbar title font size */
+
 body > header > nav > div.md-header__title > div > div:nth-child(1) > span,
 body > header > nav > div.md-header__title.md-header__title--active > div > div:nth-child(2) > span {
     line-height: 2.4rem;
@@ -109,13 +115,13 @@ body > div.md-container > footer > div.md-footer-meta.md-typeset > div > div:nth
   color: #ffffff;
   cursor: pointer;
   display: inline;
-  font-family: "Fira Sans", "Helvetica Neue", Verdana, sans-serif;
+
   height: auto;
   hyphenate-limit-chars: 10 5;
   hyphens: auto;
   line-height: 30.42px;
   overflow-wrap: break-word;
-  text-decoration-color: #ffffff;
+  text-decoration-color: var(--md-accent-fg-color);
   text-decoration-line: underline;
   text-decoration-style: solid;
   text-decoration-thickness: 2px;
@@ -131,17 +137,17 @@ body > div.md-container > footer > div.md-footer-meta.md-typeset > div > div:nth
 }
 
 body > div.md-container > footer > div.md-footer-meta.md-typeset > div > div:nth-child(1) > p > a:hover {
-  color: #9acb4e;
+  color: #ffffff;
   cursor: pointer;
   display: inline;
-  font-family: "Fira Sans", "Helvetica Neue", Verdana, sans-serif;
+
   height: auto;
   hyphenate-limit-chars: 10 5;
   hyphens: auto;
   line-height: 30.42px;
   opacity: 1;
   overflow-wrap: break-word;
-  text-decoration-color: #9acb4e;
+  text-decoration-color: var(--md-typeset-a-color);
   text-decoration-line: underline;
   text-decoration-style: solid;
   text-decoration-thickness: 4px;
@@ -152,4 +158,302 @@ body > div.md-container > footer > div.md-footer-meta.md-typeset > div > div:nth
   transition-property: all;
   transition-timing-function: ease-in-out;
   width: auto;
+}
+
+
+.fairagro-footer-main {
+  background-color: #20312e;
+  padding: 2rem 1rem;
+  color: #ffffff;
+}
+
+.fairagro-footer-grid {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
+
+.fairagro-footer-left {
+  flex-basis: 25%;
+  min-width: 200px;
+  flex-shrink: 1;
+  text-align: left !important; 
+}
+
+.fairagro-footer-logo {
+  margin: 0 !important; 
+  margin-bottom: 1rem !important; 
+  text-align: left !important;
+  display: block;
+  width: 100%;
+}
+
+.fairagro-footer-logo-img {
+  width: 200px;
+  max-width: 100%;
+  height: auto;
+  display: block !important;
+  margin: 0 !important; 
+  float: none !important; 
+}
+
+.fairagro-footer-contact {
+  color: #ffffff;
+  line-height: 1.7;
+  margin-bottom: 1rem;
+}
+
+.fairagro-footer-email {
+  color: #ffffff;
+}
+
+.fairagro-footer-copyright {
+  color: #ffffff !important;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+
+.fairagro-footer-lines {
+  color: #ffffff !important;
+  font-size: 0.9rem;
+}
+
+/* Middle Block */
+.fairagro-footer-middle {
+  flex-basis: 32%;
+  min-width: 240px;
+  flex-shrink: 1;
+}
+
+.fairagro-footer-spacer-top {
+  height: 25px;
+}
+
+.fairagro-footer-spacer-middle {
+  height: 40px;
+}
+
+.fairagro-footer-social-list {
+  list-style: none !important;
+  list-style-type: none !important;
+  padding: 0 !important;
+  margin: 0 0 2rem 0 !important;
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
+
+.fairagro-footer-social-item {
+  margin-bottom: 0.5rem;
+  list-style: none !important;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+.fairagro-footer-social-link {
+  color: #ffffff !important;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.fairagro-footer-social-link span {
+  color: #ffffff !important;
+}
+
+.fairagro-footer-social-icon {
+  fill: #ffffff;
+  flex-shrink: 0;
+}
+
+.fairagro-footer-services {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.fairagro-footer-service-hidden {
+  margin: 0;
+  display: none;
+}
+
+.fairagro-footer-service-link {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* Right Block */
+.fairagro-footer-right {
+  flex-basis: 32%;
+  min-width: 240px;
+  flex-shrink: 1;
+  text-align: left !important; 
+}
+
+.fairagro-footer-spacer-right {
+  height: 5px;
+}
+
+.fairagro-footer-funding {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.fairagro-footer-funding-title {
+  color: #ffffff;
+  margin: 0 0 1rem 0;
+}
+
+.fairagro-footer-funding-logo {
+  margin: 0 !important; 
+  margin-bottom: 0.5rem !important; 
+  text-align: left !important;
+  display: block;
+  width: 100%;
+}
+
+.fairagro-footer-funding-img {
+  width: 250px;
+  max-width: 100%;
+  height: auto;
+  display: block !important;
+  margin: 0 !important; 
+  float: none !important;
+}
+
+.fairagro-footer-funding-number {
+  color: #ffffff;
+  margin: 0;
+  font-size: 0.6rem;
+}
+
+.fairagro-footer-license {
+  margin-top: 1rem;
+  text-align: left;
+}
+
+.fairagro-footer-license-text {
+  font-size: 0.8rem;
+  color: #b3b3b3;
+  margin-bottom: 0.6rem;
+}
+
+.fairagro-footer-license-img {
+  max-height: 2rem;
+  display: block;
+  margin: 0;
+}
+
+.fairagro-footer-nav {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.fairagro-footer-nav-link {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #b3b3b3;
+  text-decoration: none;
+  padding: 0.5rem 0;
+}
+
+.fairagro-footer-nav-icon {
+  width: 1.2rem;
+  height: 1.2rem;
+}
+
+.fairagro-footer-nav-direction {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  opacity: 0.7;
+}
+
+.fairagro-footer-nav-title {
+  font-weight: 500;
+}
+
+/* Gradient Navigation Section */
+.fairagro-footer-gradient {
+  background: linear-gradient(30deg, #0f9884, #9acb4e 35%);
+  padding: 0.5rem 0;
+}
+
+.fairagro-footer-gradient-container {
+  display: flex;
+  justify-content: center; 
+}
+
+.fairagro-footer-gradient-nav {
+  display: flex;
+  gap: clamp(1rem, 3vw, 2rem); 
+  flex-wrap: nowrap; 
+  align-items: center;
+  justify-content: center;
+}
+
+.fairagro-footer-gradient-link {
+  color: #231f20;
+  text-decoration: none;
+  font-weight: 400;
+  font-size: clamp(0.7rem, 2.5vw, 0.9rem); 
+  white-space: nowrap; 
+}
+
+.fairagro-footer-gradient-last {
+  padding-right: 0; 
+}
+
+/* Desktop override */
+@media (min-width: 768px) {
+  .fairagro-footer-gradient-container {
+    justify-content: flex-end; 
+  }
+  
+  .fairagro-footer-gradient-nav {
+    gap: 2rem; 
+  }
+  
+  .fairagro-footer-gradient-link {
+    font-size: 0.9rem; 
+  }
+  
+  .fairagro-footer-gradient-last {
+    padding-right: 100px; 
+  }
+}
+
+/* Override MkDocs default ul styling within footer */
+.md-footer .md-typeset ul {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+.md-footer .md-typeset li {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+.fairagro-footer-main .md-grid {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.fairagro-footer-main .md-typeset {
+  text-align: left !important;
+}
+
+.fairagro-footer-main .md-typeset figure {
+  margin: 0 !important;
+  text-align: left !important;
+}
+
+.fairagro-footer-main .md-typeset figure img {
+  margin: 0 !important;
+  display: block !important;
 }
