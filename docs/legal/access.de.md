@@ -4,7 +4,7 @@ Der Data Act, also die Verordnung (EU) 2023/2854, soll den **Zugang auf bestimmt
 Der Data Act spricht dabei von vernetzten Geräten und verbundenen Diensten.
 
 Der Zugang kann dabei auf zwei wesentliche Arten erfolgen: 
-Access by Design oder Datenzugangsanspruch, entweder für Nutzende oder auf deren Verlangen für Dritte.
+*Access by Design* oder *Datenzugangsanspruch*, entweder für Nutzende oder auf deren Verlangen für Dritte.
 
 Grundsätzlich gilt:  
 *Der Data Act vereinfacht den Zugriff auf Daten in IoT-Geräten, entweder durch direkten Zugriff oder durch einen Anspruch auf eine API.

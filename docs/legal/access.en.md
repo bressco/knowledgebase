@@ -1,47 +1,45 @@
-!!! warning
-The Data Act will only come into force in September 2025. Until then 
-its provisions are not applicable.
+# What is the EU Data Act and what data access does it enable?
 
-!!! abstract
-The Data Act simplifies access to data from IoT devices, either 
-through direct access or via a statutory right to an API. However, 
-there are certain exemptions. 
+The Data Act (EU Regulation 2023/2854) is intended to enable **access to data** gathered by **IoT devices**[^1] from their surroundings.
+The regulation specifically addresses connected products and related services.
 
-The Data Act (EU Regulation 2023/2854) is intended to enable access to 
-data gathered by IoT devices from their surroundings. The regulation 
-specifically addresses connected products and related services.
+Data access can be achieved in two ways:
+*Access by Design* or by a *data access right*, either for users or on their behalf for third parties.
 
-Data access can be achieved in two ways: *Access‑by‑Design* or by a 
-*data‑access right*, either for users or on their behalf for third 
-parties.
+The basic idea is: 
+*The Data Act simplifies access to data from IoT devices, either through direct access or via a statutory right to an API.
+However, there are certain exemptions.*
 
-# Covered data  
+The EU Data Act will come into force in September 2025.
+
+[^1]: IoT stands for **Internet of Things**. It refers to the network of physical devices equipped with sensors and software that can communicate with each other via the internet.
+
+
+## Covered data  
 
 The Data Act only covers certain data types and the associated metadata.
 
-## Data
+### Data
 
-The Act covers only raw data. Derived data and data obtained 
-through “sensor fusion” are excluded because they represent an 
-independent value‑added process (e.g. the applied algorithm). 
-Likewise, data about “content”, i.e. information that is 
-copyright‑protected, is not covered. Note that most [data is not
-legally protected](/knowledgebase/legal/rights). 
+The Act covers only raw data.
+Derived data and data obtained through “sensor fusion” are excluded because they represent an independent value-added process (e.g. the applied algorithm). 
+Likewise, data about “content”, i.e. information that is copyright-protected, is not covered.
+Note that most data is not legally protected (&rarr; see [Data Rights](rights.md)). 
 
-Data that has been processed is covered as long as the processing does 
-not involve a substantial investment by the data holder.
+Data that has been processed is covered as long as the processing does not involve a substantial investment by the data holder.
 
-## Metadata
+### Metadata
 
-All data‑access rights in the Data Act also capture the metadata 
-associated with the data. These are data that describe the content or 
-usage of other data (Art. 2 Nr. 2 DA) and are necessary to use or 
-interpret the data. They also include information that explains what a 
-particular datum or value represents.
+All data access rights in the Data Act also capture the metadata associated with the data.
+These are data that describe the content or usage of other data (Art. 2 Nr. 2 DA)
+and are necessary to use or interpret the data.
 
-# Data access  
+They also include information that explains what a particular datum or value represents.
 
-## Access‑by‑Design
+
+## Data access  
+
+### Access‑by‑Design
 
 The Data Act focuses on direct and immediate access to data on the 
 device (Art. 3 DA). Only when this is not available do the rights for 
@@ -50,7 +48,7 @@ data access apply.
 When purchasing a connected product or a connected service, users must 
 be informed about the data the device generates.
 
-## Data Access for users and third parties
+### Data Access for users and third parties
 
 If direct access to the device’s data is not possible, the user has a 
 statutory right to access the data (Art. 4 § 1 DA). This right is more 
