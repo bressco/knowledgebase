@@ -273,3 +273,17 @@ A potential value that is only realised through evaluation is sufficient.[^34]
     GeschGehG, 20. Aufl. 2024, § 2 GeschGehG, Rn. 17.
 
 [^34]: *Ohly*, (Fn. 30), 441 (443) mwN.
+
+
+
+---
+# <small>Contributors</small>
+:fontawesome-solid-user: Constantin Breß [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-2133-1541)
+
+(*Last Update: 2025-09-25*)
+
+---
+#<small>How to cite this page?</small>
+Breß, C. (2025). *Data Rights*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/legal/rights](https://knowledgebase.fairagro.net/en/legal/rights). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+
+[![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)
