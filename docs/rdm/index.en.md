@@ -36,4 +36,5 @@ You can find an overview of our legal topics [here](../legal/index.md).
 ---
 #<small>How to cite this page?</small>
 Vedder, L. (2025). *RDM Agriculture*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/rdm/](https://knowledgebase.fairagro.net/en/rdm/). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+
 [![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)
