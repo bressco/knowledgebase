@@ -6,11 +6,6 @@ title: FAIRagro Knowledge Base
 
 # Welcome to the FAIRagro Knowledge Base! ![Logo Knowledge Base](./assets/FAIRagro_Knowledgebase_Logo-v11.png){ align=right }
 
-
-!!! warning "Note"
-    _This page is currently under construction!_
-
-
 The **FAIRagro Knowledge Base** is our central resource for questions, guides, tools, and legal issues in research data management (RDM) for the **agrosystem research community**.  
 Whether you are a researcher, data steward, developer, or simply curious about making agricultural research data more **FAIR** – you’ve come to the right place!
 

@@ -5,11 +5,6 @@ hide:
 
 # Willkommen bei der FAIRagro Knowledge Base! ![Logo Knowledge Base](./assets/FAIRagro_Knowledgebase_Logo-v11.png){ align=right }
 
-
-!!! warning "Hinweis" 
-    _Diese Seite befindet sich derzeit im Aufbau!_
-
-
 Die **FAIRagro Knowledge Base** ist unsere zentrale Ressource für Fragen, Anleitungen, Werkzeuge und rechtliche Fragen im Forschungsdatenmanagement (FDM) für die **Community der Agrosystemforschung**.  
 Egal, ob als Forschende, Datenbeauftragte, Entwickelnde oder ob ihr einfach nur neugierig darauf seid, landwirtschaftliche Forschungsdaten **FAIR** zu machen – hier seid ihr richtig!
 
