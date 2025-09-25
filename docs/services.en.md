@@ -75,4 +75,5 @@ In the meantime, please feel free to contact the [Helpdesk](https://fairagro.net
 ---
 #<small>How to cite this page?</small>
 Vedder, L. & Krumsieck, J. (2025). *FAIRagro Services*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/services/](https://knowledgebase.fairagro.net/en/services/). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+
 [![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)

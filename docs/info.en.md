@@ -47,4 +47,5 @@ The Knowledge Bases of some of these cluster consortia can be found here:
 ---
 #<small>How to cite this page?</small>
 Vedder, L., Schmidt, M. & Rey Mazón, E. (2025). *Network & More*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/info/](https://knowledgebase.fairagro.net/en/info/). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+
 [![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)
