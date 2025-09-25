@@ -23,7 +23,7 @@ Consequently, a contract can be entered into purely based on legal metadata, bas
 # <small>Contributors</small>
 :fontawesome-solid-user: Constantin Breß [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-2133-1541)
 
-(*Letztes Update: 2025-09-25*)
+(*Last Update: 2025-09-25*)
 
 ---
 #<small>How to cite this page?</small>
