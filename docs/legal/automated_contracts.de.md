@@ -1,6 +1,6 @@
 # Was sind automatisierte Verträge und wofür werden sie genutzt?
 
-Zur Erleichterung der Wiederverwendung von Daten, sei es durch Forschende oder „autonome“ Anwendungen, gibt es verschiedene Ansätze den Aufwand für rechtliche Aspekte durch Automatisierung zu reduzieren.
+Zur Erleichterung der Wiederverwendung von Daten, sei es durch Forschende oder „autonome“ Anwendungen, gibt es verschiedene Ansätze den Aufwand für rechtliche Aspekte (z.B. Lizenzbedingungen) durch Automatisierung zu reduzieren.
 
 ## Lizenzen & Datennutzungsvereinbarungen
 
