@@ -39,49 +39,51 @@ They also include information that explains what a particular datum or value rep
 
 ## Data access  
 
-### Access‑by‑Design
+### Access by Design
 
-The Data Act focuses on direct and immediate access to data on the 
-device (Art. 3 DA). Only when this is not available do the rights for 
-data access apply. 
+The Data Act focuses on direct and immediate access to data on the device (Art. 3 DA).
+Only when this is not available do the rights for data access apply. 
 
-When purchasing a connected product or a connected service, users must 
-be informed about the data the device generates.
+When purchasing a connected product or a connected service, users must be informed about the data the device generates.
 
 ### Data Access for users and third parties
 
-If direct access to the device’s data is not possible, the user has a 
-statutory right to access the data (Art. 4 § 1 DA). This right is more 
-limited than direct access. Data can be refused for three general 
-reasons:
+If direct access to the device’s data is not possible, the user has a statutory right to access the data (Art. 4 § 1 DA).
 
-* Protection of trade secrets  
-* Protection of PII
-* Security interests  
+This right is more limited than direct access.
+Data can be refused for three general reasons:
 
-However, data access cannot be refused purely for these reasons. For 
-example, a refusal based on trade secrets is only allowed if no other 
-protective measures (e.g., safeguards by the user) are feasible 
-(Art. 4 (6‑8) DA).
+- Protection of trade secrets  
+- Data protection
+- Security interests  
 
-Additional circumstances may lead to refusal or restriction of data 
-access:
+However, data access cannot be refused purely for these reasons.
+For example, a refusal based on trade secrets is only allowed if no other protective measures (e.g. safeguards by the user) are feasible (Art. 4 §§ 6-8 DA).
 
-* The data holder is a small or medium‑sized enterprise 
-  (Art. 7 (1) DA)
-* Data exchange would violate the antitrust prohibition of 
-  Art. 101 TFEU, Recital 116 DA
-* The data recipient is a gatekeeper as defined by the DMA
-  (Art. 5 (3) DA), e.g. Google or Amazon
+Additional circumstances may lead to refusal or restriction of data access:
 
-The user is the entity that either uses or owns the connected product 
-or uses the related service. Because connected products focus on 
-usage, temporary usage (e.g. rental) is also covered, which is 
-reflected in the information obligations in Art. 3 (2) DA that 
-explicitly reference rental or leasing.
+- The data holder is a small or medium-sized enterprise (Art. 7 § 1 DA)
+- Data exchange would violate the antitrust prohibition of Art. 101 TFEU, Recital 116 DA
+- The data recipient is a gatekeeper as defined by the DMA (Art. 5 § 3 DA), e.g. Google or Amazon
 
-Under similar conditions, the transfer of data to third parties (e.g., 
-research institutions) can be required. This is subject to the same 
-restrictions. Additionally, the data holder may demand compensation 
-from the third party when data is transferred within a commercial 
-relationship between companies (Art. 8 (1) DA).
+The user is the entity that either uses or owns the connected product or uses the related service.
+Because connected products focus on usage, temporary usage (e.g. rental) is also covered,
+which is reflected in the information obligations in Art. 3 § 2 DA that explicitly reference rental or leasing.
+
+Under similar conditions, the transfer of data to third parties (e.g. research institutions) can be required.
+This is subject to the same restrictions.
+Additionally, the data holder may demand compensation from the third party when data is transferred within a commercial relationship between companies (Art. 8 § 1 DA).
+
+
+
+---
+# <small>Contributors</small>
+:fontawesome-solid-user: Constantin Breß [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-2133-1541)
+
+(*Last Update: 2025-09-25*)
+
+---
+#<small>How to cite this page?</small>
+Breß, C. (2025). *EU Data Act*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/legal/access](https://knowledgebase.fairagro.net/en/legal/access). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+
+[![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)
