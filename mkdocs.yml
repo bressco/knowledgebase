@@ -68,7 +68,7 @@ plugins:
           build: true
           # English navigation
           nav:
-            - Getting started: index.en.md
+            - Getting Started: index.en.md
             - RDM Basics: basics.en.md
             - RDM Agriculture:
                 - rdm/index.en.md
@@ -77,7 +77,7 @@ plugins:
                 - Publishing Code FAIR: rdm/fair_code.en.md
             - RDM & Legal: 
                 - legal/index.en.md
-                - Data rights: legal/rights.en.md
+                - Data Rights: legal/rights.en.md
                 - EU Data Act: legal/access.en.md
                 - Automated Contracts: legal/automated_contracts.en.md
             - Further RDM Topics:
