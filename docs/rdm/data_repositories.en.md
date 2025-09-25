@@ -33,7 +33,7 @@ FAIRagro has set itself the goal of connecting existing research data infrastruc
 This is realized externally primarily through the [data search portal](https://datasets.search-hub.fairagro.net/) of the [FAIRagro Search Hub](../services.md/#fairagro-search-hub).
 
 In addition, a compilation of different infrastructures/repositories is also searchable according to various criteria.  
-This [infrastructure search](https://datasets.search-hub.fairagro.net/) is currently still under development, but the first functions are already available.
+This [infrastructure search](https://repositories.search-hub.fairagro.net/) is currently still under development, but the first functions are already available.
 
 
 
