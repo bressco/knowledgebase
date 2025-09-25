@@ -16,12 +16,9 @@ However, one focus is on the **legal classification of data** and the resulting 
 **Access** to various types of **“IoT data”**[^1] (such as from measuring sensors) can be opened up by the EU Data Act:  
 *What is the EU Data Act and what data access does it enable?* &rarr; [EU Data Act](access.md)
 
-**Automation** of contracts and agreements could simplify the work of 
-researchers. *What effect does that have on contracts?* 
+**Automation** of various **agreements and contracts** is intended to make researchers' work easier:  
+*What are automated contracts and what are they used for?* &rarr; [Automated Contracts](automated_contracts.md)
 
-Die **Automatisierung** verschiedener Vereinbarungen soll die Arbeit 
-Forschender erleichtern. *Wie wirkt sich das auf Verträge aus?* &rarr; 
-[Automated Contracts](automated_contracts.md)
 
 [^1]: IoT stands for **Internet of Things**. It refers to the network of physical devices equipped with sensors and software that can communicate with each other via the internet.
 
