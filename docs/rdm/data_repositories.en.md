@@ -30,10 +30,10 @@ Furthermore, each repo has a short description, lists type of resources, as well
 
 ## FAIRagro infrastructure search
 FAIRagro has set itself the goal of connecting existing research data infrastructures (RDIs) with one another.
-This is realized externally primarily through the data search portal of the [FAIRagro Search Hub](../services.md/#fairagro-search-hub).
-In addition, a compilation of different infrastructures/repositories will also be searchable according to various criteria.  
-This infrastructure search is currently still under construction.
-As soon as further information is available, you will find it here and on our FAIRagro website.
+This is realized externally primarily through the [data search portal](https://datasets.search-hub.fairagro.net/) of the [FAIRagro Search Hub](../services.md/#fairagro-search-hub).
+
+In addition, a compilation of different infrastructures/repositories is also searchable according to various criteria.  
+This [infrastructure search](https://datasets.search-hub.fairagro.net/) is currently still under development, but the first functions are already available.
 
 
 

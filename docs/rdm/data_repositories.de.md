@@ -30,10 +30,10 @@ Des Weiteren gibt es für jedes Repo eine Kurzbeschreibung, eine Zusammenfassung
 
 ## FAIRagro Infrastruktur-Suche
 FAIRagro hat es sich zum Ziel gesetzt, vorhandene Forschungsdateninfrastrukturen (research data infrastructures, RDIs) miteinander zu verbinden.
-Dies wird nach außenhin v.a. durch das Daten-Suchportal des [FAIRagro Search Hub](../services.md/#fairagro-search-hub) realisiert.
-Darüberhinaus wird aber auch eine Zusammenstellung verschiedener Infrastrukturen/Repositorien nach verschiedenen Kriterien durchsuchbar sein.  
-Diese Infrastruktur-Suche befindet sich derzeit noch im Aufbau.
-Sobald weitere Infromationen verfügbar sind, findet ihr diese hier und auf unserer FAIRagro Website.
+Dies wird nach außenhin v.a. durch das [Daten-Suchportal](https://datasets.search-hub.fairagro.net/) des [FAIRagro Search Hub](../services.md/#fairagro-search-hub) realisiert.
+
+Darüberhinaus ist aber auch eine Zusammenstellung verschiedener Infrastrukturen/Repositorien nach verschiedenen Kriterien durchsuchbar.  
+Diese [Infrastruktur-Suche](https://repositories.search-hub.fairagro.net/) befindet sich derzeit noch im Aufbau, erste Funktionen sind aber bereits verfügbar.
 
 
 
