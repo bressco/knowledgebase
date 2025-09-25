@@ -40,6 +40,7 @@ Folgende (rechtliche) Fragen kommen dabei zur Sprache:
 - [Von der Forschung zur Verschwörung: Mittel gegen Missbrauch von Publikationen](https://fairagro.net/von-der-forschung-zur-verschwoerung-mittel-gegen-missbrauch-von-publikationen/) Was tun, wenn Forschung für die Verbreitung von Verschwörungstheorien missbraucht wird?
 - [Freie Fahrt? Die Schranken des Urheberrechts](https://fairagro.net/freie-fahrt-die-schranken-des-urheberrechts/)
 - [CCPL-Praxiskommentar und Handbuch: Gute Nachrichten für die Forschung!](https://fairagro.net/ccpl-praxiskommentar-und-handbuch-gute-nachrichten-fuer-die-forschung/) Zur Erscheinung des ersten juristischen Kommentars zu allen Fragen rund um die Creative Commons Public License (CCPL)
+- [Die eigene Publikation (nach-)nutzen](https://fairagro.net/die-eigene-publikation-nach-nutzen-das-gilt/) – das gilt
 
 
 ## Trainingsmöglichkeiten

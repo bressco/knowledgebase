@@ -40,6 +40,7 @@ The following (legal) questions arise in this context:
 - [Von der Forschung zur Verschwörung: Mittel gegen Missbrauch von Publikationen](https://fairagro.net/von-der-forschung-zur-verschwoerung-mittel-gegen-missbrauch-von-publikationen/) What to do when research is misused to spread conspiracy theories? (*German only*)
 - [Freie Fahrt? Die Schranken des Urheberrechts](https://fairagro.net/freie-fahrt-die-schranken-des-urheberrechts/) About copyright (*German only*)
 - [CCPL-Praxiskommentar und Handbuch: Gute Nachrichten für die Forschung!](https://fairagro.net/ccpl-praxiskommentar-und-handbuch-gute-nachrichten-fuer-die-forschung/) On the publication of the first legal commentary on all issues relating to the Creative Commons Public Licence (CCPL) (*German only*)
+- [Die eigene Publikation (nach-)nutzen](https://fairagro.net/die-eigene-publikation-nach-nutzen-das-gilt/) (Re-)use of own publications (*German only*)
 
 
 ## Training opportunities
