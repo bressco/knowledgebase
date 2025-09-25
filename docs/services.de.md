@@ -30,7 +30,7 @@ Weitere Optionen sind derzeit in der Entwicklung.
 
 Die zweite Suchfunktion des FAIRagro Search Hubs ist die **Infrastruktursuche**.
 Während sich die Datensuche auf der Auffinden bereits existierender Datensätze zur Nachnutzung fokusiert, bietet die Infrastruktursuche die Möglichkeit nach geeigneten RDIs zur Publikation der eigenen Daten zu suchen.  
-Aktuell befindet sich die Infrastruktursuche noch in der Entwicklung, wird aber in Kürze verfügbar sein.
+Aktuell befindet sich die Infrastruktursuche noch in der Entwicklung, erste Funktionen sind aber bereits verfügbar.
 
 Das Entwicklerteam des FAIRagro Search Hubs arbeitet eng mit den Experten in FAIRagro, insbes. den Use Cases zusammen, um die Platform möglichst nah an den Bedürfnissen der Community zu entwickeln.
 Zusätzlich ist jede*r, die/der den Search Hub nutzt, eingeladen über die grüne Feedback-Box an der rechten Seite des Bildschirms, Kommentare und Anregungen zu hinterlassen.
