@@ -55,7 +55,7 @@ Further information on the (general) training opportunities can be found [here](
 :fontawesome-solid-user: Lucia Vedder [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-8924-9800),
 :fontawesome-solid-user: Constantin Breß [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-2133-1541)
 
-(*Last Update: 2025-09-11*)
+(*Last Update: 2025-09-25*)
 
 ---
 #<small>How to cite this page?</small>
