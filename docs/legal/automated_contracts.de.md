@@ -28,4 +28,5 @@ Damit kann ein Vertrag auch auf Grundlage von „juristischen“ Metadaten zusta
 ---
 #<small>Wie zitiert man diese Seite?</small>
 Breß, C. (2025). *Automatisierte Verträge*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/legal/automated_contracts](https://knowledgebase.fairagro.net/legal/automated_contracts). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+
 [![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)

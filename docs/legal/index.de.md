@@ -60,4 +60,5 @@ Weitere Infos zu den (allgemeinen) Trainingsmöglichkeiten findet ihr [hier](../
 ---
 #<small>Wie zitiert man diese Seite?</small>
 Vedder, L. & Breß, C. (2025). *FDM & Recht*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/legal/](https://knowledgebase.fairagro.net/legal/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+
 [![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)

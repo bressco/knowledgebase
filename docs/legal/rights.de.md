@@ -285,4 +285,5 @@ Ein potentieller, erst durch Auswertung realisierter Wert genügt dabei vollkomm
 ---
 #<small>Wie zitiert man diese Seite?</small>
 Breß, C. (2025). *Rechte an Daten*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/legal/rights](https://knowledgebase.fairagro.net/legal/rights). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+
 [![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)
