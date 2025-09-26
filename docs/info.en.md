@@ -32,7 +32,7 @@ The Knowledge Bases of some of these cluster consortia can be found here:
 - [Knowledge Base NFDI4Chem](https://knowledgebase.nfdi4chem.de/knowledge_base/docs/intro/?userLocale=true){:target="_blank"}
 - [Knowledge Base DataPlant](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/){:target="_blank"}
 - [Knowledge Base NFDI4Biodiversity](https://kb.gfbio.org/display/KB/Knowledge+Base+-+Information+and+Services+around+Biodiversity+Data){:target="_blank"}
-- [Knowledge Base NFDI4Microbiota](https://knowledgebase.nfdi4microbiota.de/Getting-Started/01-introduction.html){:target="_blank"}
+- [Knowledge Base NFDI4Microbiota](https://knowledgebase.nfdi4microbiota.de){:target="_blank"}
 
 
 
