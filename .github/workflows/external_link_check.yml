@@ -3,7 +3,7 @@ name: Offline Check for dead links
 on:
   workflow_dispatch:
   schedule:
-    - cron: "00 20 * * *"
+    - cron: "0 0 * * MON"
 
 permissions:
   contents: read
