@@ -1,4 +1,4 @@
-name: Offline Check for dead links
+name: Internal Links
 
 on:
   push:
