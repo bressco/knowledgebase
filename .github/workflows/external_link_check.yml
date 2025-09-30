@@ -29,6 +29,13 @@ jobs:
       - name: Build
         run: mkdocs build
 
+      - name: Restore lychee cache
+        uses: actions/cache@v4
+        with:
+          path: .lycheecache
+          key: cache-lychee-${{ github.sha }}
+          restore-keys: cache-lychee-
+
       - name: Check offline links
         id: lychee-check
         uses: lycheeverse/lychee-action@v2.0.2
