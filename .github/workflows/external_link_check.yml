@@ -1,4 +1,4 @@
-name: Offline Check for dead links
+name: Check for dead external links
 
 on:
   workflow_dispatch:
