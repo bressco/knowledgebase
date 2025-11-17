@@ -26,17 +26,19 @@ ein Programm lediglich Baustein einer größeren Erfindung (etwa eines
 Systems zur automatisierten Unkrautbeseitigung), ist die
 Patentierbarkeit allerdings möglich.[^3]
 
-Damit verbleibt einzig der Geschäftsgeheimnisschutz. Dieser setzt aktive
-Geheimhaltung der zu schützenden Informationen, also hier: der Weights,
-voraus. Mit den Grundsätzen offener Wissenschaft ist diese allerdings
-nur bedingt vereinbar.
+Damit verbleiben der Geschäftsgeheimnisschutz und der faktische Zugang.
+Beide setzen in gewisser Weise aktive Geheimhaltung der zu schützenden Informationen, also
+hier: der Weights, voraus. Mit den Grundsätzen offener Wissenschaft ist diese
+allerdings nur bedingt vereinbar.
 
-[^1]: *Breß*/*Singson*, in:
-    *Heuveline*/*Kling*/*Heuschkel*/*Habinger*/*Krömer* (Hrsg.),
+[^1]:
+    _Breß_/_Singson_, in:
+    _Heuveline_/_Kling_/_Heuschkel_/_Habinger_/_Krömer_ (Hrsg.),
     E-Science-Tage 2025. Research Data Management: Challenges in a
     Changing World 2025, S. 210.
 
-[^2]: *Borutta*, in: *Hoeren*/*Pinelli* (Hrsg.), Künstliche Intelligenz
+[^2]:
+    _Borutta_, in: _Hoeren_/_Pinelli_ (Hrsg.), Künstliche Intelligenz
     -Ethik und Recht 2022, S. 352--354.
 
-[^3]: *Borutta*, ebd., S. 355--358.
+[^3]: _Borutta_, ebd., S. 355--358.
